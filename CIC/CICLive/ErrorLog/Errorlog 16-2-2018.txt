@@ -1,0 +1,30 @@
+02/16/2018 11:12:07 AM
+   at Reports_BRMHistory.Page_Load(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\Reports\BRMHistory.aspx.cs:line 31-->Object reference not set to an instance of an object.
+02/16/2018 11:12:46 AM
+   at Reports_BRMHistory.Page_Load(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\Reports\BRMHistory.aspx.cs:line 31-->Object reference not set to an instance of an object.
+02/16/2018 11:14:13 AM
+   at Reports_BRMHistory.Page_Load(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\Reports\BRMHistory.aspx.cs:line 31-->Object reference not set to an instance of an object.
+02/16/2018 4:07:47 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_SCTR.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2355
+   at pages_SCTR.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2299-->Error: Value was either too large or too small for an Int16.Couldn't store <33036> in Product_SNo Column.  Expected type is Int16. Method name: set_Item LineNo: 0
+02/16/2018 4:11:50 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_SCTR.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2355
+   at pages_SCTR.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2299-->Error: Value was either too large or too small for an Int16.Couldn't store <33036> in Product_SNo Column.  Expected type is Int16. Method name: set_Item LineNo: 0
+02/16/2018 4:18:46 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_SCTR.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2355
+   at pages_SCTR.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2299-->Error: Value was either too large or too small for an Int16.Couldn't store <33036> in Product_SNo Column.  Expected type is Int16. Method name: set_Item LineNo: 0
+02/16/2018 4:26:18 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_SCTR.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2355
+   at pages_SCTR.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\SCTR.aspx.cs:line 2299-->Error: Value was either too large or too small for an Int16.Couldn't store <33036> in Product_SNo Column.  Expected type is Int16. Method name: set_Item LineNo: 0

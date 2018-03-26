@@ -1,0 +1,18 @@
+
+
+1/9/2014 03:37:21 PM---------------
+Step 1: SaveConfirmedBill() Completed
+1/9/2014 03:37:21 PM---------------
+Step 2: SaveTextfile Completed
+1/9/2014 03:37:21 PM---------------
+12/3/2013 12:00:00 AM|BA|CG|1/9/2014 03:37:21 PM|INR|178|Pym1419153713|WAAA0997|6950|WAAA|rewinding charges for oct-13|436403|1041650|YA|Y
+1/9/2014 03:37:23 PM---------------
+Step 3: CG Service Requested.
+1/9/2014 03:38:04 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+1/9/2014 03:38:04 PM---------------
+Step 5: Text File Generation Start.
+1/9/2014 03:39:27 PM---------------
+Step 5: Text File Generated.
+1/9/2014 03:39:27 PM---------------
+Step 7: Pym1419153713Processed Successfully.

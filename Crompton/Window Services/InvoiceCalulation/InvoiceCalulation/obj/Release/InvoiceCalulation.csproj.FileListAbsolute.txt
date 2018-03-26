@@ -1,0 +1,8 @@
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\bin\Release\App.config
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\bin\Release\InvoiceCalulation.exe.config
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\bin\Release\InvoiceCalulation.exe
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\bin\Release\InvoiceCalulation.pdb
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Release\InvoiceCalulation.ProjectInstaller.resources
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Release\InvoiceCalulation.csproj.GenerateResource.Cache
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Release\InvoiceCalulation.exe
+D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Release\InvoiceCalulation.pdb

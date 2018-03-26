@@ -1,0 +1,36 @@
+
+
+8/22/2013 01:02:36 PM---------------
+Step 1: SaveConfirmedBill() Completed
+8/22/2013 01:02:40 PM---------------
+Step 2: SaveTextfile Completed
+8/22/2013 01:03:05 PM---------------
+8/13/2013 12:00:00 AM|BA|CG|8/22/2013 01:02:42 PM|INR|IHJYU48|Pym13822130225|WAAA0098|176450|WAAA|OK all|436403|1051431|I1|N
+8/22/2013 01:03:30 PM---------------
+Step 3: CG Service Requested.
+8/22/2013 01:03:39 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 5
+8/22/2013 01:03:39 PM---------------
+Step 5: Text File Generation Start.
+8/22/2013 01:06:21 PM---------------
+Step 5: Text File Generated.
+8/22/2013 01:06:21 PM---------------
+Step 7: Pym13822130225Processed Successfully.
+
+
+8/22/2013 02:16:28 PM---------------
+Step 1: SaveConfirmedBill() Completed
+8/22/2013 02:16:28 PM---------------
+Step 2: SaveTextfile Completed
+8/22/2013 02:16:32 PM---------------
+8/13/2013 12:00:00 AM|BA|CG|8/22/2013 02:16:28 PM|INR|INH678|Pym13822141610|WAAA0098|37555|WAAA|INj78789|436403|1211121|JS|Y
+8/22/2013 02:16:36 PM---------------
+Step 3: CG Service Requested.
+8/22/2013 02:16:46 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 5
+8/22/2013 02:16:46 PM---------------
+Step 5: Text File Generation Start.
+8/22/2013 02:19:21 PM---------------
+Step 5: Text File Generated.
+8/22/2013 02:19:21 PM---------------
+Step 7: Pym13822141610Processed Successfully.

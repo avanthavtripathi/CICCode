@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+public partial class SIMS_Reports_Sparelist : System.Web.UI.Page
+{
+    #region variable and class declare
+    BasicSpareMaster objBasicSpare = new BasicSpareMaster();
+    SIMSCommonClass objCommonClass = new SIMSCommonClass();
+
+    SqlParameter[] sqlParamSrh =
+        {
+            new SqlParameter("@Type","SEARCH"),
+            new SqlParameter("@Column_name",""),
+            new SqlParameter("@SearchCriteria",""),
+            new SqlParameter("@Active_Flag",""),
+            new SqlParameter("@EmpCode",""),
+            new SqlParameter("@ProductDivision_Id",0)
+
+        };
+    #endregion
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+
+    protected void GenerateExcel()
+    {
+        Response.ClearContent();
+        Response.AddHeader("Content-Disposition", "attachment;filename=SpareRpt.xls");
+        Response.ContentType = "application/ms-excel";
+        System.IO.StringWriter stringWrite = new System.IO.StringWriter();
+        System.Web.UI.HtmlTextWriter htmlWrite = new HtmlTextWriter(stringWrite);
+        DataSet dsExport = new DataSet();
+        sqlParamSrh[1].Value = ddlSearch.SelectedValue.ToString();
+        sqlParamSrh[2].Value = txtSearch.Text.Trim();
+        sqlParamSrh[3].Value = rdoboth.SelectedValue.ToString();
+        sqlParamSrh[4].Value = User.Identity.Name;
+        sqlParamSrh[5].Value = Convert.ToInt32(DDlProdDiv.SelectedValue);
+        dsExport = objCommonClass.BindDataGrid(GvExcel, "uspSpareMaster", true, sqlParamSrh, true);
+
+        GvExcel.DataSource = dsExport;
+        GvExcel.DataBind();
+        GvExcel.RenderControl(htmlWrite);
+        Response.Write(stringWrite.ToString());
+        Response.End();
+
+    }
+}

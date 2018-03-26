@@ -1,0 +1,15 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" MasterPageFile="~/SIMS/MasterPages/SIMSCICPage.master" CodeFile="SAPIntregate.aspx.cs" Inherits="SIMS_Pages_SAPIntregate" %>
+
+
+ <asp:Content ID="Content1" ContentPlaceHolderID="MainConHolder" Runat="Server">
+<asp:UpdatePanel ID="updatepnl" runat="server">
+<ContentTemplate>
+<table >
+<tr><td>  <asp:Button ID="imgBtnSAP" Width="70px" runat="server" CausesValidation="false"
+                                                        CssClass="btn" Text="Push To SAP" onclick="imgBtnSAP_Click"  />
+                                                        <asp:Label ID="lblmsg" runat=server></asp:Label>
+                                                        
+                                                        </td></tr></table>
+</ContentTemplate>
+</asp:UpdatePanel>
+</asp:Content>

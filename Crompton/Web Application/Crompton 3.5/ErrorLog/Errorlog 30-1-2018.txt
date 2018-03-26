@@ -1,0 +1,49 @@
+01/30/2018 3:19:55 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 461
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 308-->An item with the same key has already been added.
+01/30/2018 3:58:45 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 461
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 308-->An item with the same key has already been added.
+01/30/2018 3:58:56 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 461
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 198-->An item with the same key has already been added.
+01/30/2018 3:59:13 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 461
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 198-->An item with the same key has already been added.
+01/30/2018 3:59:57 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 460
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 308-->An item with the same key has already been added.
+01/30/2018 4:00:08 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 460
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 198-->An item with the same key has already been added.
+01/30/2018 4:01:07 PM
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Defect.ProductDivision(String division) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 460
+   at pages_PrintCallSlipCP.MeargeHTMLBody(String natureOfComplaint) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 322
+   at pages_PrintCallSlipCP.BindRecord() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\pages\PrintCallSlipCP.aspx.cs:line 308-->An item with the same key has already been added.

@@ -1,0 +1,47 @@
+08/01/2016 3:14:33 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SIMS_Pages_ClosureApproval.BindgvConfirmation() in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Pages\ClosureApproval.aspx.cs:line 148-->Input string was not in a correct format.
+08/01/2016 3:59:29 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 126
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlDivision_SelectedIndexChanged(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 129-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+08/01/2016 4:03:31 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 126
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlDivision_SelectedIndexChanged(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 129-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

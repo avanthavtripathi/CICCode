@@ -1,0 +1,68 @@
+﻿Imports Microsoft.VisualBasic
+Imports System.Text
+Imports System.Net
+Imports System.IO
+Imports System.Web.HttpUtility
+Imports System.Web.UI.Page
+
+
+Public Class clsCGAuthentication
+    Public Shared Function CGUserAuthentication(ByVal strUserId As String, ByVal strPassWord As String, ByRef strMessage As String) As Boolean
+
+        Dim objEncr As Object
+
+        Dim ObjUI As New System.Web.UI.Page()
+        objEncr = ObjUI.Server.CreateObject("HRISEncr.encr")
+        Dim strEncrpassword As String
+        Dim strURlEncode As String
+        strEncrpassword = objEncr.getEncrValue(strPassWord) 'Function to encrypt password
+        strURlEncode = URLEncode(strEncrpassword)
+        'sdfahas
+
+
+        Dim strUrl As String
+        strUrl = "https://cghr4u.cgl.co.in/login/chkauth.asp?login=" & strUserId & "&pwd=" & strURlEncode
+        Dim obj As New WebClient()
+        Dim objTemp As Stream
+        objTemp = obj.OpenRead(strUrl)
+
+
+        Dim objStreamReader As New StreamReader(objTemp)
+        Dim strLines As String
+        strLines = objStreamReader.ReadToEnd
+        If Not InStr(strLines, "Invalid") > 0 Then
+            strMessage = "Vaild"
+            Return True
+        Else
+            strMessage = strLines
+            Return False
+        End If
+
+
+    End Function
+    Private Shared Function URLEncode(ByVal str As String) As String
+        Dim strTemp, strChar As String
+        strTemp = ""
+        strChar = ""
+        Dim nTemp, nAsciiVal As Integer
+
+        For nTemp = 1 To Len(str)
+            nAsciiVal = Asc(Mid(str, nTemp, 1))
+            If ((nAsciiVal < 123) And (nAsciiVal > 96)) Then
+                strTemp = strTemp & Chr(nAsciiVal)
+            ElseIf ((nAsciiVal < 91) And (nAsciiVal > 64)) Then
+                strTemp = strTemp & Chr(nAsciiVal)
+            ElseIf ((nAsciiVal < 58) And (nAsciiVal > 47)) Then
+                strTemp = strTemp & Chr(nAsciiVal)
+            Else
+                strChar = Trim(Hex(nAsciiVal))
+                If nAsciiVal < 16 Then
+                    strTemp = strTemp & "%0" & strChar
+                Else
+                    strTemp = strTemp & "%" & strChar
+                End If
+            End If
+        Next
+        URLEncode = strTemp
+    End Function
+End Class

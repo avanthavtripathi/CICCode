@@ -1,0 +1,189 @@
+﻿.mainarea {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		text-decoration: none;
+		padding-left:0px;
+		background-color:#FFFFFF;
+	/*border:1px solid #eeeeee;*/
+}
+.bgcolorcomm
+{
+		border:1px solid #eeeeee; 
+		background-color:#F9F9F9;
+		padding:10px;
+}
+
+/* Menu Styles-------------------------------------------------- */
+.menustatic 
+{
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		color:#ffffff;
+		padding-left:1px;
+		padding-right:0px;
+}
+
+.menustatichover 
+{
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		padding-left:1px;
+		padding-right:0px;
+}
+
+.menudynamic 
+{
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		color:#ffffff;
+		height:20px;
+		padding-left:1px;
+		padding-right:1px;
+		background-color:#60A3AC;
+		border-top:solid 1px #ffffff;
+}
+
+.menudynamichover 
+{
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		color:#000000;
+		background-color:#CBE0E4;
+		height:20px;
+	
+}
+
+
+#dv a:link {color:#396870;line-height:18px;text-decoration:underline}
+#dv a:visited {color:#396870;line-height:18px; text-decoration:underline}
+#dv a:hover {color:#000000;line-height:18px; text-decoration:none} 
+
+/* Menu Styles End-----------------------1453e2   396870----------- 325961---------------- */
+ .dvInsert
+        {
+            display:none;
+            border:solid 1px #1453e2;
+            position:absolute;
+            padding:5px;
+            z-index:5;
+            background-color:white;
+        }
+
+/* Call registration Tab Style Start --------------------------------------------------*/
+
+.SelectedStyle
+{
+		background-color: scrollbar;
+		border-right: black 0px solid;
+		border-top: black 0px solid;
+		border-left: black 0px solid;
+		border-bottom: black 0px solid;
+}
+
+.UnSelectedStyle
+{
+		background-color: #99cccc;
+		border-right: 1px solid;
+		border-top: 1px solid;
+		border-left: 1px solid;
+		border-bottom: 1px solid;
+}
+	/* Call registration Tab Style End-------------------------------------------------- */
+ 
+
+	/* start (profile tab setting)--------------------------------------------------*/
+
+#tablist{ 
+			font-family:tahoma, Verdana, Arial, Helvetica, sans-serif;
+			padding: 3px 0;
+			font-size:11px;
+			margin-left: 0;
+			margin-bottom: 0;
+			margin-top: 0.1em;	
+}
+
+#tablist li{
+			 font-family:tahoma, Verdana, Arial, Helvetica, sans-serif;
+			list-style: none;
+			display: inline;
+			margin: 0;
+}
+
+#tablist li a{
+			padding: 5px 0.5em;
+			margin-left: 3px;
+			color:#1453e2;
+}
+
+#tablist li a:visited{
+			color:#1453e2;
+}
+
+#tablist li a:hover{
+			color:#000000;
+}
+
+#tablist li a.current{
+			color:#E18200;
+	
+}
+
+#tabcontentcontainer{
+			width: 100%;
+			padding: 0px;
+}
+
+
+.tabcontent{
+			display:none;
+			background-color:#ffffff;
+}
+
+.headingred {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			font-weight: bold;
+			color: #6197D5;
+			text-decoration: none;
+			/*height:25px;*/
+			padding-left:5px;
+			padding-bottom:8px;
+}
+.headingredWSC {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 15px;
+			font-weight: bold;
+			color: #6197D5;
+			text-decoration: none;			
+			padding-left:5px;
+			padding-bottom:8px;
+}
+
+/* end (profile tab setting)--------------------------------------------------*/
+
+
+/* New Styles -------------------------------------------------------------*/
+
+
+.topTablebg { background-color:#f3fdfe}
+.topUser
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		text-decoration: none;
+		
+		
+}
+
+.hideRow
+{
+	visibility:hidden;
+		
+}
+
+.tdPad
+{
+padding-right:5px;
+text-align:right;
+}

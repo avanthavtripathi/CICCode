@@ -1,0 +1,21 @@
+﻿body {
+}
+.cls{ clear:both; border-top:1px solid #B36666;}
+.clse{clear:both;}
+.dvsusr{width:13%; float:left; margin-right:1%; margin-left:2px;}
+.dvsusl{ width:80%; float:left; margin-right:1%; border-right:1px solid #B36666; margin-left:2px;}
+.dvMain{width:24%; background-color:#F8F8F8; text-align:left!important; border:2px solid #339933; border-radius:5px; display:none; z-index:9999; 
+        position:absolute; max-height:400px; overflow-x:hidden; overflow-y:scroll; margin-right:1px; right:8px; top:15px;}
+#sus:hover .dvMain{display:block;}
+.suscount{webkit-border-radius: 1px; -moz-border-radius: 1px; -ms-border-radius: 2px; -o-border-radius: 1px; border-radius: 1px; padding:0px 5px 0px 5px; 
+        font-size: 12px; color: #fff; font-weight: normal; text-shadow: 1px 1px 1px rgba(0,0,0,0.75);
+        background: #0058a6; font-size: 10px; left: 32px; top: 5px; text-indent: 0;}
+#aNotification:hover .dvMain{display:block;}
+
+.loading
+{
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  filter: alpha(opacity=80); -moz-opacity: 0.8; -khtml-opacity: 0.8;
+  opacity: 0.8; display:none; width:100%; height:100%; text-align:center;
+  position:absolute;  z-index:10000;  background-color:#000;
+  }

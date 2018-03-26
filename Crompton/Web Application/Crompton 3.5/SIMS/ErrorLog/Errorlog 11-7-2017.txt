@@ -1,0 +1,98 @@
+07/11/2017 1:36:21 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   at System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.FanSummary(String month, String year, String ASC) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 622-->Conversion failed when converting the nvarchar value 'SAMARTH ELECTRICAL' to data type int.
+07/11/2017 1:38:39 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   at System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.FanSummary(String month, String year, String ASC) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 623-->Conversion failed when converting the nvarchar value 'SAMARTH ELECTRICAL' to data type int.
+07/11/2017 1:38:55 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.HasMoreRows()
+   at System.Data.SqlClient.SqlDataReader.ReadInternal(Boolean setTimeout)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.FanSummary(String month, String year, String ASC) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 623-->Conversion failed when converting the nvarchar value 'SAMARTH ELECTRICAL' to data type int.
+07/11/2017 3:23:53 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 600-->Thread was being aborted.
+07/11/2017 3:25:41 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 600-->Thread was being aborted.
+07/11/2017 3:27:26 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 600-->Thread was being aborted.
+07/11/2017 3:30:01 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 601-->Thread was being aborted.
+07/11/2017 3:37:58 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 602-->Thread was being aborted.
+07/11/2017 3:40:31 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 602-->Thread was being aborted.
+07/11/2017 3:59:01 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at System.Web.HttpResponse.Redirect(String url)
+   at SIMS_Pages_RejectedClaimScreenASCFan.Page_Load(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\RejectedClaimScreenASCFan.aspx.cs:line 41-->Thread was being aborted.
+07/11/2017 4:15:24 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 599-->Thread was being aborted.
+07/11/2017 4:18:19 PM
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.End()
+   at SIMS_Reports_simsinvoiceNew.btnsummery_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 600-->Thread was being aborted.

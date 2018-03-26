@@ -1,0 +1,181 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+public partial class SIMS_Pages_SparePurchaseOutsideApprovalm : System.Web.UI.Page
+{
+    SIMSCommonClass objCommonClass = new SIMSCommonClass();
+    SIMSCommonMISFunctions objCommonMIS = new SIMSCommonMISFunctions();
+    ASCSparePurchaseOutside objASCSparePurchaseOutside = new ASCSparePurchaseOutside();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        try
+        {
+            objCommonMIS.EmpId = Membership.GetUser().UserName.ToString();
+            objCommonMIS.BusinessLine_Sno = "2";
+            objCommonMIS.RegionSno = "0";
+            objCommonMIS.BranchSno = "0";
+
+            if (!Page.IsPostBack)
+            {
+                objASCSparePurchaseOutside.RegionSno = "0";
+                objASCSparePurchaseOutside.UserName = Membership.GetUser().UserName.ToString();
+                objASCSparePurchaseOutside.GetUserRegions(ddlRegion);
+                objASCSparePurchaseOutside.GetUserBranchs(ddlBranch);
+                if (objCommonMIS.CheckLoogedInASC() > 0)
+                {
+
+                    objCommonMIS.GetSCs(ddlASC);
+                    if (ddlASC.Items.Count == 2)
+                    {
+                        ddlASC.SelectedIndex = 1;
+                    }
+
+                }
+                else
+                {
+                    objCommonMIS.GetUserSCs(ddlASC);
+                    if (ddlASC.Items.Count == 2)
+                    {
+                        ddlASC.SelectedIndex = 1;
+                    }
+
+
+                }
+                objASCSparePurchaseOutside.ProductDivision_Id = 0;
+                // objASCSparePurchaseOutside.GetAllProductDivision(ddlProductDivison);
+
+
+                objCommonClass.SelectASC_Name_Code(Membership.GetUser().UserName.ToString());
+
+                ddlRegion_SelectedIndexChanged(ddlRegion, null);
+
+            }
+            System.Threading.Thread.Sleep(int.Parse(ConfigurationManager.AppSettings["AjaxPleaseWaitTime"]));
+        }
+        catch (Exception ex)
+        {
+            SIMSCommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+    }
+
+    protected void ddlASC_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        if (ddlASC.SelectedIndex != 0)
+            objASCSparePurchaseOutside.ASC_Id = Convert.ToInt32(ddlASC.SelectedValue);
+        objASCSparePurchaseOutside.RegionSno = ddlRegion.SelectedValue;
+        objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+        objASCSparePurchaseOutside.GetBillsForApprovalMain(GvDetails);
+
+    }
+
+    protected void ddlRegion_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        try
+        {
+            objASCSparePurchaseOutside.UserName = Membership.GetUser().UserName.ToString();
+            objASCSparePurchaseOutside.RegionSno = ddlRegion.SelectedValue;
+            objASCSparePurchaseOutside.GetUserBranchs(ddlBranch);
+
+            objCommonMIS.BranchSno = ddlBranch.SelectedValue;
+            objCommonMIS.GetUserSCs(ddlASC);
+            if (ddlASC.Items.Count == 2)
+            {
+                ddlASC.SelectedIndex = 1;
+            }
+            ddlBranch_SelectedIndexChanged(ddlBranch, null);
+
+        }
+        catch (Exception ex)
+        {
+            SIMSCommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+
+    }
+
+    protected void ddlBranch_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        try
+        {
+
+            objCommonMIS.RegionSno = ddlRegion.SelectedValue;
+            objCommonMIS.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.GetSCs(ddlASC, Convert.ToInt32(ddlBranch.SelectedValue));
+            objASCSparePurchaseOutside.ASC_Id = 0;
+            if (ddlASC.Items.Count == 2)
+            {
+                ddlASC.SelectedIndex = 1;
+            }
+            ddlASC_SelectedIndexChanged(ddlASC, null);
+        }
+        catch (Exception ex)
+        {
+            SIMSCommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+
+    }
+
+    protected void imgBtnApprove_Click(object sender, EventArgs e)
+    {
+        Label lbldocno;
+        String strSuc = "";
+       foreach (GridViewRow gr in GvDetails.Rows)
+        {
+          
+            if (gr.RowType == DataControlRowType.DataRow)
+            {
+                if ((gr.FindControl("chkChild") as CheckBox).Checked)
+                {
+                    lbldocno = gr.FindControl("lbldocno") as Label;
+                    objASCSparePurchaseOutside.AutoGeneratedNumber = lbldocno.Text;
+                    objASCSparePurchaseOutside.UserName = Membership.GetUser().UserName.ToString();
+                    objASCSparePurchaseOutside.IsApproved = true;
+                    strSuc = objASCSparePurchaseOutside.ApprovalBillsMain();
+                }
+            }
+        }
+       
+
+
+       if (objASCSparePurchaseOutside.ReturnValue == -1)
+        {
+            lblMessage.Text = SIMSCommonClass.getErrorWarrning(SIMSenuErrorWarrning.ErrorInStoreProc, SIMSenuMessageType.Error, false, "");
+        }
+        else
+        {
+            lblMessage.Text = "Bill(s) Approved Sucessfully.";
+            objASCSparePurchaseOutside.RegionSno = "0";
+            objASCSparePurchaseOutside.BranchSno = "0";
+            objASCSparePurchaseOutside.AutoGeneratedNumber = "";
+            objASCSparePurchaseOutside.GetBillsForApprovalMain(GvDetails);
+        }
+
+
+    }
+
+    protected void imgBtnClose_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    protected void lnkview_Click(object sender, EventArgs e)
+    {
+        GridViewRow row = (GridViewRow)(((LinkButton)(sender)).NamingContainer);
+        LinkButton lnkview = (LinkButton)row.FindControl("lnkview");
+        Label docno = (Label)row.FindControl("lbldocno");
+        ScriptManager.RegisterClientScriptBlock(lnkview, GetType(), "", "window.open('SparePurchaseOutsideApproval.aspx?docno=" + docno.Text + "','111','width=1000,height=650,scrollbars=1,resizable=no,top=1,left=1');", true);
+    }
+
+
+  
+}

@@ -1,0 +1,63 @@
+﻿body {
+}
+.quantity{width:10%; text-align:right!important;}
+.description{width:50%;}
+.unitprice{width:15%; text-align:right!important;}
+.amount{width:15%; text-align:right!important;}
+.ascheader{width:67%;}
+.invoicedtsl{width:24%;}
+.invoicedtsl1{width:9%;}
+.table_border
+{
+	width:100%; 
+	border:1px solid #b5b5b6!important; 
+	color:Black; 
+	border-collapse:collapse;
+}
+.table_border td{ padding:2px 5px; border:1px solid #c4c5c6;}
+.page1 
+ {
+ 	width:21cm;
+ 	max-height:29.7cm!important;
+ 	min-height:29.7cm!important;
+ 	}
+ .page {
+    width: 21cm;
+    min-height: 29.7cm;
+    padding-top: 1cm;
+    /*padding-left: 2cm;
+    padding-right: 2cm;
+    margin: 1cm auto;*/
+    margin: 0cm auto;
+    padding-bottom: 1cm;    
+    background: white;
+}
+* {
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+    }
+.subpage {
+    padding: 1cm;
+    height: 256mm;
+    outline: 2cm #FFEAEA solid;
+}
+
+@page {
+    size: A4;
+    margin: 0;
+}
+@media print {
+    .page {
+        margin: 0;
+        border: initial;
+        border-radius: initial;
+        width: initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        /*page-break-after: always;*/
+        page-break-after: auto;
+    }
+}
+
+

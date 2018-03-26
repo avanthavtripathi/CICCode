@@ -1,0 +1,243 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+public partial class SIMS_Pages_gried : System.Web.UI.Page
+{
+    SIMSSqlDataAccessLayer objsql = new SIMSSqlDataAccessLayer();
+    private const string CHECKED_ITEMS = "CheckedItems";
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            //BindData(GV);
+        }
+
+    }
+
+   
+    public void BindData(GridView gv,string strSearch)
+    {
+        DataSet dsdata = new DataSet();
+        SqlParameter[] sqlParamS ={
+                                      new SqlParameter("@Type", "BIND_GRIED"),
+                                      new SqlParameter("@SearchText", strSearch)
+                                  };
+
+        dsdata = objsql.ExecuteDataset(CommandType.StoredProcedure, "uspCustomPaging", sqlParamS);
+
+        gv.DataSource = dsdata;
+        gv.DataBind();
+
+        dsdata = null;
+        sqlParamS = null;
+
+
+    }
+
+    protected void GV_PageIndexChanging(object sender, GridViewPageEventArgs e)
+    {
+        RememberOldValues();
+        GV.PageIndex = e.NewPageIndex;
+        BindData(GV, txtProduct.Text);
+        RePopulateValues();
+    }
+    protected void GV_RowCreated(object sender, GridViewRowEventArgs e)
+    {
+        //if (e.Row.RowType == DataControlRowType.Pager)
+        //{
+        //    GridViewRow gvr = e.Row;
+        //    LinkButton lb = (LinkButton)gvr.Cells[0].FindControl("p0");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("p1");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("p2");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("p4");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("p5");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("p6");
+        //    lb.Command += new CommandEventHandler(lb_Command);
+        //}
+
+
+    }
+
+    void lb_Command(object sender, CommandEventArgs e)
+    {
+        //GV.PageIndex = Convert.ToInt32(e.CommandArgument) - 1;
+
+
+    }
+    protected void GV_DataBound(object sender, EventArgs e)
+    {
+        //GridViewRow gvr = GV.BottomPagerRow;
+        //Label lb1 = (Label)gvr.Cells[0].FindControl("CurrentPage");
+        //lb1.Text = Convert.ToString(GV.PageIndex + 1);
+        //int[] page = new int[7];
+        //page[0] = GV.PageIndex - 2;
+        //page[1] = GV.PageIndex - 1;
+        //page[2] = GV.PageIndex;
+        //page[3] = GV.PageIndex + 1;
+        //page[4] = GV.PageIndex + 2;
+        //page[5] = GV.PageIndex + 3;
+        //page[6] = GV.PageIndex + 4;
+        //for (int i = 0; i < 7; i++)
+        //{
+        //    if (i != 3)
+        //    {
+        //        if (page[i] < 1 || page[i] > GV.PageCount)
+        //        {
+        //            LinkButton lb = (LinkButton)gvr.Cells[0].FindControl("p" + Convert.ToString(i));
+        //            lb.Visible = false;
+        //        }
+        //        else
+        //        {
+        //            LinkButton lb = (LinkButton)gvr.Cells[0].FindControl("p" + Convert.ToString(i));
+        //            lb.Text = Convert.ToString(page[i]);
+
+        //            lb.CommandName = "PageNo";
+        //            lb.CommandArgument = lb.Text;
+
+        //        }
+        //    }
+        //}
+        //if (GV.PageIndex == 0)
+        //{
+        //    LinkButton lb = (LinkButton)gvr.Cells[0].FindControl("LinkButton1");
+        //    lb.Visible = false;
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("LinkButton2");
+        //    lb.Visible = false;
+
+        //}
+        //if (GV.PageIndex == GV.PageCount - 1)
+        //{
+        //    LinkButton lb = (LinkButton)gvr.Cells[0].FindControl("LinkButton3");
+        //    lb.Visible = false;
+        //    lb = (LinkButton)gvr.Cells[0].FindControl("LinkButton4");
+        //    lb.Visible = false;
+
+        //}
+        //if (GV.PageIndex > GV.PageCount - 5)
+        //{
+        //    Label lbmore = (Label)gvr.Cells[0].FindControl("nmore");
+        //    lbmore.Visible = false;
+        //}
+        //if (GV.PageIndex < 4)
+        //{
+        //    Label lbmore = (Label)gvr.Cells[0].FindControl("pmore");
+        //    lbmore.Visible = false;
+        //}
+    }
+
+
+    protected void GV_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+
+        //if (e.Row.RowType == DataControlRowType.Footer)
+        //{
+        //    Label lblFooter = (Label)e.Row.FindControl("lblFooter");
+        //    //e.Row.Cells[0].Text = "Page " + (GV.PageIndex + 1) + " of " + GV.PageCount;
+        //    LinkButton lbn1 = (LinkButton)e.Row.FindControl("lbnFFirst");
+        //    LinkButton lbtn2 = (LinkButton)e.Row.FindControl("lbtnFPrev");
+        //    LinkButton lbtn3 = (LinkButton)e.Row.FindControl("lbtnFNext");
+        //    LinkButton lbtn4 = (LinkButton)e.Row.FindControl("lbtnFLast");
+        //    lblFooter.Text = "Page " + (GV.PageIndex + 1) + " of " + GV.PageCount;
+        //    //lbn1.Text = "1";
+        //}
+
+        if (e.Row.RowType == DataControlRowType.Pager)
+        {
+            Label lblHead = (Label)e.Row.FindControl("lblHead");
+
+            LinkButton lbnFirst = (LinkButton)e.Row.FindControl("lbnFirst");
+            LinkButton lbtnPrev = (LinkButton)e.Row.FindControl("lbtnPrev");
+            LinkButton lbtnNext = (LinkButton)e.Row.FindControl("lbtnNext");
+            LinkButton lbtnLast = (LinkButton)e.Row.FindControl("lbtnLast");
+
+            lblHead.Text = "Displaying Page " + (GV.PageIndex + 1) + " of " + GV.PageCount;
+
+            if (GV.PageIndex + 1 == 1)
+            {
+                lbnFirst.Visible = false;
+                lbtnPrev.Visible = false;
+            }
+            else
+            {
+                lbnFirst.Visible = true;
+                lbtnPrev.Visible = true;
+            }
+            e.Row.BackColor = System.Drawing.ColorTranslator.FromHtml("#60A3AC");
+
+        }
+        if (e.Row.RowType == DataControlRowType.Header)
+        {
+            e.Row.BackColor = System.Drawing.ColorTranslator.FromHtml("#80FF00");
+        
+        }
+        if (e.Row.RowType == DataControlRowType.Separator)
+        {
+            e.Row.BackColor = System.Drawing.ColorTranslator.FromHtml("#FF7E00");
+
+        }
+        
+    }
+
+    private void RememberOldValues()
+    {
+        ArrayList SelectIteamList = new ArrayList();
+        Int32 index = -1;
+        foreach (GridViewRow row in GV.Rows)
+        {
+            index = Convert.ToInt32(GV.DataKeys[row.RowIndex].Value);
+
+            bool result = ((CheckBox)row.FindControl("chkBxSelect")).Checked;
+
+            // Check in the Session
+            if (Session[CHECKED_ITEMS] != null)
+                SelectIteamList = (ArrayList)Session[CHECKED_ITEMS];
+            if (result)
+            {
+                if (!SelectIteamList.Contains(index))
+                    SelectIteamList.Add(index);
+            }
+            else
+                SelectIteamList.Remove(index);
+        }
+        if (SelectIteamList != null && SelectIteamList.Count > 0)
+            Session[CHECKED_ITEMS] = SelectIteamList;
+    }
+
+    private void RePopulateValues()
+    {
+        ArrayList SelectIteamList = (ArrayList)Session[CHECKED_ITEMS];
+        if (SelectIteamList != null && SelectIteamList.Count > 0)
+        {
+            foreach (GridViewRow row in GV.Rows)
+            {
+                Int32 index = Convert.ToInt32(GV.DataKeys[row.RowIndex].Value);
+                if (SelectIteamList.Contains(index))
+                {
+                    CheckBox myCheckBox = (CheckBox)row.FindControl("chkBxSelect");
+                    myCheckBox.Checked = true;
+                }
+            }
+        }
+    }
+    protected void btnSearch_Click(object sender, EventArgs e)
+    {
+        BindData(GV,txtProduct.Text);
+    }
+}

@@ -1,0 +1,32 @@
+03/07/2018 3:49:42 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_MTOComplainDetails.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2132
+   at pages_MTOComplainDetails.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2075-->Value was either too large or too small for an Int16.Couldn't store <33039> in ProductSno Column.  Expected type is Int16.
+03/07/2018 3:52:08 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at pages_MTOComplainDetails.CreatRow() in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2132
+   at pages_MTOComplainDetails.btnAdd_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2075-->Value was either too large or too small for an Int16.Couldn't store <33039> in ProductSno Column.  Expected type is Int16.
+03/07/2018 3:57:40 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at pages_MTOComplainDetails.btnSave_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2374-->Input string was not in a correct format.
+03/07/2018 4:05:07 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at pages_MTOComplainDetails.btnSave_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2374-->Input string was not in a correct format.
+03/07/2018 4:13:55 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at pages_MTOComplainDetails.btnSave_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2374-->Input string was not in a correct format.
+03/07/2018 4:17:52 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at pages_MTOComplainDetails.btnSave_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\IS\CICLive\pages\MTOComplainDetails.aspx.cs:line 2374-->Input string was not in a correct format.

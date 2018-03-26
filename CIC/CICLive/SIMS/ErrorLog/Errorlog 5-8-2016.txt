@@ -1,0 +1,24 @@
+08/05/2016 2:55:31 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMSCommonClass.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Boolean isSorting) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSCommonClass.cs:line 252
+   at AvgSummaryCostForWithinWarranty.BindData(GridView grv) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\AvgSummaryCostForWithinWarranty.cs:line 47
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.BindData(String strOrder) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 143
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.btnSearch_Click(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 77-->Cannot find table 0.
+08/05/2016 2:55:36 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMSCommonClass.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Boolean isSorting) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSCommonClass.cs:line 252
+   at AvgSummaryCostForWithinWarranty.BindData(GridView grv) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\AvgSummaryCostForWithinWarranty.cs:line 47
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.BindData(String strOrder) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 143
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.btnSearch_Click(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 77-->Cannot find table 0.
+08/05/2016 2:55:43 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMSCommonClass.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Boolean isSorting) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSCommonClass.cs:line 252
+   at AvgSummaryCostForWithinWarranty.BindData(GridView grv) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\AvgSummaryCostForWithinWarranty.cs:line 47
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.BindData(String strOrder) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 143
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.btnSearch_Click(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 77-->Cannot find table 0.
+08/05/2016 2:55:50 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMSCommonClass.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Boolean isSorting) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\SIMSCommonClass.cs:line 252
+   at AvgSummaryCostForWithinWarranty.BindData(GridView grv) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\App_Code\SIMS\AvgSummaryCostForWithinWarranty.cs:line 47
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.BindData(String strOrder) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 143
+   at SIMS_Reports_AvgSummaryCostForWithinWarranty.btnSearch_Click(Object sender, EventArgs e) in d:\Mukesh\Share-Mukesh\C&G\Seema\CICLive\SIMS\Reports\AvgSummaryCostForWithinWarranty.aspx.cs:line 77-->Cannot find table 0.

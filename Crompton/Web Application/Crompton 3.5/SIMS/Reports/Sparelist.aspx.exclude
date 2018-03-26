@@ -1,0 +1,115 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Sparelist.aspx.cs" Inherits="SIMS_Reports_Sparelist" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:GridView GridGroups="both" AutoGenerateColumns="False" ID="GvExcel" runat="server"
+            Width="100%">
+            <Columns>
+                <asp:BoundField DataField="Sno" HeaderStyle-Width="40px" HeaderText="SNo">
+                    <HeaderStyle Width="40px" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Division" HeaderStyle-Width="60px" ItemStyle-HorizontalAlign="Left"
+                    HeaderStyle-HorizontalAlign="Left" HeaderText="Division" SortExpression="Division">
+                    <HeaderStyle HorizontalAlign="Left" Width="100px" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField Visible="false" DataField="SAP_Code" HeaderStyle-Width="60px" ItemStyle-HorizontalAlign="Left"
+                    HeaderStyle-HorizontalAlign="Left" HeaderText="Spare Code" SortExpression="SAP_Code">
+                    <HeaderStyle HorizontalAlign="Left" Width="100px" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="SAP_Desc" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Desciption" SortExpression="SAP_Desc">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="SAP_UOM" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Unit of Measurement" SortExpression="SAP_Desc">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="SAP_ListPrice" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="List Price" SortExpression="SAP_ListPrice">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Discount" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Discount %" SortExpression="Discount">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="SAP_MatGroup" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Material Group" SortExpression="SAP_MatGroup">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="SAP_MatType" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Material Type" SortExpression="SAP_MatType">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_Mov_Type" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Moving Type" SortExpression="Spare_Mov_Type">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_Value" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Value" SortExpression="Spare_Value">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_Type" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Type" SortExpression="Spare_Type">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_MOQ" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Minimum Order Quantity" SortExpression="Spare_MOQ">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:TemplateField HeaderText="Photograph" SortExpression="FileName">
+                    <ItemTemplate>
+                        <asp:HiddenField ID="hdnSpare_Id" runat="server" Value='<%# Bind("Spare_Id") %>' />
+                        <a id="imgSpare" href="javascript:void(ShowDIV('<%# Eval("FileName")%>'));">
+                            <%# Eval("FileView")%></a>
+                    </ItemTemplate>
+                </asp:TemplateField>
+                <asp:BoundField DataField="Spare_Disposal_Flag" ItemStyle-HorizontalAlign="Left"
+                    HeaderStyle-HorizontalAlign="Left" HeaderText="Spare disposal/ Destruction Type"
+                    SortExpression="Spare_Disposal_Flag">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_Action_By_CG" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Action by CG Branch" SortExpression="Spare_Action_By_CG">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Essential_Spare" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Essential Spare" SortExpression="Essential_Spare">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Spare_Obselete" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Spare Obselete" SortExpression="Spare_Obselete">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+                <asp:BoundField DataField="Active_Flag" ItemStyle-HorizontalAlign="Left" HeaderStyle-HorizontalAlign="Left"
+                    HeaderText="Status" SortExpression="Active_Flag">
+                    <HeaderStyle HorizontalAlign="Left" />
+                    <ItemStyle HorizontalAlign="Left" />
+                </asp:BoundField>
+            </Columns>
+        </asp:GridView>
+    </div>
+    </form>
+</body>
+</html>

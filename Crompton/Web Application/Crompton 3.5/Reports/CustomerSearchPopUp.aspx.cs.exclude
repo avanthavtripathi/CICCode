@@ -1,0 +1,130 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+using System.Data.SqlClient;
+
+public partial class Reports_ComplaintMISPopUp : System.Web.UI.Page
+{
+    DataSet ds;
+    SqlDataAccessLayer objSqlDataAccessLayer = new SqlDataAccessLayer();
+    CommonMISFunctions objCommonMIS = new CommonMISFunctions();
+    int intCommon, intCommonCnt;
+    SqlParameter[] param ={
+                             new SqlParameter("@year","2011"),
+                             new SqlParameter("@month",""),
+                             new SqlParameter("@statusid",0) ,
+
+                             new SqlParameter("@regno",0) ,
+                             new SqlParameter("@branchsno",0) ,
+                             new SqlParameter("@pdivsno",0) ,
+                             new SqlParameter("@plinesno",0) ,
+                             new SqlParameter("@scsno",0) ,
+                             new SqlParameter("@callst",0) ,
+                             new SqlParameter("@warr","") 
+    };
+
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+         try
+        {
+            BindGrid();
+        }
+           
+        catch (Exception ex)
+         {
+             CommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+         }
+    }
+   
+
+    protected void BindGrid()
+    
+    {
+        int year = int.Parse(Request.QueryString["year"]);
+        int month = int.Parse(Request.QueryString["mnth"]);
+        int statusid = int.Parse(Request.QueryString["status"]);
+                         
+         param[0].Value = year;
+         param[1].Value = month;
+         param[2].Value = statusid;
+
+         param[3].Value = int.Parse(Request.QueryString["regno"]); 
+         param[4].Value = int.Parse(Request.QueryString["branchsno"]); 
+         param[5].Value = int.Parse(Request.QueryString["pdivsno"]); 
+         param[6].Value = int.Parse(Request.QueryString["plinesno"]); 
+         param[7].Value = int.Parse(Request.QueryString["scsno"]); 
+         param[8].Value = int.Parse(Request.QueryString["callst"]);
+        if( Request.QueryString["warr"] == null)
+            param[9].Value ="";
+         param[9].Value = Request.QueryString["warr"]; 
+        
+          
+
+        ds = objSqlDataAccessLayer.ExecuteDataset(CommandType.StoredProcedure, "uspComplainResolutionPopup", param);
+      
+        if ((ds != null))
+        {
+            gvMIS.DataSource = ds;
+            gvMIS.DataBind();
+            ViewState["exportexcel"] = ds;
+            btnExport.Visible = true;
+            lblCount.Text = ds.Tables[0].Rows.Count.ToString();
+        }
+        else
+        {
+            ViewState["exportexcel"] = null;
+            btnExport.Visible = false;
+            lblCount.Text = "0";
+        }
+        
+    }
+   
+    protected void gvMIS_PageIndexChanging(object sender, GridViewPageEventArgs e)
+    {
+        try
+        {
+            gvMIS.PageIndex = e.NewPageIndex;
+            BindGrid();
+        }
+        catch (Exception ex)
+        {
+            CommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+    }
+ 
+    protected void btnExport_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            Response.ClearContent();
+            Response.AddHeader("Content-Disposition", "attachment;filename=ComplaintDrillDownReport.xls");
+            Response.ContentType = "application/ms-excel";
+            System.IO.StringWriter stringWrite = new System.IO.StringWriter();
+            System.Web.UI.HtmlTextWriter htmlWrite = new HtmlTextWriter(stringWrite);
+            gvExport.DataSource = ViewState["exportexcel"] as DataSet;
+            gvExport.DataBind();
+            gvExport.RenderControl(htmlWrite);
+            Response.Write(stringWrite.ToString());
+            Response.End();
+        }
+        catch (Exception ex)
+        {
+            CommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+    }
+    public override void VerifyRenderingInServerForm(Control control)
+    {
+    }
+   
+   
+}

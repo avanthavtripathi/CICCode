@@ -1,0 +1,4 @@
+12/19/2014 1:20:55 PM
+   at System.Web.UI.WebControls.ListControl.set_SelectedValue(String value)
+   at SIMS_Reports_simsinvoice.ClearSearchControl() in c:\Ashok Kumar\Solution\CIC\SIMS\Reports\simsinvoice.aspx.cs:line 369-->'ddlSerContractor' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

@@ -1,0 +1,139 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="gried.aspx.cs" Inherits="SIMS_Pages_gried" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+
+    <script language="javascript" type="text/javascript">
+    var TotalChkBx;
+    var Counter;
+
+    window.onload = function()
+    {
+       //Get total no. of CheckBoxes in side the GridView.
+       TotalChkBx = parseInt('<%= this.GV.Rows.Count %>');
+
+       //Get total no. of checked CheckBoxes in side the GridView.
+       Counter = 0;
+    }
+
+    function HeaderClick(CheckBox)
+    {
+       //Get target base & child control.
+       var TargetBaseControl = 
+           document.getElementById('<%= this.GV.ClientID %>');
+       var TargetChildControl = "chkBxSelect";
+
+       //Get all the control of the type INPUT in the base control.
+       var Inputs = TargetBaseControl.getElementsByTagName("input");
+
+       //Checked/Unchecked all the checkBoxes in side the GridView.
+       for(var n = 0; n < Inputs.length; ++n)
+          if(Inputs[n].type == 'checkbox' && 
+                    Inputs[n].id.indexOf(TargetChildControl,0) >= 0)
+             Inputs[n].checked = CheckBox.checked;
+
+       //Reset Counter
+       Counter = CheckBox.checked ? TotalChkBx : 0;
+    }
+
+    function ChildClick(CheckBox, HCheckBox)
+    {
+       //get target control.
+       var HeaderCheckBox = document.getElementById(HCheckBox);
+
+       //Modifiy Counter; 
+       if(CheckBox.checked && Counter < TotalChkBx)
+          Counter++;
+       else if(Counter > 0) 
+          Counter--;
+
+       //Change state of the header CheckBox.
+       if(Counter < TotalChkBx)
+          HeaderCheckBox.checked = false;
+       else if(Counter == TotalChkBx)
+          HeaderCheckBox.checked = true;
+    }
+    </script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div align="center">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td width="20%" align="left">
+                    Product Desc&nbsp;
+                </td>
+                <td align="left">
+                    <asp:TextBox ID="txtProduct" runat="server"></asp:TextBox>&nbsp;
+                    <asp:Button ID="btnSearch" runat="server" CssClass="btn" Text="Search" OnClick="btnSearch_Click" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <asp:GridView ID="GV" Width="100%" runat="server" AllowPaging="True" AutoGenerateColumns="False"
+                        AlternatingRowStyle-CssClass="fieldName" HeaderStyle-CssClass="fieldNamewithbgcolor"
+                        OnPageIndexChanging="GV_PageIndexChanging" DataKeyNames="BaseLineId" OnDataBound="GV_DataBound"
+                        OnRowCreated="GV_RowCreated" OnRowDataBound="GV_RowDataBound">
+                        <PagerSettings Position="TopAndBottom" Mode="NumericFirstLast" FirstPageText="First"
+                            LastPageText="Last" NextPageText="Next" PreviousPageText="Prev" />
+                        <PagerTemplate>
+                            <asp:CheckBox ID="chkBxPager" runat="server" />Select and Display &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:Label ID="lblHead" runat="server"></asp:Label>&nbsp;
+                            <asp:LinkButton ID="lbnFirst" runat="server" CommandName="Page" CommandArgument="First">First</asp:LinkButton>&nbsp;
+                            <asp:LinkButton ID="lbtnPrev" runat="server" CommandName="Page" CommandArgument="Prev">Pre</asp:LinkButton>&nbsp;
+                            <asp:LinkButton ID="lbtnNext" runat="server" CommandName="Page" CommandArgument="Next">Next</asp:LinkButton>&nbsp;
+                            <asp:LinkButton ID="lbtnLast" runat="server" CommandName="Page" CommandArgument="Last">Last</asp:LinkButton>
+                        </PagerTemplate>
+                        <Columns>
+                            <asp:TemplateField HeaderStyle-Width="50px">
+                                <ItemTemplate>
+                                    <asp:CheckBox ID="chkBxSelect" runat="server" />
+                                </ItemTemplate>
+                                <HeaderStyle HorizontalAlign="left" VerticalAlign="Middle" Width="50px" />
+                                <ItemStyle HorizontalAlign="Left" VerticalAlign="Middle" Width="50px" />
+                                <HeaderTemplate>
+                                    <asp:CheckBox ID="chkBxHeader" onclick="javascript:HeaderClick(this);" runat="server" />
+                                </HeaderTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Customer Id">
+                                <ItemTemplate>
+                                    <asp:HiddenField ID="hdnBaselineID" runat="server" Value='<%#Eval("BaseLineId")%>' />
+                                    <asp:Label ID="Label1" runat="server" Text='<%# Bind("CustomerId") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="Complaint No">
+                                <ItemTemplate>
+                                    <asp:Label ID="Label2" runat="server" Text='<%# Bind("Complaint_RefNo") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:TemplateField HeaderText="ProductDivision">
+                                <ItemTemplate>
+                                    <asp:Label ID="Label3" runat="server" Text='<%# Bind("ProductDivision_Desc") %>'></asp:Label>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                        </Columns>
+                        <PagerStyle HorizontalAlign="Right" VerticalAlign="Middle" />
+                    </asp:GridView>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

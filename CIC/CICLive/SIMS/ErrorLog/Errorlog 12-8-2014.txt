@@ -1,0 +1,113 @@
+8/12/2014 11:40:05 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at GenerateInternalBill.BindActivityDDL(DropDownList ddlactivity, String ProdDivID, String strASC_Id) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 76
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 35-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+8/12/2014 11:59:27 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at GenerateInternalBill.BindActivityDDL(DropDownList ddlactivity, String ProdDivID, String strASC_Id) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 76
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 35-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+8/12/2014 12:03:13 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at GenerateInternalBill.BindActivityDDL(DropDownList ddlactivity, String ProdDivID, String strASC_Id) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 76
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 35-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+8/12/2014 12:19:25 PM
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 26-->Object reference not set to an instance of an object.
+8/12/2014 12:19:25 PM
+   at Master_Page_SIMSCICPage.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\MasterPages\SIMSCICPage.master.cs:line 27-->Object reference not set to an instance of an object.
+8/12/2014 12:19:43 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at GenerateInternalBill.BindActivityDDL(DropDownList ddlactivity, String ProdDivID, String strASC_Id) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 76
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 35-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+8/12/2014 12:21:25 PM
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 26-->Object reference not set to an instance of an object.
+8/12/2014 12:21:25 PM
+   at Master_Page_SIMSCICPage.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\MasterPages\SIMSCICPage.master.cs:line 27-->Object reference not set to an instance of an object.
+8/12/2014 12:24:22 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at GenerateInternalBill.BindActivityDDL(DropDownList ddlactivity, String ProdDivID, String strASC_Id) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 76
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 35-->Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

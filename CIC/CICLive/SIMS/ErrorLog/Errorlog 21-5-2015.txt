@@ -1,0 +1,55 @@
+5/21/2015 11:16:52 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnUpdate_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 492-->Input string was not in a correct format.
+5/21/2015 11:17:59 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnUpdate_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 493-->Input string was not in a correct format.
+5/21/2015 11:18:53 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnUpdate_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 493-->Input string was not in a correct format.
+5/21/2015 11:41:42 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnUpdate_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 493-->Input string was not in a correct format.
+5/21/2015 11:44:59 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnUpdate_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 493-->Input string was not in a correct format.
+5/21/2015 1:12:07 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 416-->Input string was not in a correct format.
+5/21/2015 1:14:21 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 416-->Input string was not in a correct format.
+5/21/2015 1:15:09 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 421-->Input string was not in a correct format.
+5/21/2015 1:24:19 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 421-->Input string was not in a correct format.
+5/21/2015 1:25:54 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 421-->Input string was not in a correct format.
+5/21/2015 1:27:44 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Admin_SpareBOMTest.imgBtnAdd_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Admin\SpareBOMTest.aspx.cs:line 422-->Input string was not in a correct format.

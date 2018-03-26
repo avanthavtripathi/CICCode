@@ -1,0 +1,13 @@
+﻿body {
+}
+.page {
+    width: 21cm!important;    
+    min-height: 28cm!important; 
+    background: white;
+    position:relative;
+    overflow: visible !important;    
+    }
+    
+.page1 {
+max-height:28cm!important;
+}

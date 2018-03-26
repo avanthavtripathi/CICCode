@@ -1,0 +1,40 @@
+10/20/2014 11:51:21 AM
+   at System.Web.UI.WebControls.ListControl.set_SelectedIndex(Int32 value)
+   at System.Web.UI.WebControls.DropDownList.set_SelectedIndex(Int32 value)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at ASCPaymentMaster.BindSCByBranch(DropDownList DDLSc) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 189
+   at SIMS_Admin_SCPaymentMaster.ddlBranch_SelectedIndexChanged(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\SCPaymentMaster.aspx.cs:line 63
+   at SIMS_Admin_SCPaymentMaster.BindRegionBranchAscDDLs() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\SCPaymentMaster.aspx.cs:line 50
+   at SIMS_Admin_SCPaymentMaster.BindSelected(Int32 intPaymentRecID) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\SCPaymentMaster.aspx.cs:line 235-->'DDlAsc' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+10/20/2014 2:19:45 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 380
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 244
+   at ASCPaymentMaster.SavePaymentMaster() in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 177
+   at SIMS_Admin_SCPaymentMaster.btnSave_Click(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\SCPaymentMaster.aspx.cs:line 166-->Parameter '@PaymentRecID' was supplied multiple times.
+10/20/2014 2:20:23 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 380
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 244
+   at ASCPaymentMaster.SavePaymentMaster() in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 177
+   at SIMS_Admin_SCPaymentMaster.btnSave_Click(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\SCPaymentMaster.aspx.cs:line 166-->Parameter '@PaymentRecID' was supplied multiple times.

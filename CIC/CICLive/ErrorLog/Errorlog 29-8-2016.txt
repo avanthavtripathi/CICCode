@@ -1,0 +1,6 @@
+08/29/2016 5:00:15 PM
+   at SqlDataAccessLayer..ctor(String SbsDb) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 36
+   at pages_SMSBySE.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\SMSBySE.aspx.cs:line 37-->Object reference not set to an instance of an object.
+08/29/2016 5:05:41 PM
+ProcName: Usp_INSERT_COMPLAINT_DATA_BY_CUSTOMER ErrorState :2  ErrorNumber :515   ErrorLine:15  Error_Msg  Cannot insert the value NULL into column 'BaseLineId', table 'CIC_IS.dbo.BaseLineComplaintDetails'; column does not allow nulls. INSERT fails. ;           
+TYPE: INSERT_COMPLAINT_DATA_BY_CUSTOMER

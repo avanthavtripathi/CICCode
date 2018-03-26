@@ -1,0 +1,4 @@
+7/26/2013 03:58:53 PM
+ProcName: uspEditUserAndRoleMaster ErrorState :1  ErrorNumber :14607   ErrorLine:42  Error_Msg  profile name is not valid
+7/26/2013 04:05:55 PM
+ProcName: uspEditUserAndRoleMaster ErrorState :1  ErrorNumber :14607   ErrorLine:42  Error_Msg  profile name is not valid

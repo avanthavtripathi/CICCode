@@ -1,0 +1,12 @@
+6/11/2014 11:17:20 AM
+   at RateMasterForASC.BindDDLProductDivision(DropDownList ddlUnitSno) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\RateMasterForASC.cs:line 71
+   at SIMS_Admin_RateMasterForASC.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\RateMasterForASC.aspx.cs:line 29-->@UserName is not a parameter for procedure uspRateMasterForASC.
+6/11/2014 11:45:43 AM
+   at RateMasterForASC.BindDDLProductDivision(DropDownList ddlUnitSno) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\RateMasterForASC.cs:line 71
+   at SIMS_Admin_RateMasterForASC.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\RateMasterForASC.aspx.cs:line 29-->@UserName is not a parameter for procedure uspRateMasterForASC.
+6/11/2014 11:46:01 AM
+   at RateMasterForASC.BindDDLProductDivision(DropDownList ddlUnitSno) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\RateMasterForASC.cs:line 71
+   at SIMS_Admin_RateMasterForASC.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\RateMasterForASC.aspx.cs:line 29-->@UserName is not a parameter for procedure uspRateMasterForASC.
+6/11/2014 12:06:57 PM
+   at RateMasterForASC.BindDDLProductDivision(DropDownList ddlUnitSno) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\RateMasterForASC.cs:line 71
+   at SIMS_Admin_RateMasterForASC.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Admin\RateMasterForASC.aspx.cs:line 29-->@UserName is not a parameter for procedure uspRateMasterForASC.

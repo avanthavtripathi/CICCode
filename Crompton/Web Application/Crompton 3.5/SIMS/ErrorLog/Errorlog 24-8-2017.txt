@@ -1,0 +1,65 @@
+08/24/2017 3:25:32 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at Reports_ClaimApprovalFan.ClaimApprovalFan(String Complaint_no, Int32 IsApproved, String RejectRemark, String ApprovedId, Int32 type, String Activity) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 350-->Could not find stored procedure 'ClaimApprovalFan'.
+08/24/2017 3:33:43 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at Reports_ClaimApprovalFan.ClaimApprovalFan(String Complaint_no, Int32 IsApproved, String RejectRemark, String ApprovedId, Int32 type, String Activity) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 350-->Could not find stored procedure 'ClaimApprovalFan'.
+08/24/2017 3:36:12 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at Reports_ClaimApprovalFan.ClaimApprovalFan(String Complaint_no, Int32 IsApproved, String RejectRemark, String ApprovedId, Int32 type, String Activity) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 350-->Could not find stored procedure 'ClaimApprovalFan'.
+08/24/2017 3:39:15 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at Reports_ClaimApprovalFan.ClaimApprovalFan(String Complaint_no, Int32 IsApproved, String RejectRemark, String ApprovedId, Int32 type, String Activity) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 350-->Could not find stored procedure 'ClaimApprovalFan'.
+08/24/2017 5:50:24 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at Reports_ClaimApprovalFan.ClaimApprovalFan(String Complaint_no, Int32 IsApproved, String RejectRemark, String ApprovedId, Int32 type, String Activity) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 350-->Procedure or function 'ClaimApprovalFan' expects parameter '@ASCID', which was not supplied.

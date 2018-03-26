@@ -1,0 +1,72 @@
+﻿Installing assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Rolling back assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Installing service SMSPUSH_ISCRM...
+Service SMSPUSH_ISCRM has been successfully installed.
+Creating EventLog source SMSPUSH_ISCRM in log Application...
+Committing assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.InstallLog
+   assemblypath = D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\release\SMSUTILITY.exe
+Removing EventLog source SMSPUSH_ISCRM.
+Service SMSPUSH_ISCRM is being removed from the system...
+Service SMSPUSH_ISCRM was successfully removed from the system.
+Attempt to stop service SMSPUSH_ISCRM.

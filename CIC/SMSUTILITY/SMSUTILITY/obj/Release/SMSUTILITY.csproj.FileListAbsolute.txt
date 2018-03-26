@@ -1,0 +1,8 @@
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\Release\SMSUTILITY.exe.config
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\Release\SMSUTILITY.exe
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\bin\Release\SMSUTILITY.pdb
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\obj\Release\SMSUTILITY.ProjectInstaller.resources
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\obj\Release\SMSUTILITY.Service1.resources
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\obj\Release\SMSUTILITY.csproj.GenerateResource.Cache
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\obj\Release\SMSUTILITY.exe
+D:\New SMSUtility\SMSUTILITY\SMSUTILITY\obj\Release\SMSUTILITY.pdb

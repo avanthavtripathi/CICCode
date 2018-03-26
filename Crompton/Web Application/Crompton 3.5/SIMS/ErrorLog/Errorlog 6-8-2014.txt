@@ -1,0 +1,18 @@
+8/6/2014 2:36:25 PM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at GenerateInternalBill.BindDivision(DropDownList ddlproductdivision) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 61
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 37-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Unit_Desc'.
+8/6/2014 2:44:42 PM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName, String format)
+   at System.Web.UI.WebControls.ListControl.PerformDataBinding(IEnumerable dataSource)
+   at System.Web.UI.WebControls.ListControl.OnDataBinding(EventArgs e)
+   at System.Web.UI.WebControls.ListControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at GenerateInternalBill.BindDivision(DropDownList ddlproductdivision) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\GenerateInternalBill.cs:line 61
+   at SIMS_Pages_GenerateInternalBill.Page_Load(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\GenerateInternalBill.aspx.cs:line 37-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Unit_Desc'.

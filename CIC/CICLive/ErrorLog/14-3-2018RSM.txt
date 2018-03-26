@@ -1,0 +1,27 @@
+03/14/2018 10:45:32 AM
+Previous Page :http://localhost:65300/CICLive/login.aspx?ReturnUrl=/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 10:46:04 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 10:46:23 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 10:46:53 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 10:47:18 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 10:48:42 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 11:08:12 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 11:08:22 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx
+03/14/2018 11:08:24 AM
+Previous Page :http://localhost:65300/CICLive/pages/RSMCancelComplaint.aspx
+Logged User :21054 Current Page: /CICLive/pages/RSMCancelComplaint.aspx

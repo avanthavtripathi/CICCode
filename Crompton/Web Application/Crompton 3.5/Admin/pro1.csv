@@ -1,0 +1,6 @@
+Id,Defect_Category_Code,Defect_Code,Defect_Name,Active
+1,Pumps-AC-AE001,Single Phasing,Pumps-ac-ae,Active
+2,Pumps-AC-AE002,Voltage Low,Pumps-ac-ae,Active
+3,Pumps-AC-AE003,Wrong electrical Connection,Pumps-ac-ae,Active
+4,Pumps-AC-AE004,Wrong Selection,Pumps-ac-ae,Active
+5,Pumps-AC-AE005,Neutral Weak/Loose Connection,Pumps-ac-ae,Active

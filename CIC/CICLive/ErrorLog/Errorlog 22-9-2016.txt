@@ -1,0 +1,394 @@
+09/22/2016 10:56:02 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:56:10 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:56:55 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:58:22 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:58:44 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:58:47 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:59:03 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:59:41 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 10:59:50 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:00:34 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:04:00 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:07:58 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:36:34 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:37:09 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:37:54 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:39:00 AM
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameObjectCollectionBase.BaseGet(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.Get(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.get_Item(Int32 index)
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 33-->Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+09/22/2016 11:39:21 AM
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameObjectCollectionBase.BaseGet(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.Get(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.get_Item(Int32 index)
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 33-->Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+09/22/2016 11:40:41 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:43:19 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:43:58 AM
+   at Reports_PendingServiceRegistrationReport.gvComm_RowDataBound(Object sender, GridViewRowEventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 713
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->Object reference not set to an instance of an object.
+09/22/2016 11:45:16 AM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   at System.Web.UI.DataBinder.Eval(Object container, String expression)
+   at System.Web.UI.TemplateControl.Eval(String expression)
+   at ASP.reports_pendingcomplaintreport_aspx.__DataBinding__control108(Object sender, EventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx:line 441
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FileView'.
+09/22/2016 11:46:02 AM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   at System.Web.UI.DataBinder.Eval(Object container, String expression)
+   at System.Web.UI.TemplateControl.Eval(String expression)
+   at ASP.reports_pendingcomplaintreport_aspx.__DataBinding__control108(Object sender, EventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx:line 441
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FileView'.
+09/22/2016 11:46:39 AM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   at System.Web.UI.DataBinder.Eval(Object container, String expression)
+   at System.Web.UI.TemplateControl.Eval(String expression)
+   at ASP.reports_pendingcomplaintreport_aspx.__DataBinding__control108(Object sender, EventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx:line 441
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FileView'.
+09/22/2016 11:47:58 AM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   at System.Web.UI.DataBinder.Eval(Object container, String expression)
+   at System.Web.UI.TemplateControl.Eval(String expression)
+   at ASP.reports_pendingcomplaintreport_aspx.__DataBinding__control108(Object sender, EventArgs e) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx:line 441
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 238
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 582-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FileView'.
+09/22/2016 3:29:47 PM
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 39-->Object reference not set to an instance of an object.
+09/22/2016 3:30:06 PM
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameObjectCollectionBase.BaseGet(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.Get(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.get_Item(Int32 index)
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 33-->Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+09/22/2016 3:31:07 PM
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 38-->Object reference not set to an instance of an object.
+09/22/2016 3:33:25 PM
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 38-->Object reference not set to an instance of an object.
+09/22/2016 3:42:32 PM
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Collections.Specialized.NameObjectCollectionBase.BaseGet(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.Get(Int32 index)
+   at System.Collections.Specialized.NameValueCollection.get_Item(Int32 index)
+   at pages_UploadedFilePopUp.Page_Load(Object sender, EventArgs e) in d:\IS\CICLive\pages\UploadedFilePopUp.aspx.cs:line 33-->Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+09/22/2016 6:07:48 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in d:\IS\CICLive\App_Code\CSharpCode\MisReport.cs:line 226
+   at Reports_PendingServiceRegistrationReport.BindGrid(Int32 currentPage) in d:\IS\CICLive\Reports\PendingComplaintReport.aspx.cs:line 586-->Cannot find table 1.

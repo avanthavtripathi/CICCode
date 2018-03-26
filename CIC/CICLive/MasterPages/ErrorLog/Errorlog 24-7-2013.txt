@@ -1,0 +1,170 @@
+7/24/2013 03:10:17 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 03:10:31 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 03:11:09 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 03:11:12 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 03:13:30 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 06:06:28 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 06:06:33 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 06:06:56 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 06:08:24 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.
+7/24/2013 06:15:28 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at SqlDataAccessLayer.ExecuteScalar(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1247
+   at SqlDataAccessLayer.ExecuteScalar(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 1163
+   at CommonClass.CheckRolesForMenu(String strURL, String strUserName) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 820
+   at Master_Page_CICPage.Page_Load(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\MasterPages\CICPage.master.cs:line 27-->A system assertion check has failed. Check the SQL Server error log for details
+A severe error occurred on the current command.  The results, if any, should be discarded.

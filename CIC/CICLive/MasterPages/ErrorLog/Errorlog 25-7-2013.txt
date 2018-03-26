@@ -1,0 +1,43 @@
+7/25/2013 11:04:52 AM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at pages_WSCPopUp.BindRecord() in d:\WAD\Projects\CIC_Test\WSC\WSCPopUp.aspx.cs:line 94-->Column 'WSCFeedbackID' does not belong to table Table.
+7/25/2013 11:07:16 AM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at pages_WSCPopUp.BindRecord() in d:\WAD\Projects\CIC_Test\WSC\WSCPopUp.aspx.cs:line 94-->Column 'WSCFeedbackID' does not belong to table Table.
+7/25/2013 11:08:28 AM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at pages_WSCPopUp.BindRecord() in d:\WAD\Projects\CIC_Test\WSC\WSCPopUp.aspx.cs:line 94-->Column 'WSCFeedbackID' does not belong to table Table.
+7/25/2013 11:08:40 AM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at pages_WSCPopUp.BindRecord() in d:\WAD\Projects\CIC_Test\WSC\WSCPopUp.aspx.cs:line 94-->Column 'WSCFeedbackID' does not belong to table Table.
+7/25/2013 11:19:34 AM
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at CommonClass.SendMailSMTP(String strTo, String strCC, String strFrom, String strSubject, String strBody, Boolean IsHtml) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 1970
+   at WSC_WSCNewCustomer.SendMailToCustomer(String strToEmailID, String strCCEmaiID, String strFromEmailID, String StrUserName, String strWebRequestNo) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 847
+   at WSC_WSCNewCustomer.InsertWebRequestInformation() in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 960
+   at WSC_WSCNewCustomer.btnSubmit_Click(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 310-->The transport lost its connection to the server.
+
+7/25/2013 12:13:35 PM
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at CommonClass.SendMailSMTP(String strTo, String strCC, String strFrom, String strSubject, String strBody, Boolean IsHtml) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 1970
+   at WSC_WSCNewCustomer.SendMailToCustomer(String strToEmailID, String strCCEmaiID, String strFromEmailID, String StrUserName, String strWebRequestNo) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 847
+   at WSC_WSCNewCustomer.InsertWebRequestInformation() in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 960
+   at WSC_WSCNewCustomer.btnSubmit_Click(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 310-->The transport lost its connection to the server.
+
+7/25/2013 12:21:03 PM
+   at System.Web.Mail.SmtpMail.LateBoundAccessHelper.CallMethod(Object obj, String methodName, Object[] args)
+   at System.Web.Mail.SmtpMail.CdoSysHelper.Send(MailMessage message)
+   at System.Web.Mail.SmtpMail.Send(MailMessage message)
+   at CommonClass.SendMailSMTP(String strTo, String strCC, String strFrom, String strSubject, String strBody, Boolean IsHtml) in d:\WAD\Projects\CIC_Test\App_Code\CSharpCode\CommonClass.cs:line 1970
+   at WSC_WSCNewCustomer.SendMailToCustomer(String strToEmailID, String strCCEmaiID, String strFromEmailID, String StrUserName, String strWebRequestNo) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 847
+   at WSC_WSCNewCustomer.InsertWebRequestInformation() in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 960
+   at WSC_WSCNewCustomer.btnSubmit_Click(Object sender, EventArgs e) in d:\WAD\Projects\CIC_Test\WSC\WSCNewCustomer.aspx.cs:line 310-->The transport lost its connection to the server.
+

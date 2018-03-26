@@ -1,0 +1,24 @@
+11/26/2014 10:24:05 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at SIMS_Pages_SpareConsumptionActivity.getTotalAmount() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 739
+   at SIMS_Pages_SpareConsumptionActivity.GetComplaintDetailData() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 266-->Input string was not in a correct format.
+11/26/2014 10:30:50 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at SIMS_Pages_SpareConsumptionActivity.getTotalAmount() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 739
+   at SIMS_Pages_SpareConsumptionActivity.GetComplaintDetailData() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 266-->Input string was not in a correct format.
+11/26/2014 10:31:21 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at SIMS_Pages_SpareConsumptionActivity.getTotalAmount() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 739
+   at SIMS_Pages_SpareConsumptionActivity.GetComplaintDetailData() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 266-->Input string was not in a correct format.
+11/26/2014 10:59:46 AM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at SIMS_Pages_SpareConsumptionActivity.getTotalAmount() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 739
+   at SIMS_Pages_SpareConsumptionActivity.GetComplaintDetailData() in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\SpareConsumptionActivity.aspx.cs:line 266-->Input string was not in a correct format.

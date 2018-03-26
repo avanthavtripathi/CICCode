@@ -1,0 +1,16 @@
+
+
+9/3/2013 06:13:16 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/3/2013 06:13:16 PM---------------
+Step 2: SaveTextfile Completed
+9/3/2013 06:13:16 PM---------------
+8/25/2013 12:00:00 AM|BA|CG|9/3/2013 06:13:16 PM|INR|I89o|Pym1393181311|WAAA1032|2734|WAAA|ff|436403|1211121|JE|N
+9/3/2013 06:13:17 PM---------------
+Step 3: CG Service Requested.
+9/3/2013 06:13:30 PM---------------
+Step 5: Text File Generation Start.
+9/3/2013 06:16:02 PM---------------
+Step 5: Text File Generated.
+9/3/2013 06:16:10 PM---------------
+Step 7: Pym1393181311Processed Successfully.

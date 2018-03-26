@@ -1,0 +1,115 @@
+08/03/2017 3:23:19 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:35:46 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:37:42 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:37:47 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:40:56 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:40:58 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:41:08 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:41:25 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:41:29 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:42:06 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:45:58 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:47:31 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:50:42 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:51:46 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 3:58:29 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:00:24 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:00:26 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:00:29 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:02:54 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:02:56 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:03:12 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:03:16 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.
+08/03/2017 4:03:20 PM
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at UC_PendingForSpare.Fn_AddNewRow() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\UC\PendingForSpare.ascx.cs:line 139-->Input string was not in a correct format.Couldn't store <> in ProductDivision_Id Column.  Expected type is Int32.

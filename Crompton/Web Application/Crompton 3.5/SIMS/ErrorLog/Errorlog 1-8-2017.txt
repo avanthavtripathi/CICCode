@@ -1,0 +1,142 @@
+08/01/2017 1:12:31 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.InvoiceDetails() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 210-->Could not find stored procedure 'GenerateInvoiceInstitutionalFan'.
+08/01/2017 1:13:18 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.InvoiceDetails() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 210-->Could not find stored procedure 'GenerateInvoiceInstitutionalFan'.
+08/01/2017 1:14:29 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.InvoiceDetails() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 210-->Could not find stored procedure 'GenerateInvoiceInstitutionalFan'.
+08/01/2017 1:16:59 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.InvoiceDetails() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 210-->Could not find stored procedure 'GenerateInvoiceInstitutionalFan'.
+08/01/2017 1:17:53 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 641
+   at SqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 552
+   at SIMS_Reports_simsinvoiceNew.InvoiceDetails() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 211-->Could not find stored procedure 'GenerateInvoiceInstitutionalFan'.
+08/01/2017 2:38:48 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.
+08/01/2017 2:38:55 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.
+08/01/2017 2:42:08 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.
+08/01/2017 2:42:34 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.
+08/01/2017 2:43:16 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.
+08/01/2017 3:12:20 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Reports_ClaimApprovalFan.FetchReport(String UserName, DateTime Fromdate, DateTime Todate, Boolean IsBranchWise, String time, String maxtime) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 188
+   at Reports_ClaimApprovalFan.ShowReport() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 174
+   at Reports_ClaimApprovalFan.BtnSEARCH_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Pages\ClaimApprovalFan.aspx.cs:line 74-->Input string was not in a correct format.

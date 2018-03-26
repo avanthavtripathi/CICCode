@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+using System.Data.SqlClient;
+
+public partial class pages_SMS : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!Page.IsPostBack)
+        {
+            try
+            {
+
+                string UserName = Request.QueryString["Usr"];
+                string pwd = Request.QueryString["Pass"];
+                string MessgRe = Request.QueryString["Msisdn"];
+                string Message = Request.QueryString["Msg"];
+                string Sid = Request.QueryString["Sid"];
+
+                DataSet dsUser = new DataSet();
+                SqlDataAccessLayer objSql = new SqlDataAccessLayer();
+
+                SqlParameter[] sqlParam =
+        {
+            new SqlParameter("@Type","SELECT_USER_BY_USRNAME"),
+            new SqlParameter("@UserName",UserName)
+        };
+
+                dsUser = objSql.ExecuteDataset(CommandType.StoredProcedure, "uspEditUserAndRoleMaster", sqlParam);
+                if (dsUser.Tables[0].Rows.Count != 0)
+                {
+
+                    if (Membership.ValidateUser(UserName, pwd) == false)
+                    {
+                        Response.Write("Invalid User Id or Password.");
+                    }
+                    else
+                    {
+                        SMS objSmS = new SMS();
+                        objSmS.MessageFrom = MessgRe;
+                        char[] splitter = { ' ' };
+                        string[] optionInfo = new string[4];
+                        optionInfo = Message.Split(splitter);
+                        objSmS.Message = optionInfo[2].ToString();
+                        objSmS.ReceiverID = Sid;
+                        objSmS.Complaint_refNo = optionInfo[1].ToString();
+                        int Msg = objSmS.SaveData("INSERT_SMS");
+                        if (Msg == 0)
+                        {
+                            Response.Write("OK");
+                        }
+                        else
+                        {
+                            Response.Write("Invalid Input");
+                        }
+                    }
+                }
+                else
+                {
+                    Response.Write("User Id or Password not supplied.");
+                }
+                sqlParam = null;
+            }
+
+            catch (Exception ex)
+            {
+                Response.Write(ex.Message.ToString());
+            }
+        }
+    }
+}

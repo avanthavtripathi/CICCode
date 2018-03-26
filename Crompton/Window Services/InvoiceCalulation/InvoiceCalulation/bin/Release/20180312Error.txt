@@ -1,0 +1,2 @@
+service start: 
+function calculate A severe error occurred on the current command.  The results, if any, should be discarded.

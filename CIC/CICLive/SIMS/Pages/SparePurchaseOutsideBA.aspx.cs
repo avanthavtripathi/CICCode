@@ -1,0 +1,198 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+
+public partial class SIMS_Pages_SparePurchaseOutsideBA : System.Web.UI.Page
+{
+    ASCSparePurchaseOutside objASCSparePurchaseOutside = new ASCSparePurchaseOutside();
+    SIMSCommonMISFunctions objCommonMIS = new SIMSCommonMISFunctions();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!Page.IsPostBack)
+        {
+            objCommonMIS.EmpId = Membership.GetUser().UserName.ToString();
+            objCommonMIS.BusinessLine_Sno = "2";
+            objCommonMIS.RegionSno = "0";
+            objCommonMIS.BranchSno = "0";
+
+            objASCSparePurchaseOutside.UserName = Membership.GetUser().UserName.ToString();
+            objASCSparePurchaseOutside.GetUserRegions(ddlRegion);
+            objASCSparePurchaseOutside.GetUserBranchs(ddlBranch);
+            if (objCommonMIS.CheckLoogedInASC() > 0)
+            {
+                objCommonMIS.GetSCs(ddlASC);
+                if (ddlASC.Items.Count == 2)
+                {
+                    ddlASC.SelectedIndex = 1;
+                }
+            }
+            else
+            {
+                objCommonMIS.GetUserSCs(ddlASC);
+                if (ddlASC.Items.Count == 2)
+                {
+                    ddlASC.SelectedIndex = 1;
+                }
+            }
+
+            objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.ASC_Id = Convert.ToInt32(ddlASC.SelectedValue);
+            objASCSparePurchaseOutside.GetBills(GvDetails);
+        
+        }
+    }
+
+    protected void ddlRegion_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        try
+        {
+            objASCSparePurchaseOutside.UserName = Membership.GetUser().UserName.ToString();
+            objASCSparePurchaseOutside.RegionSno = ddlRegion.SelectedValue;
+            objASCSparePurchaseOutside.GetUserBranchs(ddlBranch);
+
+            objCommonMIS.BranchSno = ddlBranch.SelectedValue;
+            objCommonMIS.GetUserSCs(ddlASC);
+            if (ddlASC.Items.Count == 2)
+            {
+                ddlASC.SelectedIndex = 1;
+            }
+            objASCSparePurchaseOutside.ASC_Id = 0;
+
+        }
+        catch (Exception ex)
+        {
+            SIMSCommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+
+    }
+
+    protected void ddlBranch_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        try
+        {
+
+            objCommonMIS.RegionSno = ddlRegion.SelectedValue;
+            objCommonMIS.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.GetSCs(ddlASC, Convert.ToInt32(ddlBranch.SelectedValue));
+           
+            if (ddlASC.Items.Count == 2)
+            {
+                ddlASC.SelectedIndex = 1;
+            }
+
+            objASCSparePurchaseOutside.ASC_Id = 0;
+            objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.GetBills(GvDetails);
+
+        }
+        catch (Exception ex)
+        {
+            SIMSCommonClass.WriteErrorErrFile(Request.RawUrl.ToString(), ex.StackTrace.ToString() + "-->" + ex.Message.ToString());
+        }
+
+    }
+
+    protected void ddlASC_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        if (ddlASC.SelectedIndex != 0)
+            objASCSparePurchaseOutside.ASC_Id = Convert.ToInt32(ddlASC.SelectedValue);
+            objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.GetBills(GvDetails);
+
+    }
+
+    protected void btnSave_Click(object sender, EventArgs e)
+    {
+        int ctr = 0;
+        foreach (GridViewRow gr in GvDetails.Rows)
+        {
+            CheckBox chkresend ;
+            TextBox txtcomment ;
+            HiddenField hdnSpareID ;
+            HiddenField hdnBillNo;
+            Label lbldocno;
+            if (gr.RowType == DataControlRowType.DataRow)
+            {
+               chkresend = gr.FindControl("chkresend") as CheckBox;
+               txtcomment = gr.FindControl("txtcomment") as TextBox;
+               hdnSpareID = gr.FindControl("hdnSpareID") as HiddenField;
+
+               hdnBillNo=  gr.FindControl("hdnBillNo") as HiddenField;
+               lbldocno = gr.FindControl("lbldocno") as Label;
+              if (chkresend.Checked)
+                {
+                    ctr = ctr + 1;
+                    objASCSparePurchaseOutside.SpareId = Convert.ToInt32(hdnSpareID.Value);
+                    objASCSparePurchaseOutside.BillNo = hdnBillNo.Value;
+                    objASCSparePurchaseOutside.AutoGeneratedNumber = lbldocno.Text;
+                    objASCSparePurchaseOutside.BAComments = txtcomment.Text;
+                    objASCSparePurchaseOutside.ResendBills();
+               }
+  
+            
+            
+            }
+        
+        
+        }
+        if (ctr > 0)
+        {
+            lblMessage.Text = ctr.ToString() + " Records has been send for re-approval";
+            objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+            objASCSparePurchaseOutside.ASC_Id = Convert.ToInt32(ddlASC.SelectedValue);
+            objASCSparePurchaseOutside.GetBills(GvDetails);
+        }
+    }
+    protected void GvDetails_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        Label lblRejectionReason =   e.Row.FindControl("lblRejectionReason") as Label;
+        CheckBox chkresend = e.Row.FindControl("chkresend") as CheckBox;
+        TextBox txtcomment = e.Row.FindControl("txtcomment") as TextBox;
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+            if ((e.Row.FindControl("chkreject") as CheckBox).Checked)
+            {
+                lblRejectionReason.Text = "APPROVED";
+            }
+            else
+            {
+                lblRejectionReason.Text = "REJECTED :" + lblRejectionReason.Text;
+                chkresend.Visible = true;
+                txtcomment.Visible = true;
+            }
+        }
+    }
+
+    protected void btnSearch_Click(object sender, EventArgs e)
+    {
+        if (ddlASC.SelectedIndex != 0)
+            objASCSparePurchaseOutside.ASC_Id = Convert.ToInt32(ddlASC.SelectedValue);
+        objASCSparePurchaseOutside.BranchSno = ddlBranch.SelectedValue;
+        objASCSparePurchaseOutside.dateFrom = "";
+        objASCSparePurchaseOutside.dateTo = "";
+        DateTime fromdate;
+        DateTime todate;
+        if (DateTime.TryParse(txtFromDate.Text, out fromdate) && DateTime.TryParse(txtToDate.Text, out todate))
+        {
+            objASCSparePurchaseOutside.dateFrom = txtFromDate.Text;
+            objASCSparePurchaseOutside.dateTo = txtToDate.Text;
+            objASCSparePurchaseOutside.GetBills(GvDetails);
+        }
+        else
+        {
+            lblDateErr.Text = "Invalid Selection";
+        }
+        
+       
+    }
+}

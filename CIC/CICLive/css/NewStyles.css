@@ -1,0 +1,644 @@
+
+
+img { border:none}
+
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #8D8D8D;
+	text-decoration: none;
+}
+
+.textSmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #4B4B4B;
+	text-decoration: none;
+}
+
+.sign_in_text {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #1D5097;
+	text-decoration: none;
+}
+
+.copyright {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #666666;
+	text-decoration: none;
+}
+
+/*
+.flabel
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black';
+    BACKGROUND-COLOR: whitesmoke
+}
+.text:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #8D8D8D;
+	text-decoration: underline;
+}
+.copyright {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #666666;
+	text-decoration: none;
+}
+
+
+.fblack
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+.star
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: Verdana
+}
+.reptbg
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.scrollbar
+{
+    SCROLLBAR-FACE-COLOR: #e2e7eb;
+    SCROLLBAR-HIGHLIGHT-COLOR: #e2e7eb;
+    SCROLLBAR-3DLIGHT-COLOR: #ffffff;
+    SCROLLBAR-ARROW-COLOR: darkblue;
+    SCROLLBAR-TRACK-COLOR: #f2f4f7;
+    SCROLLBAR-DARKSHADOW-COLOR: darkblue;
+    SCROLLBAR-BASE-COLOR: #e2e7eb
+}
+.navlink
+{
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana
+}
+.button
+{
+    BORDER-RIGHT: #222244 thin solid;
+    BORDER-TOP: #9999cc thin solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: #9999cc thin solid;
+    COLOR: white;
+    BORDER-BOTTOM: #222244 thin solid;
+    FONT-FAMILY: Verdana,Helvetica,sans-serif;
+    BACKGROUND-COLOR:#839D22
+}
+.menuLink
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+
+.submenulink
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+.repttable
+{
+    BACKGROUND-COLOR: gainsboro
+}
+.formtable
+{
+    BACKGROUND-COLOR:#A0A942
+}
+.formbg
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black';
+    BACKGROUND-COLOR: whitesmoke
+}
+.reptcol
+{
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR:#A0A942;
+    TEXT-ALIGN: center;
+    VERTICAL: TOP
+}
+.formhead
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9pt;
+    COLOR:black;
+    FONT-FAMILY: Verdana, Arial
+}
+.links
+{
+    FONT-SIZE: 8pt;
+    COLOR: indigo;
+    FONT-FAMILY: Verdana
+}
+.tdwback
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black';
+    BACKGROUND-COLOR: whitesmoke
+}
+.ErrMsg
+{
+    FONT-SIZE: 9pt;
+    COLOR: red;
+    FONT-FAMILY: Verdana
+}
+.formband
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: Black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: lightgrey;
+    TEXT-DECORATION: none
+}
+.tdbrown
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: lightyellow
+}
+.tdbrown
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #f0ebe6
+}
+.tdpink
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #fff5ff
+}
+.fblue
+{
+    FONT-SIZE: 9pt;
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana, Arial
+}
+.fyellow
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #fbfbea
+}
+.Quicklinks
+{    
+    COLOR: black;    
+    FONT-FAMILY:Verdana ;
+	FONT-SIZE: 8pt;
+}
+.row1
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: oldlace
+}
+.row2
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: aliceblue
+}
+
+
+.fbbold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black'
+}
+.break
+{
+    PAGE-BREAK-BEFORE: always
+}
+
+
+.footertext
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial
+}
+.fblacknarrow
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+
+A
+{
+    FONT-SIZE: 8pt;
+    COLOR: navy;
+    FONT-FAMILY: Verdana, Arial
+}
+A:active
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana, Arial
+}
+
+.buttonGreen
+{
+    BORDER-RIGHT: darkgreen thin solid;
+    BORDER-TOP: darkseagreen thin solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: darkseagreen thin solid;
+    COLOR: white;
+    BORDER-BOTTOM: darkgreen thin solid;
+    FONT-FAMILY: Verdana,Helvetica,sans-serif;
+    BACKGROUND-COLOR: seagreen
+}
+.buttonGrey
+{
+    FONT-SIZE: 11px;
+    COLOR: white;
+    FONT-FAMILY: Verdana,Helvetica,sans-serif;
+    BACKGROUND-COLOR: gray
+}
+.Topbutton
+{
+    BORDER-RIGHT: #222244 thin solid;
+    BORDER-TOP: #9999cc thin solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: #9999cc thin solid;
+    COLOR: black;
+    BORDER-BOTTOM: #222244 thin solid;
+    FONT-FAMILY: Verdana,Helvetica,sans-serif;
+    BACKGROUND-COLOR: #dcdcdc
+}
+
+.reptbgheader
+{
+    FONT-SIZE: 11pt;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.reptbgheader1
+{
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.reptbgheader2
+{
+    FONT-SIZE: 13pt;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.sepreptbgheader
+{
+    FONT-SIZE: 11pt;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.reptbgheaderbold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow;
+
+}
+.reptbgTitleheader
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 15px;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.reptbgsubTitleheader
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: black;
+    FONT-FAMILY: Arial Narrow
+}
+.reptbgheadertd
+{
+    FONT-SIZE: 11px;
+    COLOR: navy;
+    FONT-FAMILY: Arial Narrow
+    BACKGROUND-COLOR: grey
+}
+.reptbg9
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.reptbg7
+{
+    FONT-SIZE: 7pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+
+.reptcolDashB
+{
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR:#CC9999;   
+    VERTICAL: TOP
+}
+.flabel
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black';
+    BACKGROUND-COLOR: whitesmoke
+}
+
+.Calbook
+{
+    BACKGROUND-COLOR: #f5f5dc
+}
+
+.FNormal
+{
+    FONT-SIZE: 9pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana
+}
+
+.divBand
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #e6e6fa
+}
+.LocBand
+{
+    FONT-SIZE: 8pt;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: lightgoldenrodyellow
+}
+.fbrown
+{
+    FONT-SIZE: 8pt;
+    COLOR: saddlebrown;
+    FONT-FAMILY: Verdana, Arial;
+    BACKGROUND-COLOR: white
+}
+
+.tdpink1
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #FF99CC 
+}
+
+.ghbookall
+{
+    BACKGROUND-COLOR: #9900ff
+}
+.ghbook
+{
+    BACKGROUND-COLOR: #a1b1b1
+}
+.tiny
+{
+    FONT-SIZE: 7pt;
+    FONT-FAMILY: Verdana
+}
+.darkgreen
+{
+    COLOR: mediumseagreen;
+    FONT-FAMILY: Verdana
+}
+.DarkKhaki
+{
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: darkkhaki
+}
+.fblack1
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Verdana
+}
+
+.repttitle
+{
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 13pt;
+    TEXT-TRANSFORM: uppercase;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+.reptctitle
+{
+    FONT-WEIGHT: 600;
+    FONT-SIZE: 10pt;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+
+.scrollbar1
+{
+    SCROLLBAR-FACE-COLOR: #ffffff;
+    SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+    SCROLLBAR-SHADOW-COLOR: #e2e7ff;
+    SCROLLBAR-3DLIGHT-COLOR: lightgrey;
+    SCROLLBAR-ARROW-COLOR: black;
+    SCROLLBAR-TRACK-COLOR: #e2e7eb;
+    SCROLLBAR-DARKSHADOW-COLOR: lightgrey;
+    SCROLLBAR-BASE-COLOR: #ffffff
+}
+.thelp
+{
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.hhelp
+{
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black';
+    BACKGROUND-COLOR: whitesmoke
+}
+.box
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    FONT-SIZE: 7pt;
+    BORDER-LEFT: #000000 1px solid;
+    COLOR: #000000;
+    BORDER-BOTTOM: #000000 1px solid;
+    FONT-FAMILY: verdana
+}
+.tddarkpink
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana,Helvetica,sans-serif;
+    BACKGROUND-COLOR: #ffeef1
+}
+.boldtext
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana, 'Arial Black'
+}
+.flat
+{
+    BORDER-RIGHT: #ffffff 0px solid;
+    BORDER-TOP: #ffffff 0px solid;
+    BORDER-LEFT: #ffffff 0px solid;
+    BORDER-BOTTOM: #ffffff 0px solid
+}
+.buttonRed
+{
+    BORDER-RIGHT: #442200 thin solid;
+    BORDER-TOP: #cc9999 thin solid;
+    FONT-SIZE: 11px;
+    BORDER-LEFT: #cc9999 thin solid;
+    COLOR: white;
+    BORDER-BOTTOM: #442200 thin solid;
+    FONT-FAMILY: Verdana, Helvetica, sans-serif;
+    BACKGROUND-COLOR: sienna
+}
+.LinkNS
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: underline
+}
+.LinkOthers
+{
+    FONT-SIZE: 8pt;
+    COLOR: navy;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+.reptbgred
+{
+    FONT-SIZE: 8pt;
+    COLOR: red;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.MPlink
+{
+    TEXT-DECORATION: underline
+}
+.LinkNoLine
+{
+    FONT-SIZE: 8pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Verdana;
+    TEXT-DECORATION: none
+}
+
+.rowpink
+{
+	font-size: 8pt;
+	color: black;
+	font-family: Verdana;
+	background-color: fuchsia;
+}
+.rowgreen
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: lime
+}
+.fpink
+{
+    FONT-SIZE: 8pt;
+    COLOR: FF33CC ;
+    FONT-FAMILY: Verdana
+}
+.fgreen
+{
+    FONT-SIZE: 8pt;
+    COLOR: green;
+    FONT-FAMILY: Verdana
+}
+
+.reptcolleft
+{
+	font-weight: 600;
+	font-size: 8pt;
+	color: white;
+	font-family: Verdana;
+	background-color:#CC9999;	
+	VERTICAL: TOP;
+}
+.tdpinklight
+{
+    FONT-SIZE: 8pt;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #FCDFFF
+}*/

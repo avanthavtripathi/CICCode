@@ -1,0 +1,12 @@
+10/18/2014 9:38:50 PM
+   at SIMS_Admin_SIMSSpareConsumption.FillActivityGrid() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 253-->Index was outside the bounds of the array.
+10/18/2014 9:44:19 PM
+   at SIMS_Admin_SIMSSpareConsumption.FillActivityGrid() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 253-->Index was outside the bounds of the array.
+10/18/2014 9:44:41 PM
+   at System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   at System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   at SIMS_Admin_SIMSSpareConsumption.FillActivityGrid() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 266-->The source contains no DataRows.
+10/18/2014 9:47:01 PM
+   at System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   at System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   at SIMS_Admin_SIMSSpareConsumption.FillActivityGrid() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 266-->The source contains no DataRows.

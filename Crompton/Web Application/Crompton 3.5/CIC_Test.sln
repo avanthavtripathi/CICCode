@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CIC_Test", "..\CIC_Test", "{1406B678-DDF3-4A6D-93E4-8B96E08FB1EE}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/CIC_Test"
+		Debug.AspNetCompiler.PhysicalPath = "D:\WAD\Projects\CIC_Test\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CIC_Test\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CIC_Test"
+		Release.AspNetCompiler.PhysicalPath = "D:\WAD\Projects\CIC_Test\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CIC_Test\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3746"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1406B678-DDF3-4A6D-93E4-8B96E08FB1EE}.Debug|.NET.ActiveCfg = Debug|.NET
+		{1406B678-DDF3-4A6D-93E4-8B96E08FB1EE}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

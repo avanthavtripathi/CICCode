@@ -1,0 +1,218 @@
+5/8/2014 12:39:54 PM
+   at System.Web.UI.DataBinder.GetPropertyValue(Object container, String propName)
+   at System.Web.UI.DataBinder.Eval(Object container, String[] expressionParts)
+   at System.Web.UI.DataBinder.Eval(Object container, String expression)
+   at System.Web.UI.TemplateControl.Eval(String expression)
+   at ASP.sims_reports_internalbillsummary_aspx.__DataBind__control15(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx:line 289
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 676
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'TransactionNo'.
+5/8/2014 12:40:00 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 673
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 12:54:56 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 673
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 12:55:43 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 673
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 1:06:25 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 673
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 1:18:37 PM
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 676
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->A field or property with the name 'InternalBillDate' was not found on the selected data source.
+5/8/2014 1:21:48 PM
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 676
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->A field or property with the name 'ActualAmmount' was not found on the selected data source.
+5/8/2014 1:26:08 PM
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 676
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->A field or property with the name 'ActualAmmount' was not found on the selected data source.
+5/8/2014 1:27:28 PM
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 676
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->A field or property with the name 'ActualAmmount' was not found on the selected data source.
+5/8/2014 2:04:33 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at ASCPaymentMaster.BindGridBillDetailsOnReport(GridView gv, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 404
+   at Reports_IBNDetails.BindgvConfirmation() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\IBNDetails.aspx.cs:line 37-->@BillNo is not a parameter for procedure SIMS_InternalBillGeneration.
+5/8/2014 2:04:58 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at ASCPaymentMaster.BindGridBillDetailsOnReport(GridView gv, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 404
+   at Reports_IBNDetails.BindgvConfirmation() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\IBNDetails.aspx.cs:line 37-->@BillNo is not a parameter for procedure SIMS_InternalBillGeneration.
+5/8/2014 2:26:31 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at ASCPaymentMaster.GetIBNDetails(GridView gv, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 440
+   at Reports_IBNDetails.BindgvConfirmation() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\IBNDetails.aspx.cs:line 37-->@TransactionNo is not a parameter for procedure SIMS_InternalBillGeneration.
+5/8/2014 2:33:53 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at SIMSSqlDataAccessLayer.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 649
+   at SIMSSqlDataAccessLayer.ExecuteDataset(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 560
+   at ASCPaymentMaster.GetIBNDetails(GridView gv, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 440
+   at Reports_IBNDetails.BindgvConfirmation() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\IBNDetails.aspx.cs:line 37-->@TransactionNo is not a parameter for procedure SIMS_InternalBillGeneration.
+5/8/2014 4:15:01 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 708
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 4:15:14 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 708
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.
+5/8/2014 4:15:15 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at ASCPaymentMaster.BindInternalBillDetails(GridView gvComm, Label lblRowCount) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\ASCPaymentMaster.cs:line 708
+   at SIMS_Reports_ConfirmedPayment.BindInternalBillSummary() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\InternalBillSummary.aspx.cs:line 109-->Cannot find table 0.

@@ -1,0 +1,3816 @@
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:00:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:01:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:03:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:04:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:06:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:07:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:09:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:10:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:12:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:13:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:15:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:16:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:18:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:19:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:21:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:22:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:24:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:25:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:27:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:28:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:30:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:31:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:33:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:34:56 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:36:26 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:37:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:39:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:40:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:42:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:43:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:45:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:46:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:48:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:49:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:51:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:52:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:54:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:55:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:57:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:58:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:00:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:01:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:03:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:04:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:06:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:07:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:09:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:10:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:12:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:13:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:15:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:16:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:18:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:19:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:21:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:22:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:24:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:25:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:27:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:28:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:30:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:31:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:33:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:34:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:36:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:37:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:39:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:40:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:42:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:43:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:45:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:46:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:48:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:49:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:51:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:52:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:54:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:55:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:57:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:58:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:00:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:01:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:03:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:04:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:06:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:07:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:09:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:10:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:12:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:13:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:15:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:16:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:18:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:19:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:21:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:22:57 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:24:27 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:25:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:27:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:28:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:30:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:31:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:33:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:34:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:36:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:37:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:39:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:40:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:42:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:43:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:45:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:46:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:48:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:49:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:51:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:52:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:54:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:55:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:57:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:58:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:00:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:01:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:03:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:04:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:06:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:07:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:09:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:10:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:12:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:13:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:15:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:16:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:18:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:19:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:21:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:22:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:24:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:25:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:27:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:28:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:30:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:31:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:33:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:34:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:36:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:37:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:39:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:40:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:42:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:43:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:45:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:46:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:48:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:49:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:51:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:52:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:54:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:55:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:57:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:58:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:00:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:01:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:03:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:04:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:06:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:07:58 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:09:28 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:10:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:12:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:13:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:15:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:16:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:18:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:19:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:21:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:22:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:24:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:25:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:27:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:28:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:30:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:31:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:33:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:34:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:36:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:37:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:39:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:40:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:42:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:43:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:45:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:46:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:48:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:49:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:51:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:52:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:54:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:55:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:57:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:58:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:00:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:01:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:03:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:04:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:06:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:07:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:09:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:10:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:12:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:13:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:15:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:16:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:18:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:19:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:21:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:22:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:24:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:25:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:27:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:28:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:30:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:31:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:33:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:34:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:36:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:37:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:39:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:40:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:42:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:43:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:45:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:46:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:48:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:49:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:51:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:52:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:54:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:55:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:57:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:58:59 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:00:29 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:02:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:03:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:05:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:06:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:08:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:09:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:11:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:12:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:14:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:15:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:17:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:18:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:20:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:21:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:23:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:24:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:26:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:27:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:29:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:30:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:32:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:33:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:35:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:36:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:38:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:39:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:41:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:42:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:44:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:45:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:47:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:48:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:50:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:51:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:53:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:54:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:56:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:57:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:59:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:00:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:02:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:03:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:05:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:06:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:08:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:09:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:11:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:12:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:14:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:15:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:17:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:18:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:20:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:21:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:23:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:24:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:26:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:27:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:29:00 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664688'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345172'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664702'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345186'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664713'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345197'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664721'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345205'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664729'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345213'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12183664735'>
+	<MID SUBMITDATE='2017-11-19 07:30:44' ID='1' TAG = 'null' TID = '28101345219'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:30:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:32:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:33:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:35:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:36:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:38:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:39:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:41:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:42:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:44:00 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:45:30 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:47:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:48:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:50:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:51:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:53:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:54:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:56:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:57:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:59:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:00:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:02:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:03:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:05:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:06:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:08:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:09:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:11:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:12:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:14:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:15:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:17:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:18:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:20:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:21:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:23:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:24:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:26:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:27:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:29:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:30:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:32:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:33:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:35:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:36:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:38:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:39:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:41:01 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184027016'>
+	<MID SUBMITDATE='2017-11-19 08:42:46' ID='1' TAG = 'null' TID = '28102993055'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184027017'>
+	<MID SUBMITDATE='2017-11-19 08:42:46' ID='1' TAG = 'null' TID = '28102993056'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:42:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:44:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:45:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:47:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:48:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:50:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:51:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:53:01 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184166015'>
+	<MID SUBMITDATE='2017-11-19 08:54:45' ID='1' TAG = 'null' TID = '28103442444'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184166022'>
+	<MID SUBMITDATE='2017-11-19 08:54:45' ID='1' TAG = 'null' TID = '28103442451'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184166029'>
+	<MID SUBMITDATE='2017-11-19 08:54:45' ID='1' TAG = 'null' TID = '28103442458'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184166038'>
+	<MID SUBMITDATE='2017-11-19 08:54:45' ID='1' TAG = 'null' TID = '28103442467'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:54:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:56:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:57:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:59:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:00:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:02:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:03:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:05:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:06:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:08:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:09:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:11:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:12:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:14:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:15:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:17:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:18:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:20:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:21:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:23:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:24:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:26:01 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:27:31 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:29:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:30:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:32:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184488482'>
+	<MID SUBMITDATE='2017-11-19 09:33:45' ID='1' TAG = 'null' TID = '28103913013'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184488490'>
+	<MID SUBMITDATE='2017-11-19 09:33:45' ID='1' TAG = 'null' TID = '28103913021'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184488498'>
+	<MID SUBMITDATE='2017-11-19 09:33:45' ID='1' TAG = 'null' TID = '28103913029'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184488505'>
+	<MID SUBMITDATE='2017-11-19 09:33:45' ID='1' TAG = 'null' TID = '28103913036'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:33:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:35:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:36:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:38:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:39:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:41:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:42:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:44:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:45:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:47:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:48:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184602230'>
+	<MID SUBMITDATE='2017-11-19 09:50:15' ID='1' TAG = 'null' TID = '28104075938'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184602237'>
+	<MID SUBMITDATE='2017-11-19 09:50:15' ID='1' TAG = 'null' TID = '28104075945'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184602246'>
+	<MID SUBMITDATE='2017-11-19 09:50:15' ID='1' TAG = 'null' TID = '28104075954'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184602251'>
+	<MID SUBMITDATE='2017-11-19 09:50:16' ID='1' TAG = 'null' TID = '28104075959'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:50:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:51:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184663336'>
+	<MID SUBMITDATE='2017-11-19 09:53:15' ID='1' TAG = 'null' TID = '28104236904'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184663348'>
+	<MID SUBMITDATE='2017-11-19 09:53:15' ID='1' TAG = 'null' TID = '28104236916'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:53:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:54:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184674734'>
+	<MID SUBMITDATE='2017-11-19 09:56:16' ID='1' TAG = 'null' TID = '28104248141'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184674742'>
+	<MID SUBMITDATE='2017-11-19 09:56:16' ID='1' TAG = 'null' TID = '28104248149'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:56:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680862'>
+	<MID SUBMITDATE='2017-11-19 09:57:45' ID='1' TAG = 'null' TID = '28104254217'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680875'>
+	<MID SUBMITDATE='2017-11-19 09:57:45' ID='1' TAG = 'null' TID = '28104254230'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680885'>
+	<MID SUBMITDATE='2017-11-19 09:57:45' ID='1' TAG = 'null' TID = '28104254240'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680894'>
+	<MID SUBMITDATE='2017-11-19 09:57:45' ID='1' TAG = 'null' TID = '28104254249'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680903'>
+	<MID SUBMITDATE='2017-11-19 09:57:46' ID='1' TAG = 'null' TID = '28104254258'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184680910'>
+	<MID SUBMITDATE='2017-11-19 09:57:46' ID='1' TAG = 'null' TID = '28104254265'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:57:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:59:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:00:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:02:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184707848'>
+	<MID SUBMITDATE='2017-11-19 10:03:45' ID='1' TAG = 'null' TID = '28104280920'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184707856'>
+	<MID SUBMITDATE='2017-11-19 10:03:45' ID='1' TAG = 'null' TID = '28104280928'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:03:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:05:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:06:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:08:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:09:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:11:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:12:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:14:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:15:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:17:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184874796'>
+	<MID SUBMITDATE='2017-11-19 10:18:45' ID='1' TAG = 'null' TID = '28105097111'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12184874804'>
+	<MID SUBMITDATE='2017-11-19 10:18:45' ID='1' TAG = 'null' TID = '28105097119'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:18:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:20:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:21:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:23:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:24:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:26:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:27:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:29:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:30:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:32:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:33:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185017092'>
+	<MID SUBMITDATE='2017-11-19 10:35:16' ID='1' TAG = 'null' TID = '28105285088'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185017095'>
+	<MID SUBMITDATE='2017-11-19 10:35:16' ID='1' TAG = 'null' TID = '28105285091'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:35:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:36:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:38:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:39:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:41:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:42:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:44:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:45:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:47:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:48:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:50:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:51:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:53:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:54:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:56:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:57:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185213643'>
+	<MID SUBMITDATE='2017-11-19 10:59:16' ID='1' TAG = 'null' TID = '28106183894'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185213652'>
+	<MID SUBMITDATE='2017-11-19 10:59:16' ID='1' TAG = 'null' TID = '28106183903'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:59:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:00:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:02:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:03:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:05:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:06:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:08:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185402138'>
+	<MID SUBMITDATE='2017-11-19 11:09:46' ID='1' TAG = 'null' TID = '28106771860'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185402149'>
+	<MID SUBMITDATE='2017-11-19 11:09:46' ID='1' TAG = 'null' TID = '28106771871'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:09:32 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185459895'>
+	<MID SUBMITDATE='2017-11-19 11:11:16' ID='1' TAG = 'null' TID = '28106779522'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185459898'>
+	<MID SUBMITDATE='2017-11-19 11:11:16' ID='1' TAG = 'null' TID = '28106779525'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:11:02 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185467361'>
+	<MID SUBMITDATE='2017-11-19 11:12:46' ID='1' TAG = 'null' TID = '28108036939'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185467371'>
+	<MID SUBMITDATE='2017-11-19 11:12:46' ID='1' TAG = 'null' TID = '28108036949'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:12:32 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:14:02 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:15:33 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448625'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709249'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448626'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709250'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448630'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709254'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448636'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709261'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448637'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709262'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185448639'>
+	<MID SUBMITDATE='2017-11-19 11:17:16' ID='1' TAG = 'null' TID = '28108709264'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:17:03 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185451528'>
+	<MID SUBMITDATE='2017-11-19 11:18:46' ID='1' TAG = 'null' TID = '28108713380'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185451530'>
+	<MID SUBMITDATE='2017-11-19 11:18:46' ID='1' TAG = 'null' TID = '28108713382'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:18:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:20:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:21:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:23:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:24:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:26:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:27:33 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185553396'>
+	<MID SUBMITDATE='2017-11-19 11:29:16' ID='1' TAG = 'null' TID = '28108822062'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185553405'>
+	<MID SUBMITDATE='2017-11-19 11:29:16' ID='1' TAG = 'null' TID = '28108822071'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:29:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:30:33 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185619778'>
+	<MID SUBMITDATE='2017-11-19 11:32:16' ID='1' TAG = 'null' TID = '28108988299'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185619787'>
+	<MID SUBMITDATE='2017-11-19 11:32:16' ID='1' TAG = 'null' TID = '28108988308'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185619794'>
+	<MID SUBMITDATE='2017-11-19 11:32:16' ID='1' TAG = 'null' TID = '28108988315'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185619798'>
+	<MID SUBMITDATE='2017-11-19 11:32:16' ID='1' TAG = 'null' TID = '28108988319'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:32:03 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185627989'>
+	<MID SUBMITDATE='2017-11-19 11:33:46' ID='1' TAG = 'null' TID = '28108996458'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185627996'>
+	<MID SUBMITDATE='2017-11-19 11:33:46' ID='1' TAG = 'null' TID = '28108996465'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:33:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:35:03 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185643714'>
+	<MID SUBMITDATE='2017-11-19 11:36:46' ID='1' TAG = 'null' TID = '28109012038'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185643728'>
+	<MID SUBMITDATE='2017-11-19 11:36:46' ID='1' TAG = 'null' TID = '28109012052'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:36:33 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185651787'>
+	<MID SUBMITDATE='2017-11-19 11:38:16' ID='1' TAG = 'null' TID = '28109020017'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185651794'>
+	<MID SUBMITDATE='2017-11-19 11:38:16' ID='1' TAG = 'null' TID = '28109020024'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185651804'>
+	<MID SUBMITDATE='2017-11-19 11:38:16' ID='1' TAG = 'null' TID = '28109020033'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185651813'>
+	<MID SUBMITDATE='2017-11-19 11:38:16' ID='1' TAG = 'null' TID = '28109020042'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:38:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:39:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:41:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:42:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:44:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:45:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:47:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:48:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:50:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:51:33 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185833594'>
+	<MID SUBMITDATE='2017-11-19 11:53:16' ID='1' TAG = 'null' TID = '28110250990'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185833601'>
+	<MID SUBMITDATE='2017-11-19 11:53:16' ID='1' TAG = 'null' TID = '28110250997'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:53:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:54:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:56:03 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:57:33 AM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:59:03 AM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185876584'>
+	<MID SUBMITDATE='2017-11-19 12:00:46' ID='1' TAG = 'null' TID = '28110843641'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12185876596'>
+	<MID SUBMITDATE='2017-11-19 12:00:46' ID='1' TAG = 'null' TID = '28110843653'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:00:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:02:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:03:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:05:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:06:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:08:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:09:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:11:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:12:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:14:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:15:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186067940'>
+	<MID SUBMITDATE='2017-11-19 12:17:16' ID='1' TAG = 'null' TID = '28111534074'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186067951'>
+	<MID SUBMITDATE='2017-11-19 12:17:16' ID='1' TAG = 'null' TID = '28111534085'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:17:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186076207'>
+	<MID SUBMITDATE='2017-11-19 12:18:46' ID='1' TAG = 'null' TID = '28111542295'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186076210'>
+	<MID SUBMITDATE='2017-11-19 12:18:46' ID='1' TAG = 'null' TID = '28111542298'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:18:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:20:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186092689'>
+	<MID SUBMITDATE='2017-11-19 12:21:46' ID='1' TAG = 'null' TID = '28111558634'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186092696'>
+	<MID SUBMITDATE='2017-11-19 12:21:47' ID='1' TAG = 'null' TID = '28111558641'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186092704'>
+	<MID SUBMITDATE='2017-11-19 12:21:47' ID='1' TAG = 'null' TID = '28111558649'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186092709'>
+	<MID SUBMITDATE='2017-11-19 12:21:47' ID='1' TAG = 'null' TID = '28111558654'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:21:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:23:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186043784'>
+	<MID SUBMITDATE='2017-11-19 12:24:47' ID='1' TAG = 'null' TID = '28111601506'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186043790'>
+	<MID SUBMITDATE='2017-11-19 12:24:47' ID='1' TAG = 'null' TID = '28111601512'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186043793'>
+	<MID SUBMITDATE='2017-11-19 12:24:47' ID='1' TAG = 'null' TID = '28111601515'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186043798'>
+	<MID SUBMITDATE='2017-11-19 12:24:47' ID='1' TAG = 'null' TID = '28111601520'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:24:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:26:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:27:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:29:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:30:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186056984'>
+	<MID SUBMITDATE='2017-11-19 12:32:16' ID='1' TAG = 'null' TID = '28111763463'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186056987'>
+	<MID SUBMITDATE='2017-11-19 12:32:17' ID='1' TAG = 'null' TID = '28111763466'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:32:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:33:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186261965'>
+	<MID SUBMITDATE='2017-11-19 12:35:17' ID='1' TAG = 'null' TID = '28111886540'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186261967'>
+	<MID SUBMITDATE='2017-11-19 12:35:17' ID='1' TAG = 'null' TID = '28111886542'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:35:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:36:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186266582'>
+	<MID SUBMITDATE='2017-11-19 12:38:17' ID='1' TAG = 'null' TID = '28111911945'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186266586'>
+	<MID SUBMITDATE='2017-11-19 12:38:17' ID='1' TAG = 'null' TID = '28111911949'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:38:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186268878'>
+	<MID SUBMITDATE='2017-11-19 12:39:47' ID='1' TAG = 'null' TID = '28111924294'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186268881'>
+	<MID SUBMITDATE='2017-11-19 12:39:47' ID='1' TAG = 'null' TID = '28111924297'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186268884'>
+	<MID SUBMITDATE='2017-11-19 12:39:47' ID='1' TAG = 'null' TID = '28111924300'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186268887'>
+	<MID SUBMITDATE='2017-11-19 12:39:47' ID='1' TAG = 'null' TID = '28111924303'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:39:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:41:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186273765'>
+	<MID SUBMITDATE='2017-11-19 12:42:47' ID='1' TAG = 'null' TID = '28112060053'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186273769'>
+	<MID SUBMITDATE='2017-11-19 12:42:47' ID='1' TAG = 'null' TID = '28112060057'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:42:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:44:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:45:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:47:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186283621'>
+	<MID SUBMITDATE='2017-11-19 12:48:47' ID='1' TAG = 'null' TID = '28112192908'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186283629'>
+	<MID SUBMITDATE='2017-11-19 12:48:47' ID='1' TAG = 'null' TID = '28112192916'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:48:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186286326'>
+	<MID SUBMITDATE='2017-11-19 12:50:17' ID='1' TAG = 'null' TID = '28112206546'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186286332'>
+	<MID SUBMITDATE='2017-11-19 12:50:17' ID='1' TAG = 'null' TID = '28112206552'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:50:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:51:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:53:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186385989'>
+	<MID SUBMITDATE='2017-11-19 12:54:47' ID='1' TAG = 'null' TID = '28112250185'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186385998'>
+	<MID SUBMITDATE='2017-11-19 12:54:47' ID='1' TAG = 'null' TID = '28112250194'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:54:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:56:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186402651'>
+	<MID SUBMITDATE='2017-11-19 12:57:47' ID='1' TAG = 'null' TID = '28112266702'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186402661'>
+	<MID SUBMITDATE='2017-11-19 12:57:47' ID='1' TAG = 'null' TID = '28112266712'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:57:33 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 12:59:03 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186470566'>
+	<MID SUBMITDATE='2017-11-19 13:00:47' ID='1' TAG = 'null' TID = '28112584427'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186470576'>
+	<MID SUBMITDATE='2017-11-19 13:00:47' ID='1' TAG = 'null' TID = '28112584437'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186470598'>
+	<MID SUBMITDATE='2017-11-19 13:00:47' ID='1' TAG = 'null' TID = '28112584459'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186470620'>
+	<MID SUBMITDATE='2017-11-19 13:00:47' ID='1' TAG = 'null' TID = '28112584481'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:00:33 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186478843'>
+	<MID SUBMITDATE='2017-11-19 13:02:17' ID='1' TAG = 'null' TID = '28112592621'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186478908'>
+	<MID SUBMITDATE='2017-11-19 13:02:17' ID='1' TAG = 'null' TID = '28112592675'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:02:03 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:03:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:05:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:06:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:08:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186568511'>
+	<MID SUBMITDATE='2017-11-19 13:09:47' ID='1' TAG = 'null' TID = '28112981941'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186568517'>
+	<MID SUBMITDATE='2017-11-19 13:09:47' ID='1' TAG = 'null' TID = '28112981947'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:09:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186576310'>
+	<MID SUBMITDATE='2017-11-19 13:11:17' ID='1' TAG = 'null' TID = '28112989632'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186576314'>
+	<MID SUBMITDATE='2017-11-19 13:11:17' ID='1' TAG = 'null' TID = '28112989636'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:11:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186583943'>
+	<MID SUBMITDATE='2017-11-19 13:12:47' ID='1' TAG = 'null' TID = '28112997172'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186583962'>
+	<MID SUBMITDATE='2017-11-19 13:12:48' ID='1' TAG = 'null' TID = '28112997191'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:12:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186591708'>
+	<MID SUBMITDATE='2017-11-19 13:14:17' ID='1' TAG = 'null' TID = '28113004845'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186591718'>
+	<MID SUBMITDATE='2017-11-19 13:14:17' ID='1' TAG = 'null' TID = '28113004855'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:14:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186599330'>
+	<MID SUBMITDATE='2017-11-19 13:15:47' ID='1' TAG = 'null' TID = '28113012421'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186599342'>
+	<MID SUBMITDATE='2017-11-19 13:15:47' ID='1' TAG = 'null' TID = '28113012433'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:15:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:17:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:18:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186450744'>
+	<MID SUBMITDATE='2017-11-19 13:20:17' ID='1' TAG = 'null' TID = '28113382264'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186450749'>
+	<MID SUBMITDATE='2017-11-19 13:20:17' ID='1' TAG = 'null' TID = '28113382277'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:20:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:21:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186455681'>
+	<MID SUBMITDATE='2017-11-19 13:23:17' ID='1' TAG = 'null' TID = '28113393599'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186455686'>
+	<MID SUBMITDATE='2017-11-19 13:23:17' ID='1' TAG = 'null' TID = '28113393604'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:23:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:24:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:26:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:27:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:29:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:30:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:32:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:33:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186799812'>
+	<MID SUBMITDATE='2017-11-19 13:35:17' ID='1' TAG = 'null' TID = '28113561876'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186799820'>
+	<MID SUBMITDATE='2017-11-19 13:35:17' ID='1' TAG = 'null' TID = '28113561884'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:35:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186808192'>
+	<MID SUBMITDATE='2017-11-19 13:36:47' ID='1' TAG = 'null' TID = '28113570173'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186808207'>
+	<MID SUBMITDATE='2017-11-19 13:36:47' ID='1' TAG = 'null' TID = '28113570189'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:36:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:38:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186875577'>
+	<MID SUBMITDATE='2017-11-19 13:39:47' ID='1' TAG = 'null' TID = '28113737418'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186875594'>
+	<MID SUBMITDATE='2017-11-19 13:39:47' ID='1' TAG = 'null' TID = '28113737434'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:39:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186884155'>
+	<MID SUBMITDATE='2017-11-19 13:41:17' ID='1' TAG = 'null' TID = '28113745904'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186884177'>
+	<MID SUBMITDATE='2017-11-19 13:41:18' ID='1' TAG = 'null' TID = '28113745926'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:41:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186892645'>
+	<MID SUBMITDATE='2017-11-19 13:42:48' ID='1' TAG = 'null' TID = '28113754350'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186892693'>
+	<MID SUBMITDATE='2017-11-19 13:42:48' ID='1' TAG = 'null' TID = '28113754392'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186892699'>
+	<MID SUBMITDATE='2017-11-19 13:42:48' ID='1' TAG = 'null' TID = '28113754398'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186892709'>
+	<MID SUBMITDATE='2017-11-19 13:42:48' ID='1' TAG = 'null' TID = '28113754408'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:42:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186900893'>
+	<MID SUBMITDATE='2017-11-19 13:44:17' ID='1' TAG = 'null' TID = '28113762499'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186900904'>
+	<MID SUBMITDATE='2017-11-19 13:44:17' ID='1' TAG = 'null' TID = '28113762511'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:44:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186909402'>
+	<MID SUBMITDATE='2017-11-19 13:45:47' ID='1' TAG = 'null' TID = '28113770958'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186909417'>
+	<MID SUBMITDATE='2017-11-19 13:45:47' ID='1' TAG = 'null' TID = '28113770973'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186909428'>
+	<MID SUBMITDATE='2017-11-19 13:45:47' ID='1' TAG = 'null' TID = '28113770983'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186909445'>
+	<MID SUBMITDATE='2017-11-19 13:45:47' ID='1' TAG = 'null' TID = '28113771001'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:45:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186918010'>
+	<MID SUBMITDATE='2017-11-19 13:47:17' ID='1' TAG = 'null' TID = '28113779447'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186918019'>
+	<MID SUBMITDATE='2017-11-19 13:47:17' ID='1' TAG = 'null' TID = '28113779456'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:47:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:48:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:50:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186942280'>
+	<MID SUBMITDATE='2017-11-19 13:51:47' ID='1' TAG = 'null' TID = '28113903502'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12186942293'>
+	<MID SUBMITDATE='2017-11-19 13:51:47' ID='1' TAG = 'null' TID = '28113903515'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:51:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:53:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:54:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:56:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:57:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 1:59:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:00:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:02:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:03:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:05:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:06:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:08:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:09:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:11:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:12:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:14:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:15:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:17:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:18:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:20:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187190910'>
+	<MID SUBMITDATE='2017-11-19 14:21:48' ID='1' TAG = 'null' TID = '28114600590'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187190924'>
+	<MID SUBMITDATE='2017-11-19 14:21:48' ID='1' TAG = 'null' TID = '28114600604'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:21:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:23:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:24:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:26:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:27:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:29:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:30:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187294951'>
+	<MID SUBMITDATE='2017-11-19 14:32:18' ID='1' TAG = 'null' TID = '28114704063'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187294961'>
+	<MID SUBMITDATE='2017-11-19 14:32:18' ID='1' TAG = 'null' TID = '28114704073'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:32:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:33:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:35:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:36:34 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187228834'>
+	<MID SUBMITDATE='2017-11-19 14:38:18' ID='1' TAG = 'null' TID = '28114800438'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187228837'>
+	<MID SUBMITDATE='2017-11-19 14:38:18' ID='1' TAG = 'null' TID = '28114800441'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:38:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:39:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:41:04 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187235047'>
+	<MID SUBMITDATE='2017-11-19 14:42:48' ID='1' TAG = 'null' TID = '28114824865'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187235049'>
+	<MID SUBMITDATE='2017-11-19 14:42:48' ID='1' TAG = 'null' TID = '28114824867'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:42:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:44:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:45:34 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:47:04 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:48:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:50:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:51:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:53:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187252409'>
+	<MID SUBMITDATE='2017-11-19 14:54:49' ID='1' TAG = 'null' TID = '28115243813'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187252428'>
+	<MID SUBMITDATE='2017-11-19 14:54:49' ID='1' TAG = 'null' TID = '28115243832'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:54:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:56:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:57:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 2:59:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:00:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:02:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:03:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187525091'>
+	<MID SUBMITDATE='2017-11-19 15:05:18' ID='1' TAG = 'null' TID = '28115455383'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187525096'>
+	<MID SUBMITDATE='2017-11-19 15:05:18' ID='1' TAG = 'null' TID = '28115455396'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:05:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187528708'>
+	<MID SUBMITDATE='2017-11-19 15:06:48' ID='1' TAG = 'null' TID = '28115462508'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187528718'>
+	<MID SUBMITDATE='2017-11-19 15:06:49' ID='1' TAG = 'null' TID = '28115462530'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:06:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:08:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:09:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:11:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:12:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187547468'>
+	<MID SUBMITDATE='2017-11-19 15:14:18' ID='1' TAG = 'null' TID = '28115644094'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187547476'>
+	<MID SUBMITDATE='2017-11-19 15:14:18' ID='1' TAG = 'null' TID = '28115644102'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:14:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:15:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:17:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:18:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:20:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:21:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:23:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:24:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:26:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:27:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:29:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:30:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:32:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187732938'>
+	<MID SUBMITDATE='2017-11-19 15:33:48' ID='1' TAG = 'null' TID = '28115955605'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187732957'>
+	<MID SUBMITDATE='2017-11-19 15:33:48' ID='1' TAG = 'null' TID = '28115955624'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:33:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187736174'>
+	<MID SUBMITDATE='2017-11-19 15:35:18' ID='1' TAG = 'null' TID = '28115963998'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187736179'>
+	<MID SUBMITDATE='2017-11-19 15:35:18' ID='1' TAG = 'null' TID = '28115964023'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187736183'>
+	<MID SUBMITDATE='2017-11-19 15:35:19' ID='1' TAG = 'null' TID = '28115964027'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187736188'>
+	<MID SUBMITDATE='2017-11-19 15:35:19' ID='1' TAG = 'null' TID = '28115964033'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:35:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187739320'>
+	<MID SUBMITDATE='2017-11-19 15:36:48' ID='1' TAG = 'null' TID = '28115973299'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187739322'>
+	<MID SUBMITDATE='2017-11-19 15:36:49' ID='1' TAG = 'null' TID = '28115973301'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:36:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187742487'>
+	<MID SUBMITDATE='2017-11-19 15:38:18' ID='1' TAG = 'null' TID = '28116083813'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187742500'>
+	<MID SUBMITDATE='2017-11-19 15:38:19' ID='1' TAG = 'null' TID = '28116083872'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:38:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187745029'>
+	<MID SUBMITDATE='2017-11-19 15:39:48' ID='1' TAG = 'null' TID = '28116091705'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187745031'>
+	<MID SUBMITDATE='2017-11-19 15:39:49' ID='1' TAG = 'null' TID = '28116091707'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187745033'>
+	<MID SUBMITDATE='2017-11-19 15:39:49' ID='1' TAG = 'null' TID = '28116091709'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187745037'>
+	<MID SUBMITDATE='2017-11-19 15:39:49' ID='1' TAG = 'null' TID = '28116091726'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:39:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187747005'>
+	<MID SUBMITDATE='2017-11-19 15:41:18' ID='1' TAG = 'null' TID = '28116096993'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187747009'>
+	<MID SUBMITDATE='2017-11-19 15:41:19' ID='1' TAG = 'null' TID = '28116097009'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:41:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187748941'>
+	<MID SUBMITDATE='2017-11-19 15:42:48' ID='1' TAG = 'null' TID = '28116100672'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187748943'>
+	<MID SUBMITDATE='2017-11-19 15:42:49' ID='1' TAG = 'null' TID = '28116100679'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:42:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187750760'>
+	<MID SUBMITDATE='2017-11-19 15:44:19' ID='1' TAG = 'null' TID = '28116103667'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187750766'>
+	<MID SUBMITDATE='2017-11-19 15:44:19' ID='1' TAG = 'null' TID = '28116103676'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:44:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:45:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:47:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:48:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187758281'>
+	<MID SUBMITDATE='2017-11-19 15:50:18' ID='1' TAG = 'null' TID = '28116121545'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12187758284'>
+	<MID SUBMITDATE='2017-11-19 15:50:18' ID='1' TAG = 'null' TID = '28116121548'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:50:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:51:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:53:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188013773'>
+	<MID SUBMITDATE='2017-11-19 15:54:48' ID='1' TAG = 'null' TID = '28116431680'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188013778'>
+	<MID SUBMITDATE='2017-11-19 15:54:49' ID='1' TAG = 'null' TID = '28116431696'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:54:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:56:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:57:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 3:59:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:00:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:02:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:03:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:05:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:06:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:08:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:09:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:11:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:12:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:14:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:15:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:17:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:18:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:20:05 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188154866'>
+	<MID SUBMITDATE='2017-11-19 16:21:49' ID='1' TAG = 'null' TID = '28117608306'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188154880'>
+	<MID SUBMITDATE='2017-11-19 16:21:49' ID='1' TAG = 'null' TID = '28117608320'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:21:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:23:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:24:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:26:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:27:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:29:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:30:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188255841'>
+	<MID SUBMITDATE='2017-11-19 16:32:19' ID='1' TAG = 'null' TID = '28118408718'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188255850'>
+	<MID SUBMITDATE='2017-11-19 16:32:19' ID='1' TAG = 'null' TID = '28118408727'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:32:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:33:35 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:35:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:36:35 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188335738'>
+	<MID SUBMITDATE='2017-11-19 16:38:19' ID='1' TAG = 'null' TID = '28118638323'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188335763'>
+	<MID SUBMITDATE='2017-11-19 16:38:19' ID='1' TAG = 'null' TID = '28118638348'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:38:05 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:39:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188352223'>
+	<MID SUBMITDATE='2017-11-19 16:41:19' ID='1' TAG = 'null' TID = '28118654640'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188352230'>
+	<MID SUBMITDATE='2017-11-19 16:41:19' ID='1' TAG = 'null' TID = '28118654646'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:41:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188360506'>
+	<MID SUBMITDATE='2017-11-19 16:42:49' ID='1' TAG = 'null' TID = '28118662837'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188360510'>
+	<MID SUBMITDATE='2017-11-19 16:42:49' ID='1' TAG = 'null' TID = '28118662840'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:42:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:44:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:45:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:47:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:48:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:50:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:51:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:53:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:54:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:56:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:57:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 4:59:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:00:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188305295'>
+	<MID SUBMITDATE='2017-11-19 17:02:19' ID='1' TAG = 'null' TID = '28119712346'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188305297'>
+	<MID SUBMITDATE='2017-11-19 17:02:19' ID='1' TAG = 'null' TID = '28119712348'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:02:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:03:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:05:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188547168'>
+	<MID SUBMITDATE='2017-11-19 17:06:49' ID='1' TAG = 'null' TID = '28119848275'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188547175'>
+	<MID SUBMITDATE='2017-11-19 17:06:49' ID='1' TAG = 'null' TID = '28119848282'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:06:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:08:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:09:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:11:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:12:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:14:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:15:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188582186'>
+	<MID SUBMITDATE='2017-11-19 17:17:19' ID='1' TAG = 'null' TID = '28120268507'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188582191'>
+	<MID SUBMITDATE='2017-11-19 17:17:19' ID='1' TAG = 'null' TID = '28120268512'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188582195'>
+	<MID SUBMITDATE='2017-11-19 17:17:19' ID='1' TAG = 'null' TID = '28120268533'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188582200'>
+	<MID SUBMITDATE='2017-11-19 17:17:19' ID='1' TAG = 'null' TID = '28120268538'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:17:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:18:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:20:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:21:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:23:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:24:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188597407'>
+	<MID SUBMITDATE='2017-11-19 17:26:19' ID='1' TAG = 'null' TID = '28120372365'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188597409'>
+	<MID SUBMITDATE='2017-11-19 17:26:19' ID='1' TAG = 'null' TID = '28120372367'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188597413'>
+	<MID SUBMITDATE='2017-11-19 17:26:19' ID='1' TAG = 'null' TID = '28120372371'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188597418'>
+	<MID SUBMITDATE='2017-11-19 17:26:19' ID='1' TAG = 'null' TID = '28120372376'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:26:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:27:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602491'>
+	<MID SUBMITDATE='2017-11-19 17:29:19' ID='1' TAG = 'null' TID = '28120442092'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602494'>
+	<MID SUBMITDATE='2017-11-19 17:29:19' ID='1' TAG = 'null' TID = '28120442095'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602503'>
+	<MID SUBMITDATE='2017-11-19 17:29:19' ID='1' TAG = 'null' TID = '28120442104'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602508'>
+	<MID SUBMITDATE='2017-11-19 17:29:19' ID='1' TAG = 'null' TID = '28120442160'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602512'>
+	<MID SUBMITDATE='2017-11-19 17:29:20' ID='1' TAG = 'null' TID = '28120442164'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188602516'>
+	<MID SUBMITDATE='2017-11-19 17:29:20' ID='1' TAG = 'null' TID = '28120442168'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:29:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:30:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188608148'>
+	<MID SUBMITDATE='2017-11-19 17:32:19' ID='1' TAG = 'null' TID = '28120456961'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188608152'>
+	<MID SUBMITDATE='2017-11-19 17:32:19' ID='1' TAG = 'null' TID = '28120456964'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:32:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188760435'>
+	<MID SUBMITDATE='2017-11-19 17:33:49' ID='1' TAG = 'null' TID = '28120462042'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188760438'>
+	<MID SUBMITDATE='2017-11-19 17:33:50' ID='1' TAG = 'null' TID = '28120462045'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:33:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188762919'>
+	<MID SUBMITDATE='2017-11-19 17:35:19' ID='1' TAG = 'null' TID = '28120470601'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188762922'>
+	<MID SUBMITDATE='2017-11-19 17:35:20' ID='1' TAG = 'null' TID = '28120470604'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:35:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:36:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:38:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188769464'>
+	<MID SUBMITDATE='2017-11-19 17:39:49' ID='1' TAG = 'null' TID = '28120603827'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188769467'>
+	<MID SUBMITDATE='2017-11-19 17:39:50' ID='1' TAG = 'null' TID = '28120603830'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:39:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:41:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:42:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:44:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:45:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188949218'>
+	<MID SUBMITDATE='2017-11-19 17:47:20' ID='1' TAG = 'null' TID = '28120748273'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188949286'>
+	<MID SUBMITDATE='2017-11-19 17:47:20' ID='1' TAG = 'null' TID = '28120748322'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:47:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:48:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:50:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188982612'>
+	<MID SUBMITDATE='2017-11-19 17:51:49' ID='1' TAG = 'null' TID = '28120781457'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12188982618'>
+	<MID SUBMITDATE='2017-11-19 17:51:49' ID='1' TAG = 'null' TID = '28120781463'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:51:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:53:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:54:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:56:06 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189030086'>
+	<MID SUBMITDATE='2017-11-19 17:57:50' ID='1' TAG = 'null' TID = '28120828585'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189030098'>
+	<MID SUBMITDATE='2017-11-19 17:57:51' ID='1' TAG = 'null' TID = '28120828597'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:57:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 5:59:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:00:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:02:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:03:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:05:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:06:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:08:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:09:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:11:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:12:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:14:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:15:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:17:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:18:36 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:20:06 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:21:36 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189349862'>
+	<MID SUBMITDATE='2017-11-19 18:23:20' ID='1' TAG = 'null' TID = '28122147042'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189349876'>
+	<MID SUBMITDATE='2017-11-19 18:23:20' ID='1' TAG = 'null' TID = '28122147056'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:23:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:24:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:26:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:27:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:29:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189466363'>
+	<MID SUBMITDATE='2017-11-19 18:30:50' ID='1' TAG = 'null' TID = '28122313166'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189466381'>
+	<MID SUBMITDATE='2017-11-19 18:30:50' ID='1' TAG = 'null' TID = '28122313184'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:30:37 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189479813'>
+	<MID SUBMITDATE='2017-11-19 18:32:20' ID='1' TAG = 'null' TID = '28122326520'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189479826'>
+	<MID SUBMITDATE='2017-11-19 18:32:20' ID='1' TAG = 'null' TID = '28122326533'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:32:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:33:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:35:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:36:37 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189387592'>
+	<MID SUBMITDATE='2017-11-19 18:38:20' ID='1' TAG = 'null' TID = '28122583868'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189387595'>
+	<MID SUBMITDATE='2017-11-19 18:38:20' ID='1' TAG = 'null' TID = '28122583871'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189387599'>
+	<MID SUBMITDATE='2017-11-19 18:38:20' ID='1' TAG = 'null' TID = '28122583875'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189387602'>
+	<MID SUBMITDATE='2017-11-19 18:38:20' ID='1' TAG = 'null' TID = '28122583878'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:38:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:39:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:41:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:42:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:44:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:45:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:47:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:48:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:50:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189695008'>
+	<MID SUBMITDATE='2017-11-19 18:51:50' ID='1' TAG = 'null' TID = '28122890763'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189695013'>
+	<MID SUBMITDATE='2017-11-19 18:51:50' ID='1' TAG = 'null' TID = '28122890768'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:51:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:53:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:54:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:56:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:57:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 6:59:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:00:37 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189746519'>
+	<MID SUBMITDATE='2017-11-19 19:02:20' ID='1' TAG = 'null' TID = '28123051510'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189746524'>
+	<MID SUBMITDATE='2017-11-19 19:02:20' ID='1' TAG = 'null' TID = '28123051515'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:02:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189749401'>
+	<MID SUBMITDATE='2017-11-19 19:03:50' ID='1' TAG = 'null' TID = '28123058730'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189749405'>
+	<MID SUBMITDATE='2017-11-19 19:03:50' ID='1' TAG = 'null' TID = '28123058734'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189749409'>
+	<MID SUBMITDATE='2017-11-19 19:03:50' ID='1' TAG = 'null' TID = '28123058738'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189749412'>
+	<MID SUBMITDATE='2017-11-19 19:03:50' ID='1' TAG = 'null' TID = '28123058741'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:03:37 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752554'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066401'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752559'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066429'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752563'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066433'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752568'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066438'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752572'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066442'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752582'>
+	<MID SUBMITDATE='2017-11-19 19:05:20' ID='1' TAG = 'null' TID = '28123066452'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752589'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066459'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752592'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066475'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752594'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066477'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752597'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066500'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752601'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066504'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12189752604'>
+	<MID SUBMITDATE='2017-11-19 19:05:21' ID='1' TAG = 'null' TID = '28123066507'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:05:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:06:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:08:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:09:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:11:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:12:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:14:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:15:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:17:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:18:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:20:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:21:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:23:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:24:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:26:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:27:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:29:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190048440'>
+	<MID SUBMITDATE='2017-11-19 19:30:50' ID='1' TAG = 'null' TID = '28124189048'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190048446'>
+	<MID SUBMITDATE='2017-11-19 19:30:50' ID='1' TAG = 'null' TID = '28124189074'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:30:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:32:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190053154'>
+	<MID SUBMITDATE='2017-11-19 19:33:50' ID='1' TAG = 'null' TID = '28124323023'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190053157'>
+	<MID SUBMITDATE='2017-11-19 19:33:50' ID='1' TAG = 'null' TID = '28124323026'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:33:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:35:07 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190208608'>
+	<MID SUBMITDATE='2017-11-19 19:36:50' ID='1' TAG = 'null' TID = '28124352170'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190208618'>
+	<MID SUBMITDATE='2017-11-19 19:36:50' ID='1' TAG = 'null' TID = '28124352180'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:36:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:38:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:39:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:41:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:42:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:44:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:45:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:47:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:48:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:50:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:51:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:53:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:54:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:56:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:57:37 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190295727'>
+	<MID SUBMITDATE='2017-11-19 19:59:21' ID='1' TAG = 'null' TID = '28125179403'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190295731'>
+	<MID SUBMITDATE='2017-11-19 19:59:21' ID='1' TAG = 'null' TID = '28125179406'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 7:59:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:00:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:02:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:03:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:05:07 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:06:37 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:08:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:09:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:11:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:12:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:14:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:15:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:17:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:18:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:20:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:21:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:23:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:24:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:26:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:27:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:29:08 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190717788'>
+	<MID SUBMITDATE='2017-11-19 20:30:51' ID='1' TAG = 'null' TID = '28126108769'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190717801'>
+	<MID SUBMITDATE='2017-11-19 20:30:51' ID='1' TAG = 'null' TID = '28126108782'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190717811'>
+	<MID SUBMITDATE='2017-11-19 20:30:51' ID='1' TAG = 'null' TID = '28126108792'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190717815'>
+	<MID SUBMITDATE='2017-11-19 20:30:51' ID='1' TAG = 'null' TID = '28126108796'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:30:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:32:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:33:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:35:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:36:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:38:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:39:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:41:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:42:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:44:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:45:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:47:08 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190860389'>
+	<MID SUBMITDATE='2017-11-19 20:48:51' ID='1' TAG = 'null' TID = '28126900497'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12190860394'>
+	<MID SUBMITDATE='2017-11-19 20:48:51' ID='1' TAG = 'null' TID = '28126900502'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:48:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:50:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:51:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:53:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:54:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:56:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:57:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 8:59:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:00:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:02:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:03:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:05:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:06:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:08:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:09:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:11:08 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191016690'>
+	<MID SUBMITDATE='2017-11-19 21:12:51' ID='1' TAG = 'null' TID = '28127148706'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191016691'>
+	<MID SUBMITDATE='2017-11-19 21:12:51' ID='1' TAG = 'null' TID = '28127148707'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:12:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:14:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:15:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:17:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:18:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:20:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:21:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:23:08 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029849'>
+	<MID SUBMITDATE='2017-11-19 21:24:51' ID='1' TAG = 'null' TID = '28127177314'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029852'>
+	<MID SUBMITDATE='2017-11-19 21:24:51' ID='1' TAG = 'null' TID = '28127177317'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029854'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177341'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029855'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177342'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029857'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177344'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029860'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177347'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029863'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177360'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029869'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177366'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029872'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177380'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029875'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177383'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029877'>
+	<MID SUBMITDATE='2017-11-19 21:24:52' ID='1' TAG = 'null' TID = '28127177385'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029879'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177387'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029882'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177390'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029884'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177399'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029887'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177495'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029890'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177510'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029893'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177513'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029896'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177516'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029897'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177517'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029900'>
+	<MID SUBMITDATE='2017-11-19 21:24:53' ID='1' TAG = 'null' TID = '28127177520'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029904'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177534'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029907'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177537'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029909'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177555'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029912'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177558'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029915'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177561'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191029916'>
+	<MID SUBMITDATE='2017-11-19 21:24:54' ID='1' TAG = 'null' TID = '28127177562'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:24:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:26:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:27:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:29:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:30:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:32:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:33:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:35:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:36:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:38:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:39:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:41:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:42:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:44:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:45:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:47:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:48:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:50:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:51:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:53:08 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:54:38 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:56:09 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315745'>
+	<MID SUBMITDATE='2017-11-19 21:57:53' ID='1' TAG = 'null' TID = '28127584936'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315749'>
+	<MID SUBMITDATE='2017-11-19 21:57:53' ID='1' TAG = 'null' TID = '28127584940'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315751'>
+	<MID SUBMITDATE='2017-11-19 21:57:53' ID='1' TAG = 'null' TID = '28127584942'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315752'>
+	<MID SUBMITDATE='2017-11-19 21:57:53' ID='1' TAG = 'null' TID = '28127584943'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315758'>
+	<MID SUBMITDATE='2017-11-19 21:57:53' ID='1' TAG = 'null' TID = '28127584949'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315761'>
+	<MID SUBMITDATE='2017-11-19 21:57:54' ID='1' TAG = 'null' TID = '28127584952'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315764'>
+	<MID SUBMITDATE='2017-11-19 21:57:54' ID='1' TAG = 'null' TID = '28127584955'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191315768'>
+	<MID SUBMITDATE='2017-11-19 21:57:54' ID='1' TAG = 'null' TID = '28127584959'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:57:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 9:59:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:00:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:02:09 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191321683'>
+	<MID SUBMITDATE='2017-11-19 22:03:52' ID='1' TAG = 'null' TID = '28127593021'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191321688'>
+	<MID SUBMITDATE='2017-11-19 22:03:52' ID='1' TAG = 'null' TID = '28127593026'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:03:39 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191325538'>
+	<MID SUBMITDATE='2017-11-19 22:05:22' ID='1' TAG = 'null' TID = '28127597287'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191325544'>
+	<MID SUBMITDATE='2017-11-19 22:05:22' ID='1' TAG = 'null' TID = '28127597293'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:05:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:06:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:08:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:09:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:11:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:12:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:14:09 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191336683'>
+	<MID SUBMITDATE='2017-11-19 22:15:52' ID='1' TAG = 'null' TID = '28127611362'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191336686'>
+	<MID SUBMITDATE='2017-11-19 22:15:52' ID='1' TAG = 'null' TID = '28127611365'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:15:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:17:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:18:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:20:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:21:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:23:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:24:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:26:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:27:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:29:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:30:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:32:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:33:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:35:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:36:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:38:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:39:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:41:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:42:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:44:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:45:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:47:09 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191602130'>
+	<MID SUBMITDATE='2017-11-19 22:48:53' ID='1' TAG = 'null' TID = '28127886563'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191602132'>
+	<MID SUBMITDATE='2017-11-19 22:48:53' ID='1' TAG = 'null' TID = '28127886565'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:48:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:50:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:51:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:53:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:54:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:56:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:57:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 10:59:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:00:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:02:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:03:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:05:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:06:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:08:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:09:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:11:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:12:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:14:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:15:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:17:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:18:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:20:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:21:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:23:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:24:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:26:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:27:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:29:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:30:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:32:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:33:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:35:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:36:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:38:09 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:39:39 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:41:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:42:40 PM ******************
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191748424'>
+	<MID SUBMITDATE='2017-11-19 23:44:24' ID='1' TAG = 'null' TID = '28128030234'>
+
+	</MID>
+</RESULT>
+<!DOCTYPE RESULT SYSTEM 'http://bulkpush.mytoday.com/BulkSms/BulkSmsRespV1.01.dtd'>
+<RESULT REQID ='12191748428'>
+	<MID SUBMITDATE='2017-11-19 23:44:24' ID='1' TAG = 'null' TID = '28128030238'>
+
+	</MID>
+</RESULT>
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:44:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:45:40 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:47:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:48:40 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:50:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:51:40 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:53:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:54:40 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:56:10 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:57:40 PM ******************
+OnElapsedTime called....
+***********PROCESS STARTED AT--> 11/19/2017 11:59:10 PM ******************

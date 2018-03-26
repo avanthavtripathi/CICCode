@@ -1,0 +1,12 @@
+11/4/2015 5:53:15 PM
+   at System.Data.DataTable.ParseSortString(String sortString)
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at Reports_SpareIndentAgeWisePendingDeliveryasonTodayReport.BindData(String strOrder) in c:\Mukesh\Solution-New\CICLive\SIMS\Reports\SpareIndentAgeWisePendingDeliveryasonTodayReport.aspx.cs:line 320
+   at Reports_SpareIndentAgeWisePendingDeliveryasonTodayReport.btnSearch_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Reports\SpareIndentAgeWisePendingDeliveryasonTodayReport.aspx.cs:line 225-->Cannot find column SAP_Sales_Order_Date.
+11/4/2015 5:53:30 PM
+   at System.Data.DataTable.ParseSortString(String sortString)
+   at System.Data.DataView.CheckSort(String sort)
+   at System.Data.DataView.set_Sort(String value)
+   at Reports_SpareIndentAgeWisePendingDeliveryasonTodayReport.BindData(String strOrder) in c:\Mukesh\Solution-New\CICLive\SIMS\Reports\SpareIndentAgeWisePendingDeliveryasonTodayReport.aspx.cs:line 320
+   at Reports_SpareIndentAgeWisePendingDeliveryasonTodayReport.btnSearch_Click(Object sender, EventArgs e) in c:\Mukesh\Solution-New\CICLive\SIMS\Reports\SpareIndentAgeWisePendingDeliveryasonTodayReport.aspx.cs:line 225-->Cannot find column SAP_Sales_Order_Date.

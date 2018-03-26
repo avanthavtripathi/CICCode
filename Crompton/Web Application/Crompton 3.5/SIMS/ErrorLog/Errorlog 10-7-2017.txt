@@ -1,0 +1,4 @@
+07/10/2017 2:35:24 PM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at SIMS_Reports_simsinvoiceNew.calculate() in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew.aspx.cs:line 265-->Column '48<Hours>=72' does not belong to table Table.

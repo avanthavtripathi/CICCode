@@ -1,0 +1,52 @@
+11/13/2014 10:03:30 AM
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlDivision_SelectedIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 130-->Object reference not set to an instance of an object.
+11/13/2014 10:03:36 AM
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlDivision_SelectedIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 130-->Object reference not set to an instance of an object.
+11/13/2014 10:03:38 AM
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlDivision_SelectedIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 130-->Object reference not set to an instance of an object.
+11/13/2014 10:13:36 AM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 10:13:42 AM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 10:15:01 AM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:00:33 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:02:18 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:02:50 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:02:59 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:03:03 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:03:05 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:03:14 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in c:\Ashok Kumar\Solution\CIC\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 127
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 167-->Cannot find table 0.
+11/13/2014 12:07:43 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMS_Pages_DestructibleSpareAndServiceActivityList.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DestructibleSpareAndServiceActivityList.aspx.cs:line 133-->Cannot find table 0.
+11/13/2014 12:10:00 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at SIMS_Pages_DestructibleSpareAndServiceActivityList.ddlChallansSelectIndexChanged(Object sender, EventArgs e) in c:\Ashok Kumar\Solution\CIC\SIMS\Pages\DestructibleSpareAndServiceActivityList.aspx.cs:line 133-->Cannot find table 0.

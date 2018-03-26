@@ -1,0 +1,17 @@
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\bin\Release\CromptonSMS.exe.config
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\bin\Release\CromptonSMS.exe
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\bin\Release\CromptonSMS.pdb
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\obj\Release\CromptonSMS.CromptonSMS.resources
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\obj\Release\CromptonSMS.ProjectInstaller.resources
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\obj\Release\CromptonSMS.csproj.GenerateResource.Cache
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\obj\Release\CromptonSMS.exe
+D:\Dubey\Crompton SMS Services\CromptonSMS\CromptonSMS\obj\Release\CromptonSMS.pdb
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\bin\Release\CromptonSMS.exe.config
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.exe
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.pdb
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\bin\Release\CromptonSMS.exe
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\bin\Release\CromptonSMS.pdb
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.csprojResolveAssemblyReference.cache
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.CromptonSMS.resources
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.ProjectInstaller.resources
+D:\Dubey\Crompton SMS Services\CromptonSMS -Customer\CromptonSMS\obj\Release\CromptonSMS.csproj.GenerateResource.Cache

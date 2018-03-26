@@ -1,0 +1,70 @@
+09/01/2016 11:46:09 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 379
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 244
+   at SCTRAction.SaveData() in d:\IS\CICLive\App_Code\CSharpCode\SCTRAction.cs:line 275
+   at pages_SCTR.btnSave_Click(Object sender, EventArgs e) in d:\IS\CICLive\pages\SCTR.aspx.cs:line 2581-->Error: Error converting data type nvarchar to bigint. Method name: OnError LineNo: 0
+09/01/2016 11:52:35 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 379
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 244
+   at SCTRAction.SaveData() in d:\IS\CICLive\App_Code\CSharpCode\SCTRAction.cs:line 275
+   at pages_SCTR.btnSave_Click(Object sender, EventArgs e) in d:\IS\CICLive\pages\SCTR.aspx.cs:line 2581-->Error: Error converting data type nvarchar to bigint. Method name: OnError LineNo: 0
+09/01/2016 11:54:23 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 379
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 244
+   at SCTRAction.SaveData() in d:\IS\CICLive\App_Code\CSharpCode\SCTRAction.cs:line 275
+   at pages_SCTR.btnSave_Click(Object sender, EventArgs e) in d:\IS\CICLive\pages\SCTR.aspx.cs:line 2581-->Error: Error converting data type nvarchar to bigint. Method name: OnError LineNo: 0
+09/01/2016 11:56:57 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 379
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 244
+   at SCTRAction.SaveData() in d:\IS\CICLive\App_Code\CSharpCode\SCTRAction.cs:line 275
+   at pages_SCTR.btnSave_Click(Object sender, EventArgs e) in d:\IS\CICLive\pages\SCTR.aspx.cs:line 2581-->Error: Error converting data type nvarchar to bigint. Method name: OnError LineNo: 0
+09/01/2016 11:59:16 AM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 379
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\IS\CICLive\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 244
+   at SCTRAction.SaveData() in d:\IS\CICLive\App_Code\CSharpCode\SCTRAction.cs:line 275
+   at pages_SCTR.btnSave_Click(Object sender, EventArgs e) in d:\IS\CICLive\pages\SCTR.aspx.cs:line 2581-->Error: Error converting data type nvarchar to bigint. Method name: OnError LineNo: 0

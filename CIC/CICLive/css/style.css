@@ -1,0 +1,237 @@
+﻿body {
+			margin:0px;
+			/*background-image: url("../images/bodyBg.jpg"); background-repeat:repeat-x;*/
+			font-family:Verdana,Arial,Helvetica,sans-serif;
+			font-size: 11px; 
+}
+
+td {	
+			font-family:Verdana, Arial, Helvetica, sans-serif; 
+			font-size:11px;}
+
+.simpletxt1 {
+			font-family:Verdana,Arial,Helvetica,sans-serif; 
+			font-size:11px; color: #000000;
+			text-decoration: none;
+			padding-left:0px;
+}
+
+.txtboxtxt
+ {
+ 			font-family:Verdana,Arial,Helvetica,sans-serif;
+			color:#000000; font-size:11px; 
+			background-color:#F7FBFB; 
+			border:1px solid #60A3AC;
+			height:14px; 
+			padding-left:3px
+}
+
+
+
+.headingred {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 12px;
+			font-weight: bold;
+			color: #08538C;
+			text-decoration: none;
+	/*height:25px;*/
+			padding-left:5px;
+			padding-bottom:8px;
+}
+
+
+
+/*Hyper links Styles start from here--------------------------------------------------*/
+
+.logout:link {color:#ffffff; text-decoration:none;line-height:18px}
+.logout:visited {color:#ffffff;text-decoration:none;line-height:18px}
+.logout:hover {color:#000000;text-decoration:none;line-height:18px}
+
+.links:link { font-size:11px;color:#000000; text-decoration:none}
+.links:visited { font-size:11px;color:#000000; text-decoration:none}
+.links:active {font-size:11px;color:#000000; text-decoration:none}
+.links:hover {font-size:11px;color:#396870; text-decoration:none}
+/*Hyper links Styles END here--------------------------------------------------*/
+
+	/*Button Styles Start here--------------------------------------------------*/
+.btn { 
+            padding-left:2px;
+            font-family:Arial, Helvetica, sans-serif; 
+            color:#000000;
+            font-size:11px; 
+            font-weight:200;
+            letter-spacing:.5px; 
+            background-image: url('../images/btnBG.jpg');
+            border:1px solid #0066cc;
+	}
+	/*Button Styles End here--------------------------------------------------*/
+
+.loginbox {
+			padding-left:120px; 
+			color:#4f5152; 
+			line-height:20px}
+
+.footer {	
+			color:#3a7696; 
+			font-size:11px; 
+			border-bottom:1px solid #3a7696; 
+			border-top:1px solid #3a7696; 
+			line-height:25px}
+
+
+.searchfeald {
+			color:#000000; 
+			font-size:10px; 
+			background-color:#ffffff; 
+			border:1px solid #85c6e8; 
+			width:130px; height:16px}
+
+.fpassword:link {padding-left:5px; color:#3a7696; line-height:20px; text-decoration:none}
+.fpassword:visited {padding-left:5px; color:#3a7696; line-height:20px; text-decoration:none}
+.fpassword:hover {padding-left:5px; color:#000000; line-height:20px; text-decoration:none}
+.redstar {color: #FF0000;}
+
+.MTOLink:link {padding-left:5px; color:#3a7696; font-size:12px; font-weight:bold; line-height:20px; text-decoration:none}
+.MTOLink:visited {padding-left:5px; color:#3a7696;font-size:12px; font-weight:bold; line-height:20px; text-decoration:none}
+.MTOLink:hover {padding-left:5px; color:#000000; font-size:12px; font-weight:bold; line-height:20px; text-decoration:none}
+
+/* Grid level css */
+.fieldNamewithbgcolor {
+            padding-left:3px;
+            color:#000000;
+            font-size:11px;
+            font-weight:bold;
+            line-height:20px;
+            background: #60A3AC;
+}
+
+.gridbgcolor {
+            padding-left:3px;
+            color:#1c3d74;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            background: #E3EFF0;
+}
+
+.hgridbgcolor {
+            padding-left:3px;
+            color:#000000;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            background:#FFFAB9;/* #C0D0E9;*/
+}
+
+.hgridbgcolorred {
+            padding-left:3px;
+            color:#000000;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            background:#FF0000;/* #C0D0E9;*/
+}
+
+.hgridbgcolorredMTO {
+            padding-left:3px;
+            color:#000000;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            background:#99FFFF;/* #C0D0E9;*/
+}
+
+.pageName {padding-left:55px; color:#085ab0; font-size:18px; font-weight:bold; font-style:italic; line-height:40px}
+.tableBGcolor { background-color:#F5F4F4; padding:6px; border:1px solid #CCCCCC;}
+.fieldName {padding-left:3px; color:#1c3d74; font-size:11px; font-weight:normal; line-height:20px}
+
+.popGridbgcolor {
+            padding-left:5px;
+            color:#000000;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            background: #ffffff;
+}
+.popAltGridbgcolor {
+            padding-left:5px;
+            color:#000000;
+            font-size:11px;
+            font-weight:normal;
+            line-height:20px;
+            
+}
+
+/* Grid level css end*/
+
+/* New Styles for Login Box*/
+
+.loginTxtbox
+ {
+ 			font-family:Verdana,Arial,Helvetica,sans-serif;
+			color:#000000; font-size:11px; 
+			background-color:#C1C1C1; 
+			border:1px solid #efefef;
+			height:14px; 
+			padding-left:3px
+}
+
+
+.Hgridbgcolor {
+             background: #ffffe1;
+}
+
+.MsgTotalCount {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 11px;
+			font-weight:bold;
+			color: #ff0000;
+			text-decoration: none;
+			padding-left:5px;
+			vertical-align:bottom;
+			
+}
+
+.MsgTDCount {
+			font-family: Verdana, Arial, Helvetica, sans-serif;
+			font-size: 11px;
+			font-weight:normal;
+			color: #000000;
+			text-decoration: none;
+			padding-left:5px;
+			vertical-align:bottom;
+			
+			
+}
+
+.blueText:link {padding-left:5px; color:#0000ff; line-height:20px; text-decoration:none}
+.blueText:visited {padding-left:5px; color:#0000ff; line-height:20px; text-decoration:none}
+.blueText:hover {padding-left:5px; color:#ff0000; line-height:20px; text-decoration:none}
+
+/* for PendingOrder.aspx modalpopup */
+ .modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+ .modalBgCG {
+	background-color:#acddfd;
+	filter:alpha(opacity=100);
+	opacity:1;
+}
+
+    .modalPopup {
+	background-color:#e4e4e4;
+	border-width:0px;
+	border-style:solid;
+	border-color:Gray;
+	padding:0px;
+	width:350px;
+	
+}
+
+ .GrayCss {
+	color:Gray;
+	font-size:11px;
+}

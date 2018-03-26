@@ -1,0 +1,120 @@
+
+
+9/4/2013 09:19:46 AM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 09:19:46 AM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 09:19:46 AM---------------
+8/25/2013 12:00:00 AM|BA|CG|9/4/2013 09:19:46 AM|INR|INF786|Pym1394091941|WAAA0098|158100|WAAA|OK all|436403|1051431|JE|N
+9/4/2013 09:19:47 AM---------------
+Step 3: CG Service Requested.
+9/4/2013 09:19:56 AM---------------
+Step 5: Text File Generation Start.
+9/4/2013 09:22:27 AM---------------
+Step 5: Text File Generated.
+9/4/2013 09:22:27 AM---------------
+Step 7: Pym1394091941Processed Successfully.
+
+
+9/4/2013 10:36:11 AM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 10:36:11 AM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 10:36:11 AM---------------
+6/11/2013 12:00:00 AM|BA|CG|9/4/2013 10:36:11 AM|INR|IK980|Pym1394103605|WAAA0098|9490|WAAA|Ok dd|436403|1211121||Y
+9/4/2013 10:36:13 AM---------------
+Step 3: CG Service Requested.
+9/4/2013 10:36:16 AM---------------
+Step 5: Text File Generation Start.
+9/4/2013 10:39:06 AM---------------
+Step 5: Text File Generated.
+9/4/2013 10:39:06 AM---------------
+Step 7: Pym1394103605Processed Successfully.
+
+
+9/4/2013 10:44:05 AM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 10:44:05 AM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 10:44:05 AM---------------
+8/25/2013 12:00:00 AM|BA|CG|9/4/2013 10:44:05 AM|INR|IKL90|Pym1394104400|WAAA0098|14075|WAAA|ff|436403|1211121|I1|Y
+9/4/2013 10:44:05 AM---------------
+Step 3: CG Service Requested.
+9/4/2013 10:44:20 AM---------------
+Step 5: Text File Generation Start.
+9/4/2013 10:47:10 AM---------------
+Step 5: Text File Generated.
+9/4/2013 10:47:10 AM---------------
+Step 7: Pym1394104400Processed Successfully.
+
+
+9/4/2013 03:52:10 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 03:52:10 PM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 03:52:10 PM---------------
+8/5/2013 12:00:00 AM|BA|CG|9/4/2013 03:52:10 PM|INR|IKL090|Pym1394155203|WAAA0098|147300|WAAA|OK TEST|436403|1051431|I1|N
+9/4/2013 03:52:12 PM---------------
+Step 3: CG Service Requested.
+9/4/2013 03:52:21 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/4/2013 03:52:21 PM---------------
+Step 5: Text File Generation Start.
+9/4/2013 03:55:19 PM---------------
+Step 5: Text File Generated.
+9/4/2013 03:55:19 PM---------------
+Step 7: Pym1394155203Processed Successfully.
+
+
+9/4/2013 04:00:41 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 04:00:41 PM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 04:00:41 PM---------------
+6/11/2013 12:00:00 AM|BA|CG|9/4/2013 04:00:41 PM|INR|dfg|Pym1394160035|WAAA0098|189900|WAAA|dfgdf|436403|1051431|JE|Y
+9/4/2013 04:00:49 PM---------------
+Step 3: CG Service Requested.
+9/4/2013 04:01:11 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/4/2013 04:01:54 PM---------------
+Step 5: Text File Generation Start.
+9/4/2013 04:04:36 PM---------------
+Step 5: Text File Generated.
+9/4/2013 04:04:36 PM---------------
+Step 7: Pym1394160035Processed Successfully.
+
+
+9/4/2013 04:10:11 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 04:10:11 PM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 04:10:11 PM---------------
+8/5/2013 12:00:00 AM|BA|CG|9/4/2013 04:10:11 PM|INR|IJKH89|Pym1394161006|WAAA0098|286500|WAAA|sadf|436403|1051431||Y
+9/4/2013 04:10:16 PM---------------
+Step 3: CG Service Requested.
+9/4/2013 04:12:06 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/4/2013 04:13:07 PM---------------
+Step 5: Text File Generation Start.
+9/4/2013 04:16:12 PM---------------
+Step 5: Text File Generated.
+9/4/2013 04:19:15 PM---------------
+Step 7: Pym1394161006Processed Successfully.
+
+
+9/4/2013 04:20:10 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/4/2013 04:20:10 PM---------------
+Step 2: SaveTextfile Completed
+9/4/2013 04:20:10 PM---------------
+5/6/2013 12:00:00 AM|BA|CG|9/4/2013 04:20:10 PM|INR|IKJ890|Pym1394162006|WAAA0098|67400|WAAA|Visit|436403|1051431|JE|Y
+9/4/2013 04:20:40 PM---------------
+Step 3: CG Service Requested.
+9/4/2013 04:20:53 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/4/2013 04:21:03 PM---------------
+Step 5: Text File Generation Start.
+9/4/2013 04:23:35 PM---------------
+Step 5: Text File Generated.
+9/4/2013 04:23:35 PM---------------
+Step 7: Pym1394162006Processed Successfully.

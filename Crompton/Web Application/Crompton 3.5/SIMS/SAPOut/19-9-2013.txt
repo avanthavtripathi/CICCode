@@ -1,0 +1,78 @@
+
+
+9/19/2013 11:59:56 AM---------------
+Step 1: SaveConfirmedBill() Completed
+9/19/2013 11:59:57 AM---------------
+Step 2: SaveTextfile Completed
+9/19/2013 11:59:57 AM---------------
+9/9/2013 12:00:00 AM|BB|CG|9/19/2013 11:59:57 AM|INR|inlui8|Pym13919115952|WDAA0046|300|WDAA|ok|436403|1051431|I1|N
+9/19/2013 11:59:59 AM---------------
+Step 3: CG Service Requested.
+9/19/2013 12:00:05 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/19/2013 12:00:05 PM---------------
+Step 5: Text File Generation Start.
+9/19/2013 12:02:39 PM---------------
+Step 5: Text File Generated.
+9/19/2013 12:02:39 PM---------------
+Step 7: Pym13919115952Processed Successfully.
+
+
+9/19/2013 03:45:09 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/19/2013 03:45:09 PM---------------
+Step 2: SaveTextfile Completed
+9/19/2013 03:45:09 PM---------------
+9/10/2013 12:00:00 AM|BB|CG|9/19/2013 03:45:09 PM|INR|77|Pym13919154508|WDAA0046|450|WDAA|kk|436403|1051431|I1|N
+9/19/2013 03:45:10 PM---------------
+Step 3: CG Service Requested.
+9/19/2013 03:46:04 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/19/2013 03:46:04 PM---------------
+Step 5: Text File Generation Start.
+
+
+9/19/2013 03:48:10 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/19/2013 03:48:10 PM---------------
+Step 2: SaveTextfile Completed
+9/19/2013 03:48:10 PM---------------
+9/9/2013 12:00:00 AM|BB|CG|9/19/2013 03:48:10 PM|INR|jhg7b|Pym13919154805|WDAA0046|450|WDAA|ll|436403|1051431||N
+9/19/2013 03:48:10 PM---------------
+Step 3: CG Service Requested.
+9/19/2013 03:48:11 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/19/2013 03:48:11 PM---------------
+Step 5: Text File Generation Start.
+
+
+9/19/2013 03:51:07 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/19/2013 03:51:07 PM---------------
+Step 2: SaveTextfile Completed
+9/19/2013 03:51:07 PM---------------
+9/9/2013 12:00:00 AM|BB|CG|9/19/2013 03:51:07 PM|INR|8976bu|Pym13919155103|WDAA0046|450|WDAA|jj|436403|1051431||N
+9/19/2013 03:51:08 PM---------------
+Step 3: CG Service Requested.
+9/19/2013 03:51:09 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/19/2013 03:51:09 PM---------------
+Step 5: Text File Generation Start.
+
+
+9/19/2013 04:44:36 PM---------------
+Step 1: SaveConfirmedBill() Completed
+9/19/2013 04:44:36 PM---------------
+Step 2: SaveTextfile Completed
+9/19/2013 04:44:36 PM---------------
+8/27/2013 12:00:00 AM|BB|CG|9/19/2013 04:44:36 PM|INR|8976bu12|Pym13919164436|WDAA0046|500|WDAA|ss|436403|1051431||N
+9/19/2013 04:44:37 PM---------------
+Step 3: CG Service Requested.
+9/19/2013 04:44:38 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 2
+9/19/2013 04:44:38 PM---------------
+Step 5: Text File Generation Start.
+9/19/2013 04:47:06 PM---------------
+Step 5: Text File Generated.
+9/19/2013 04:47:06 PM---------------
+Step 7: Pym13919164436Processed Successfully.

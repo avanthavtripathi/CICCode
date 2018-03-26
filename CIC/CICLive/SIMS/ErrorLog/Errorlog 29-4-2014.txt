@@ -1,0 +1,7 @@
+4/29/2014 2:27:59 PM
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Web.HttpResponse.TransmitFile(String filename, Int64 offset, Int64 length)
+   at System.Web.HttpResponse.TransmitFile(String filename)
+   at SIMS_Reports_ConfirmedPayment.gvConfirmedPayment_RowCommand(Object sender, GridViewCommandEventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Reports\ConfirmedPayment.aspx.cs:line 195-->Could not find a part of the path 'D:\CIC_TEST_Backup\CIC_Test\SIMS\SAPFilesUAT\'.

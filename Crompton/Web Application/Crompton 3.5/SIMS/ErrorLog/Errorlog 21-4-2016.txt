@@ -1,0 +1,12 @@
+04/21/2016 12:33:12 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SIMS_Admin_SIMSActivityConsumption.SaveActivityCost() in d:\Mukesh\Solution-New\CICLive\SIMS\Pages\SIMSActivityConsumption.aspx.cs:line 194
+   at SIMS_Admin_SIMSActivityConsumption.imgbtnSave_Click(Object sender, EventArgs e) in d:\Mukesh\Solution-New\CICLive\SIMS\Pages\SIMSActivityConsumption.aspx.cs:line 347-->Input string was not in a correct format.
+04/21/2016 12:33:34 PM
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at SIMS_Admin_SIMSActivityConsumption.SaveActivityCost() in d:\Mukesh\Solution-New\CICLive\SIMS\Pages\SIMSActivityConsumption.aspx.cs:line 194
+   at SIMS_Admin_SIMSActivityConsumption.imgbtnSave_Click(Object sender, EventArgs e) in d:\Mukesh\Solution-New\CICLive\SIMS\Pages\SIMSActivityConsumption.aspx.cs:line 347-->Input string was not in a correct format.

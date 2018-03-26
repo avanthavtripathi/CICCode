@@ -1,0 +1,28 @@
+06/20/2017 3:40:40 PM
+   at System.Web.UI.WebControls.BoundField.GetValue(Control controlContainer)
+   at System.Web.UI.WebControls.BoundField.OnDataBindField(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnDataBinding(EventArgs e)
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.Control.DataBindChildren()
+   at System.Web.UI.Control.DataBind(Boolean raiseOnDataBinding)
+   at System.Web.UI.Control.DataBind()
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at MisReport.BindDataGrid(GridView gv, String strProcOrQuery, Boolean isProc, SqlParameter[] sqlParam, Label lblRowCount, Label lblDefectCount) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\MisReport.cs:line 230
+   at Reports_ServiceRegistrationReport.BindGrid(GridView Gv) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\Reports\RegistrationReport.aspx.cs:line 236-->A field or property with the name 'DiffrenceInHour' was not found on the selected data source.
+06/20/2017 3:44:19 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Reports_MIS6_ASC.BindGrid(String strOrder) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\Reports\MIS6-ASC.aspx.cs:line 192
+   at Reports_MIS6_ASC.btnSearch_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\Reports\MIS6-ASC.aspx.cs:line 105-->Cannot find table 0.
+06/20/2017 3:44:28 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at Reports_MIS6_ASC.BindGrid(String strOrder) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\Reports\MIS6-ASC.aspx.cs:line 192
+   at Reports_MIS6_ASC.btnSearch_Click(Object sender, EventArgs e) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\Reports\MIS6-ASC.aspx.cs:line 105-->Cannot find table 0.

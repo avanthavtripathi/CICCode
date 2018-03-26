@@ -1,0 +1,91 @@
+05/01/2017 3:36:06 PM
+Exception Duration 05/01/2017 3:36:06 PM
+StackTrace:    at System.Web.UI.WebControls.ListControl.set_SelectedIndex(Int32 value)
+   at System.Web.UI.WebControls.DropDownList.set_SelectedIndex(Int32 value)
+   at pages_SCTR.ClearActionCotrols() in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 4654
+   at pages_SCTR.SucessfullyResolved() in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 4198
+   at pages_SCTR.btnSaveAction_Click(Object sender, EventArgs e) in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 4399
+FileName: d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs
+Method Name: btnSaveAction_Click
+Message: 'ddlReasonReplacement' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+HelpLink: 
+TargetSite: Void set_SelectedIndex(Int32)
+LineNo: 4399
+
+05/01/2017 3:46:40 PM
+Exception Duration 05/01/2017 3:46:40 PM
+StackTrace:    at pages_SCTR.btnSaveAction_Click(Object sender, EventArgs e) in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 4326
+FileName: d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs
+Method Name: btnSaveAction_Click
+Message: Index was outside the bounds of the array.
+HelpLink: 
+TargetSite: Void btnSaveAction_Click(System.Object, System.EventArgs)
+LineNo: 4326
+
+05/01/2017 5:38:04 PM
+Exception Duration 05/01/2017 5:38:04 PM
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at SCTRAction.InsertAllocation() in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SCTRAction.cs:line 400
+   at pages_SCTR.btnAllocate_Click(Object sender, EventArgs e) in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 592
+FileName: d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs
+Method Name: btnAllocate_Click
+Message: @visitDate is not a parameter for procedure uspBaseComDet.
+HelpLink: 
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+LineNo: 592
+
+05/01/2017 5:38:12 PM
+Exception Duration 05/01/2017 5:38:12 PM
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at SCTRAction.InsertAllocation() in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SCTRAction.cs:line 400
+   at pages_SCTR.btnAllocate_Click(Object sender, EventArgs e) in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 592
+FileName: d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs
+Method Name: btnAllocate_Click
+Message: @visitDate is not a parameter for procedure uspBaseComDet.
+HelpLink: 
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+LineNo: 592
+
+05/01/2017 5:55:11 PM
+Exception Duration 05/01/2017 5:55:11 PM
+StackTrace:    at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 372
+   at SqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SqlDataAccessLayer.cs:line 237
+   at SCTRAction.InsertAllocation() in d:\Dubey\Crompton 3.5\Crompton 3.5\App_Code\CSharpCode\SCTRAction.cs:line 400
+   at pages_SCTR.btnAllocate_Click(Object sender, EventArgs e) in d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs:line 592
+FileName: d:\Dubey\Crompton 3.5\Crompton 3.5\pages\SCTR.aspx.cs
+Method Name: btnAllocate_Click
+Message: @visitDate is not a parameter for procedure uspBaseComDet.
+HelpLink: 
+TargetSite: Void OnError(System.Data.SqlClient.SqlException, Boolean)
+LineNo: 592
+

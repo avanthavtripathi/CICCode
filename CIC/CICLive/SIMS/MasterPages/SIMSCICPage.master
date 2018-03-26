@@ -1,0 +1,326 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SIMSCICPage.master.cs"
+    Inherits="Master_Page_SIMSCICPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Crompton Greaves :: Customer Interaction Center</title>
+    <link href="../../css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../../css/global.css" rel="stylesheet" type="text/css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+    <script language="javascript" type="text/javascript" src="../../scripts/Common.js">
+
+    </script>
+
+    <script type="text/javascript">
+   
+
+         // The below function is used for check whether press key is number or not
+         // Only allow numbers
+        function checkNumberOnly(e) 
+         {
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+//            if(KeyID==13) 
+//            { 
+//                return false; 
+//            } 
+            if((KeyID>47 && KeyID<58)||(KeyID==32)||(KeyID==8)) 
+            {
+            } 
+            else 
+            {
+            alert("Please enter numbers only.");
+                return false; 
+            }          
+         }
+         // The below function is used for check whether press key is number and char or not
+         // Only allow number and characters
+        function checkNumberCharOnly(e) 
+         {
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+//            if(KeyID==13) 
+//            { 
+//                return false; 
+//            } 
+            if((KeyID>47 && KeyID<58)||(KeyID==32)||(KeyID==8)) 
+            {
+            } 
+            else 
+            {
+            alert("Please enter numbers only.");
+                return false; 
+            }          
+         }
+         // The below function is used for check whether press key is valid character or not
+         // Only allow characters
+         function checkCharacterOnly(e) 
+         {
+
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+            if(KeyID==13) 
+            { 
+                return false; 
+            } 
+            if((KeyID>=65 && KeyID<91)||((KeyID>96 && KeyID<123))||(KeyID==32)|| (KeyID==46) || (KeyID==8)) 
+            {
+           
+            } 
+            else 
+            {
+           alert("Please enter alphabets only.");
+                return false; 
+            } 
+         
+         }
+// The below function is used for check whether press key is A+, B+, O+, AB+, A-, B-, O-, AB-
+        function checkCharBloodGroup(e) 
+         {
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+            if(KeyID==13) 
+            { 
+                return false; 
+            } 
+            
+            if((KeyID==65)||(KeyID==66)||(KeyID==79)||(KeyID==97)||(KeyID==98)||(KeyID==111)||(KeyID==45)||(KeyID==43)||(KeyID==8)) 
+            {
+            
+            } 
+            else 
+            {
+                alert("Please enter A+, B+, O+, AB+, A-, B-, O-, AB- only.");
+                return false; 
+            } 
+         
+         }
+         
+       //This function is used for disable Enter
+       
+       function DisableEnterKey(e)
+       {
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+            if(KeyID==13) 
+            { 
+                return false; 
+            } 
+            return true;
+       }
+ function checkExperience(e)
+ {
+            var KeyID; 
+            
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+            if(window.event) 
+            { 
+                if(window.event.keyCode==13) 
+                { 
+                    return false; 
+                } 
+            } 
+            if(KeyID==13) 
+            { 
+                return false; 
+            } 
+            if((KeyID>47 && KeyID<58)||(KeyID==46)||(KeyID==8)) 
+            {
+            } 
+            else 
+            {
+                alert("Please enter numbers only.");
+                return false; 
+            }  
+            
+       }
+       function CheckMaxLength(obj,len,e)
+
+       { 
+
+            var KeyID; 
+            if(navigator.appName=="Microsoft Internet Explorer") 
+            { 
+                KeyID = e.keyCode;
+            } 
+            else 
+            { 
+                KeyID = e.charCode; 
+            } 
+      //alert(obj.value.length);
+             if(obj.value.length>len)
+             {
+                 if((KeyID==8)|| (KeyID==46)) 
+                {
+                }
+                else
+                 {;
+                 return false;
+                 }
+             }
+        }
+
+    </script>
+
+</head>
+<body background="../../images/bodyBg.jpg" style="background-repeat: repeat-x;">
+    <form id="frmMstPage" runat="server">
+    <div>
+        <asp:ScriptManager ID="ScriptManager1" AsyncPostBackTimeout="600" runat="server"
+            EnablePageMethods="true" />
+        <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td width="249" background="../../images/headerBg.jpg">
+                    <img src="../../images/logo.jpg">
+                </td>
+                <td width="751" background="../../images/headerBg.jpg">
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td align="center" style="padding: 5px;">
+                                <div class="topUser" align="center" id="dvUser" runat="server">
+                                    &nbsp;</div>
+                            </td>
+                            <td align="right" width="421">
+                                <img src="../../images/cic-name.jpg">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td width="100%" height="28" style="padding-left: 15px;">
+                    <table width="100%" border="0">
+                        <tr>
+                            <td width="17%" align="center" style="padding-right: 10px">
+                                <a class="logout" href="../../pages/Default.aspx">Home</a>
+                            </td>
+                            <td>
+                                <!--  menu start -->
+                                <asp:UpdatePanel ID="UPanelLeftMenu" runat="server">
+                                    <ContentTemplate>
+                                        <asp:Menu Width="500" ID="TopMenu" Orientation="Horizontal" runat="server" StaticMenuItemStyle-CssClass="menustatic"
+                                            DynamicHorizontalOffset="0" DynamicVerticalOffset="5" BorderStyle="None" StaticEnableDefaultPopOutImage="false"
+                                            DynamicEnableDefaultPopOutImage="true" StaticHoverStyle-CssClass="menustatichover"
+                                            DynamicMenuItemStyle-CssClass="menudynamic" MaximumDynamicDisplayLevels="4" StaticDisplayLevels="1"
+                                            DynamicHoverStyle-CssClass="menudynamichover" OnMenuItemClick="TopMenu_MenuItemClick">
+                                        </asp:Menu>
+                                    </ContentTemplate>
+                                    <Triggers>
+                                        <asp:AsyncPostBackTrigger ControlID="TopMenu" EventName="MenuItemClick" />
+                                    </Triggers>
+                                </asp:UpdatePanel>
+                                <!--  menu end -->
+                            </td>
+                            <td width="20%" align="center">
+                                <a class="logout" href="../../pages/ChangePassword.aspx" runat="server" id="lnkChangePassword">
+                                    Change Password</a>
+                            </td>
+                            <td width="17%" align="center">
+                                <asp:LoginStatus LogoutText="Logout" CssClass="logout" ID="LoginStatus1" runat="server"
+                                    OnLoggedOut="LoginStatus1_LoggedOut" OnLoggingOut="LoginStatus1_LoggingOut">
+                                </asp:LoginStatus>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td bgcolor="#FFFFFF" valign="top" style="padding: 20px">
+                    <div id="dv" height="320px;" class="mainarea">
+                        <asp:ContentPlaceHolder ID="MainConHolder" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td height="25px" align="center" bgcolor="#ffffff" class="footer">
+                    Powered by Avantha Technologies Limited &copy; 2008
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,382 @@
+﻿using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Xml.Linq;
+using System.Data.SqlClient;
+
+public partial class SIMS_Pages_ClaimApprovalNew1 : System.Web.UI.Page
+{
+    ClaimApproval objClaimApprovel = new ClaimApproval();
+    SpareConsumptionAndActivityDetails objspareconsumption = new SpareConsumptionAndActivityDetails();
+    bool flag ; // added by bhawesh page refresh logic  jan 11
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+       if (!IsPostBack)
+        {
+            flag = true;
+            BindAsc();
+            objClaimApprovel.ASC = ddlasc.SelectedValue;
+            objClaimApprovel.BindProductDivision(ddlDivision);
+            objClaimApprovel.ProductDivision = ddlDivision.SelectedValue; //bhawesh 26 july 
+
+           //  binddata(); // bhawesh 28 june
+            objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+            objClaimApprovel.BindCount(LblCount); //26 july 
+            imgBtnApprove.Visible = false;
+            imgBtnClose.Visible = false;
+
+           // for custom paging 8 nov 11
+            ViewState["FirstRow"] = 1;
+            ViewState["LastRow"] = 10;
+
+        }
+       if (!string.IsNullOrEmpty(Request.QueryString["ReturnId"]) && flag)
+       {
+           string ascindex = Convert.ToString(Session["asc"]);
+           string divindex = Convert.ToString(Session["div"]);
+          
+           // Added By BP 1 Nov 12
+           if( Session["Fdate"] != null)
+               txtFromDate.Text = Convert.ToString(Session["Fdate"]);
+           if (Session["Tdate"] != null)
+               txtToDate.Text = Convert.ToString(Session["Tdate"]);
+          
+           if(ddlasc.SelectedIndex == 0)
+           ddlasc.SelectedValue = ascindex;
+           if(ddlDivision.SelectedIndex ==0)
+           ddlDivision.SelectedValue = divindex;
+           ddlasc_SelectedIndexChanged(ddlasc, null);
+           binddata();
+       }
+
+
+    }
+
+    private void binddata()
+    {
+        objClaimApprovel.ASC = ddlasc.SelectedValue;
+        objClaimApprovel.ProductDivision = ddlDivision.SelectedValue;
+        objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+		
+		// for custom paging 8 nv 11
+        objClaimApprovel.FirstRow = int.Parse(ViewState["FirstRow"].ToString());
+        objClaimApprovel.LastRow = int.Parse(ViewState["LastRow"].ToString());
+        // end bp
+
+        // for Logg date filter 19 Apr 12 bhawesh
+        objClaimApprovel.DateFrom = txtFromDate.Text.Trim();
+        objClaimApprovel.DateTo = txtToDate.Text.Trim();
+
+        objClaimApprovel.BindData(GvDetails);
+            Session["asc"] = ddlasc.SelectedValue;
+            Session["div"] = ddlDivision.SelectedValue;
+
+        // Added By BP 1 Nov 12
+            Session["Fdate"] = objClaimApprovel.DateFrom;
+            Session["Tdate"] = objClaimApprovel.DateTo;
+
+           if (GvDetails.Rows.Count > 0)
+            {
+                imgBtnView.Visible = true;
+                repager.Visible = true;
+            }
+            else
+            {
+                imgBtnView.Visible = false;
+            }
+            CLEAR();
+        
+    }
+
+   // for custom paging bhawesh 8 nov 11
+    void bindpager()
+    {
+        double recordcount = Convert.ToInt32(ViewState["RecoredCount"]);
+        int pagecount = (int)System.Math.Ceiling(recordcount / 10);
+        if (pagecount > 1)
+        {
+            ArrayList alst = new ArrayList();
+            for (int cnt = 1; cnt <= pagecount; cnt++)
+            {
+                alst.Add(cnt);
+            }
+            repager.DataSource = alst;
+            repager.DataBind();
+        }
+        else
+        {
+            repager.DataSource = null;
+            repager.DataBind();
+        }
+        repager.Visible = false;
+    }
+
+    protected void BindAsc()
+    {
+        //Bind ASC Name
+        objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+        objClaimApprovel.BindASC(ddlasc);
+
+    }
+    
+    protected void GvDetails_PageIndexChanging(object sender, GridViewPageEventArgs e)
+    {
+        objClaimApprovel.ASC = ddlasc.SelectedValue;
+        objClaimApprovel.ProductDivision = ddlDivision.SelectedValue;
+        objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+        GvDetails.PageIndex = e.NewPageIndex;
+        objClaimApprovel.BindData(GvDetails);
+        Session["asc"] = ddlasc.SelectedValue;
+        Session["div"] = ddlDivision.SelectedValue;
+   }
+  
+    protected void lnkcomplaint_Click(object sender, EventArgs e)
+    {
+        GridViewRow row = (GridViewRow)(((LinkButton)(sender)).NamingContainer);
+        LinkButton lnkcomplaint = (LinkButton)row.FindControl("lnkcomplaint");
+        objClaimApprovel.GetBaseLineId(lnkcomplaint.Text);
+        ScriptManager.RegisterClientScriptBlock(lnkcomplaint, GetType(), "", "window.open('../../pages/PopUp.aspx?BaseLineId=" + objClaimApprovel.BaselineID + "','111','width=900,height=600,scrollbars=1,resizable=no,top=1,left=1');", true);
+    }
+ 
+    protected void lnkview_Click(object sender, EventArgs e)
+    {
+        GridViewRow row = (GridViewRow)(((LinkButton)(sender)).NamingContainer);
+        LinkButton lnkview = (LinkButton)row.FindControl("lnkview");
+        LinkButton lnkcomplaint = (LinkButton)row.FindControl("lnkcomplaint");
+        ScriptManager.RegisterClientScriptBlock(lnkview, GetType(), "", "window.open('SpareConsumptionAndActivityDetails.aspx?complaintno=" + lnkcomplaint.Text + "','111','width=1000,height=650,scrollbars=1,resizable=no,top=1,left=1');", true);
+    }
+   
+    protected void imgBtnApprove_Click(object sender, EventArgs e)
+    {
+        foreach (GridViewRow item in gvActivity.Rows)
+        {
+            HiddenField Hdncheck = (HiddenField)item.FindControl("Hdncheck");
+
+            if (Hdncheck.Value == "1")
+            {
+
+                Label lblcomplainid = (Label)item.FindControl("lblid");
+                objspareconsumption.ComplaintId = lblcomplainid.Text;
+                objspareconsumption.ApprovedBy = Membership.GetUser().UserName.ToString();
+                Label lblComplaintNo1 = (Label)item.FindControl("lblcomplaintNo");
+                objspareconsumption.complaint_no = lblComplaintNo1.Text;
+                objspareconsumption.ApproveComplaintValue();
+            }
+            else
+            {
+                Label lblactivityId = (Label)item.FindControl("lblid");
+                objspareconsumption.ActivityId = lblactivityId.Text;
+                objspareconsumption.ApprovedBy = Membership.GetUser().UserName.ToString();
+                Label lblAComplaintNo = (Label)item.FindControl("lblcomplaintNo");
+                objspareconsumption.complaint_no = lblAComplaintNo.Text;
+                objspareconsumption.ApproveActivityValue();
+            }
+
+        }
+        
+        imgBtnApprove.Visible = false;
+        imgBtnClose.Visible = false;
+        gvActivity.DataSource = null;
+        gvActivity.DataBind();
+        binddata();
+
+        lblMessage.Text = "Claim approved successfully";
+    }
+  
+    protected void imgBtnView_Click(object sender, EventArgs e)
+    {
+        flag = false ;
+
+        #region For Loop
+        string complaint = string.Empty;
+
+        foreach (GridViewRow gvRow in GvDetails.Rows)
+        {
+            if (((CheckBox)gvRow.FindControl("chkChild")).Checked == true)
+            {
+                complaint = complaint+","+(((LinkButton)gvRow.FindControl("lnkcomplaint")).Text);
+                
+            }
+        }
+        #endregion For Loop
+
+
+        objspareconsumption.ComplaintNo = complaint;
+        objspareconsumption.GetMaterialactivity(gvActivity);
+        if (gvActivity.Rows.Count > 0)
+        {
+            imgBtnApprove.Visible = true;
+            imgBtnClose.Visible = true;
+        }
+        else
+        {
+            imgBtnApprove.Visible = false;
+            imgBtnClose.Visible = false;
+        }
+    }
+  
+    protected void gvActivity_PageIndexChanging(object sender, GridViewPageEventArgs e)
+    {
+
+    }
+   
+    protected void imgBtnClose_Click(object sender, EventArgs e)
+    {
+        gvActivity.DataSource = null;
+        gvActivity.DataBind();
+        imgBtnApprove.Visible = false;
+        imgBtnClose.Visible = false;
+    }
+
+    private void CLEAR()
+    {
+        lblMessage.Text = string.Empty;
+        gvActivity.DataSource = null;
+        gvActivity.DataBind();
+        if (gvActivity.Rows.Count > 0)
+        {
+            imgBtnApprove.Visible = true;
+            imgBtnClose.Visible = true;
+        }
+        else
+        {
+            imgBtnApprove.Visible = false;
+            imgBtnClose.Visible = false;
+        }
+        if (GvDetails.Rows.Count > 0)
+        {
+            imgBtnView.Visible = true;
+            
+        }
+        else
+        {
+            imgBtnView.Visible = false;
+           
+        }
+		
+	   // for custom paging bhawesh 8 nov 11
+        ViewState["FirstRow"] = 1;
+        ViewState["LastRow"] = 10;
+
+   }
+
+    protected void BtnSearch_Click(object sender, EventArgs e)
+    {
+       try
+        {
+            // This session is used in SpareConsumptionAndActivityDetails
+             Session["division"] = ddlDivision.SelectedItem.Text;
+            if (ddlasc.SelectedIndex != 0)
+            {
+                lblerrmsg.Visible = false;
+                      
+                GvDetails.Visible = true;
+                ddlasc_SelectedIndexChanged(ddlasc, null);
+		    	//	for custom paging bhawesh 8 nov 11
+                binddata();
+                repager.Visible = true;
+				// end bhawesh
+                CLEAR();
+            }
+            else
+            {
+                lblerrmsg.Visible = true;
+            }
+        }
+        catch (Exception ex)
+        {
+                
+        }
+   }
+ 
+    protected void ddlasc_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        objClaimApprovel.ASC = ddlasc.SelectedValue;
+        objClaimApprovel.ProductDivision = ddlDivision.SelectedValue;
+        objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+        // for Logg date filter
+        objClaimApprovel.DateFrom = txtFromDate.Text.Trim();
+        objClaimApprovel.DateTo = txtToDate.Text.Trim();
+
+        objClaimApprovel.BindCount(LblCount);
+
+        // for custom paging 8 nov 11 bhawesh
+        ViewState["RecoredCount"] = objClaimApprovel.strRecordCount;
+        bindpager();
+     
+      //  objClaimApprovel.BindProductDivision(ddlDivision); 8 nov added confirm
+      //  objClaimApprovel.ProductDivision = ddlDivision.SelectedValue; 8 nov added confirm
+        GvDetails.DataSource = null;
+        GvDetails.DataBind();
+		// end bhawesh
+    }
+  
+    // for custom paging 8 nov 11 bhawesh
+    protected void repager_ItemCommand(object source, RepeaterCommandEventArgs e)
+    {
+        LinkButton lb = e.Item.FindControl("lbtn") as LinkButton;
+        ViewState["LastRow"] = Convert.ToInt32(lb.Text) * GvDetails.PageSize;
+        ViewState["FirstRow"] = Convert.ToInt32(ViewState["LastRow"]) - 9;
+        binddata();
+    }
+	
+	//  8 nov 11 bhawesh
+    protected void ddlDivision_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        objClaimApprovel.ASC = ddlasc.SelectedValue;
+        objClaimApprovel.ProductDivision = ddlDivision.SelectedValue;
+        objClaimApprovel.CGuser = Membership.GetUser().UserName.ToString();
+        // for Logg date filter
+        objClaimApprovel.DateFrom = txtFromDate.Text.Trim();
+        objClaimApprovel.DateTo = txtToDate.Text.Trim();
+
+        objClaimApprovel.BindCount(LblCount);
+
+        // for custom paging 8 nv 11
+        ViewState["RecoredCount"] = objClaimApprovel.strRecordCount;
+        bindpager();
+
+        GvDetails.DataSource = null;
+        GvDetails.DataBind();
+
+    }
+
+    protected void btnCancel_Click(object sender, EventArgs e)
+    {
+        Button btn = sender as Button;
+        string s = btn.Attributes["activityid"];
+        //objSalesOrder.SIMS_Indent_No = hd1.Text;
+        //objSalesOrder.SAP_Sales_Order = hd2.Text;
+        //objSalesOrder.PO_Number = hd3.Text;
+        //objSalesOrder.CancelPendingOrder(txtreason.Text);
+        //BindGrid();
+        //BindCancelledGrid(gvcancelled, lblcancount);
+        //txtreason.Text = "";
+        //hd1.Text = "";
+        //hd2.Text = "";
+        //hd3.Text = "";
+    }
+
+    protected void gvActivity_RowDataBound(object sender, GridViewRowEventArgs e)
+    {
+        HtmlButton lbtnDel;
+        HiddenField Hdncheck;
+        if (e.Row.RowType == DataControlRowType.DataRow)
+        {
+            lbtnDel = e.Row.FindControl("LbtnDelete") as HtmlButton;
+            Hdncheck = e.Row.FindControl("Hdncheck") as HiddenField;
+            if (Hdncheck.Value == "1")
+               lbtnDel.Visible = false;
+        }
+    }
+}
+ 

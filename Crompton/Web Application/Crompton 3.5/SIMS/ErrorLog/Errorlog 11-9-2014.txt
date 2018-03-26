@@ -1,0 +1,4 @@
+9/11/2014 4:49:37 PM
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DefectiveSpareReceiptConfirmation.BindData(GridView GvChallanDetails) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\DefectiveSpareReceiptConfirmation.cs:line 125
+   at SIMS_Pages_DefectiveSpareReceiptConfirmationScreen.imgBtnConfirm_Click(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\DefectiveSpareReceiptConfirmationScreen.aspx.cs:line 108-->Cannot find table 0.

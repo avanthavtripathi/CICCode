@@ -1,0 +1,506 @@
+﻿Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\Debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Creating EventLog source InvoiceCalulation in log Application...
+Rolling back assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Restoring event log to previous state for source InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+Service InvoiceCalulation was successfully removed from the system.
+Attempt to stop service InvoiceCalulation.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+Removing EventLog source InvoiceCalulation.
+Warning: The source InvoiceCalulation is not registered on the local machine.
+Service InvoiceCalulation is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 
+Installing service InvoiceCalulation...
+Service InvoiceCalulation has been successfully installed.
+Creating EventLog source InvoiceCalulation in log Application...
+Committing assembly 'D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.InstallLog
+   assemblypath = D:\InvoiceCalulation\InvoiceCalulation\InvoiceCalulation\obj\debug\InvoiceCalulation.exe
+   logtoconsole = 

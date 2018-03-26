@@ -1,0 +1,18 @@
+
+
+11/13/2013 05:17:23 PM---------------
+Step 1: SaveConfirmedBill() Completed
+11/13/2013 05:17:24 PM---------------
+Step 2: SaveTextfile Completed
+11/13/2013 05:17:24 PM---------------
+11/3/2013 12:00:00 AM|BA|CG|11/13/2013 05:17:24 PM|INR|inkl78|Pym131113171719|WAAA0098|4645|WAAA|service|436403|1211121|JE|Y
+11/13/2013 05:17:27 PM---------------
+Step 3: CG Service Requested.
+11/13/2013 05:17:44 PM---------------
+Step 4: CG Service Records Affected (In Saving Output) : 5
+11/13/2013 05:17:44 PM---------------
+Step 5: Text File Generation Start.
+11/13/2013 05:20:11 PM---------------
+Step 5: Text File Generated.
+11/13/2013 05:20:11 PM---------------
+Step 7: Pym131113171719Processed Successfully.

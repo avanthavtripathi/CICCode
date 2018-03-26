@@ -1,0 +1,15 @@
+10/29/2014 5:42:08 PM
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 380
+   at SIMSSqlDataAccessLayer.ExecuteNonQuery(CommandType commandType, String commandText, SqlParameter[] commandParameters) in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SIMSSqlDataAccessLayer.cs:line 244
+   at SpareConsumeForComplaint.ChangeExistingObject() in d:\CIC_TEST_Backup\CIC_Test\App_Code\SIMS\SpareConsumeForComplaint.cs:line 441
+   at SIMS_Admin_SIMSSpareConsumption.SaveActivityCost() in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 673
+   at SIMS_Admin_SIMSSpareConsumption.imgbtnSave_Click(Object sender, EventArgs e) in d:\CIC_TEST_Backup\CIC_Test\SIMS\Pages\SIMSSpareConsumption.aspx.cs:line 1127-->@Complaint_No is not a parameter for procedure AscManDaysVerification.

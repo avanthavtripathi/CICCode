@@ -1,0 +1,10 @@
+10/10/2017 6:43:48 PM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at SIMS_Reports_simsinvoiceNew1.CarryForward(DataSet ds) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew1.aspx.cs:line 662
+   at SIMS_Reports_simsinvoiceNew1.calculate(String UserName) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew1.aspx.cs:line 642-->Column 'Repair and Replacement Local  Institutional' does not belong to table Table.
+10/10/2017 6:45:09 PM
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at SIMS_Reports_simsinvoiceNew1.CarryForward(DataSet ds) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew1.aspx.cs:line 662
+   at SIMS_Reports_simsinvoiceNew1.calculate(String UserName) in c:\Users\vtripathi\Desktop\Crompton 3.5\Crompton 3.5\SIMS\Reports\simsinvoiceNew1.aspx.cs:line 642-->Column 'Repair and Replacement Local  Institutional' does not belong to table Table.

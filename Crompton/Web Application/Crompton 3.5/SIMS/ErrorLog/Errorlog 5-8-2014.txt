@@ -1,0 +1,22 @@
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:39:27 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:41:01 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:41:01 AM
+ Error on SaveActivityCost  For Complaint: 1408009297/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:43:37 AM
+ Error on SaveActivityCost  For Complaint: 1408009296/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 
+8/5/2014 1:46:03 AM
+ Error on SaveActivityCost  For Complaint: 1408009296/01 --> ProcName: uspSpareConsumeForComplaint ErrorState :2  ErrorNumber :515   ErrorLine:1050  Error_Msg  Cannot insert the value NULL into column 'PreviousEntry', table 'SIMS.dbo.MISComplaint'; column does 

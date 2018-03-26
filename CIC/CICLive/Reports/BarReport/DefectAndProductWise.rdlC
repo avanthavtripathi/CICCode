@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="DSMTOReport">
+      <rd:DataSourceID>3dabc268-64df-44db-a8e6-64e87b5a8a3a</rd:DataSourceID>
+      <DataSourceReference>DSMTOReport</DataSourceReference>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>1in</RightMargin>
+  <LeftMargin>1in</LeftMargin>
+  <BottomMargin>1in</BottomMargin>
+  <rd:ReportID>1b5ffd6e-c3fb-4811-bd34-5048ea976ce4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DSMTOReport">
+      <Fields>
+        <Field Name="Defect_Category">
+          <DataField>Defect Category</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Product">
+          <DataField>Product</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="No__Of_Complaint">
+          <DataField>No. Of Complaint</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DSMTOReport</DataSourceName>
+        <CommandText>SELECT  Defect_category_Desc 'Defect Category' , Product_SR_NO 'Product' , count(*) 'No. Of Complaint'
+		FROM PPR_TRANS PPR
+	Inner join MstDefectCategory MDC on MDC.Defect_category_Code = PPR.def_cat_code
+		WHERE complaint_refno in 
+			(SELECT COMPLAINT_REFNO FROM MISDETAIL AS MIS WHERE BUSINESSLINE_SNO=1 
+				and Convert(varchar(10),MIS.loggeddate,101)  Between  convert(varchar(10),Convert(datetime,'12/1/2009'),101) 
+				and  convert(varchar(10),Convert(datetime,'12/7/2009'),101) ) 
+	GROUP BY Defect_category_Desc, Product_SR_NO 
+	having Product_SR_NO is not null and ltrim(Rtrim(Product_SR_NO)) &lt;&gt; '' 
+	ORDER BY Defect_category_Desc asc</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+    </DataSet>
+  </DataSets>
+  <Width>8.625in</Width>
+  <Body>
+    <ReportItems>
+      <Chart Name="chart1">
+        <Legend>
+          <Visible>true</Visible>
+          <Style>
+            <BorderStyle>
+              <Default>Solid</Default>
+            </BorderStyle>
+            <BorderWidth>
+              <Default>0.25pt</Default>
+            </BorderWidth>
+          </Style>
+          <Position>BottomCenter</Position>
+        </Legend>
+        <CategoryAxis>
+          <Axis>
+            <Title />
+            <MajorGridLines>
+              <Style>
+                <BorderStyle>
+                  <Default>Solid</Default>
+                </BorderStyle>
+              </Style>
+            </MajorGridLines>
+            <MinorGridLines>
+              <Style>
+                <BorderStyle>
+                  <Default>Solid</Default>
+                </BorderStyle>
+              </Style>
+            </MinorGridLines>
+            <MajorTickMarks>Outside</MajorTickMarks>
+            <Min>0</Min>
+            <Visible>true</Visible>
+          </Axis>
+        </CategoryAxis>
+        <DataSetName>DSMTOReport</DataSetName>
+        <PlotArea>
+          <Style>
+            <BackgroundColor>White</BackgroundColor>
+            <BackgroundGradientType>Center</BackgroundGradientType>
+          </Style>
+        </PlotArea>
+        <ThreeDProperties>
+          <Enabled>true</Enabled>
+          <Rotation>30</Rotation>
+          <Inclination>30</Inclination>
+          <Shading>Simple</Shading>
+          <WallThickness>50</WallThickness>
+        </ThreeDProperties>
+        <PointWidth>0</PointWidth>
+        <SeriesGroupings>
+          <SeriesGrouping>
+            <StaticSeries>
+              <StaticMember>
+                <Label>Defect Category</Label>
+              </StaticMember>
+              <StaticMember>
+                <Label>Product</Label>
+              </StaticMember>
+              <StaticMember>
+                <Label>Count</Label>
+              </StaticMember>
+            </StaticSeries>
+          </SeriesGrouping>
+        </SeriesGroupings>
+        <Subtype>Plain</Subtype>
+        <ValueAxis>
+          <Axis>
+            <Title />
+            <MajorGridLines>
+              <ShowGridLines>true</ShowGridLines>
+              <Style>
+                <BorderStyle>
+                  <Default>Solid</Default>
+                </BorderStyle>
+              </Style>
+            </MajorGridLines>
+            <MinorGridLines>
+              <Style>
+                <BorderStyle>
+                  <Default>Solid</Default>
+                </BorderStyle>
+              </Style>
+            </MinorGridLines>
+            <MajorTickMarks>Outside</MajorTickMarks>
+            <Min>0</Min>
+            <Margin>true</Margin>
+            <Visible>true</Visible>
+            <Scalar>true</Scalar>
+          </Axis>
+        </ValueAxis>
+        <Type>Pie</Type>
+        <Width>7.75in</Width>
+        <CategoryGroupings>
+          <CategoryGrouping>
+            <DynamicCategories>
+              <Grouping Name="chart1_CategoryGroup1">
+                <GroupExpressions>
+                  <GroupExpression>=Fields!Defect_Category.Value</GroupExpression>
+                </GroupExpressions>
+              </Grouping>
+              <Label>=Fields!Defect_Category.Value</Label>
+            </DynamicCategories>
+          </CategoryGrouping>
+          <CategoryGrouping>
+            <DynamicCategories>
+              <Grouping Name="chart1_CategoryGroup2">
+                <GroupExpressions>
+                  <GroupExpression>=Fields!Product.Value</GroupExpression>
+                </GroupExpressions>
+              </Grouping>
+              <Label>=Fields!Product.Value</Label>
+            </DynamicCategories>
+          </CategoryGrouping>
+        </CategoryGroupings>
+        <Palette>Pastel</Palette>
+        <ChartData>
+          <ChartSeries>
+            <DataPoints>
+              <DataPoint>
+                <DataValues>
+                  <DataValue>
+                    <Value>=(Fields!Defect_Category.Value)</Value>
+                  </DataValue>
+                </DataValues>
+                <DataLabel>
+                  <Value>=Fields!Defect_Category.Value</Value>
+                  <Visible>true</Visible>
+                </DataLabel>
+                <Marker>
+                  <Size>6pt</Size>
+                </Marker>
+              </DataPoint>
+            </DataPoints>
+          </ChartSeries>
+          <ChartSeries>
+            <DataPoints>
+              <DataPoint>
+                <DataValues>
+                  <DataValue>
+                    <Value>=(Fields!Product.Value)</Value>
+                  </DataValue>
+                </DataValues>
+                <DataLabel>
+                  <Value>=Fields!Product.Value</Value>
+                  <Visible>true</Visible>
+                </DataLabel>
+                <Marker>
+                  <Size>6pt</Size>
+                </Marker>
+              </DataPoint>
+            </DataPoints>
+          </ChartSeries>
+          <ChartSeries>
+            <DataPoints>
+              <DataPoint>
+                <DataValues>
+                  <DataValue>
+                    <Value>=(Fields!No__Of_Complaint.Value)</Value>
+                  </DataValue>
+                </DataValues>
+                <DataLabel>
+                  <Style />
+                  <Value>=Fields!No__Of_Complaint.Value</Value>
+                  <Visible>true</Visible>
+                </DataLabel>
+                <Style />
+                <Marker>
+                  <Size>6pt</Size>
+                </Marker>
+              </DataPoint>
+            </DataPoints>
+          </ChartSeries>
+        </ChartData>
+        <Style>
+          <BackgroundColor>White</BackgroundColor>
+        </Style>
+        <Title>
+          <Caption>ANALYSIS DEFECTWISE AND PRODUCTWISE</Caption>
+          <Style>
+            <FontSize>11pt</FontSize>
+            <FontWeight>700</FontWeight>
+          </Style>
+        </Title>
+        <Height>4.75in</Height>
+        <Left>0.25in</Left>
+      </Chart>
+    </ReportItems>
+    <Height>5in</Height>
+  </Body>
+  <Language>en-US</Language>
+  <TopMargin>1in</TopMargin>
+</Report>

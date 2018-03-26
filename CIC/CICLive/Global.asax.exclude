@@ -1,0 +1,64 @@
+﻿<%@ Application Language="C#" %>
+
+<script runat="server">
+
+    void Application_Start(object sender, EventArgs e) 
+    {
+        // Code that runs on application startup
+
+    }
+    
+    void Application_End(object sender, EventArgs e) 
+    {
+        //  Code that runs on application shutdown
+
+    }
+        
+    void Application_Error(object sender, EventArgs e) 
+    { 
+        // Code that runs when an unhandled error occurs
+
+    }
+
+    void Session_Start(object sender, EventArgs e) 
+    {
+        // Code that runs when a new session is started
+
+    }
+
+    void Session_End(object sender, EventArgs e) 
+    {
+        // Code that runs when a session ends. 
+        // Note: The Session_End event is raised only when the sessionstate mode
+        // is set to InProc in the Web.config file. If session mode is set to StateServer 
+        // or SQLServer, the event is not raised.
+        if (Session["LoginUserName"] != null)
+            LoggedInUser.removeUser(Session["LoginUserName"].ToString());
+
+    }
+
+    void Application_PostAuthenticateRequest(object sender, EventArgs e)
+    {
+        if (this.User.Identity.IsAuthenticated)
+        {
+            // get user 
+            MembershipUser user = Membership.GetUser();
+
+            // has their password expired? 
+            if (Context.User.IsInRole("SC"))
+            {
+                if (user.LastPasswordChangedDate.AddDays(90) < DateTime.Now && !Request.Path.EndsWith("ChangePassword.aspx")) // 90 days on Prod
+                {
+                    if (Context.User.Identity.Name != "cgit")
+                        Server.Transfer("~/Pages/ChangePassword.aspx?msg=expire");
+                }
+                if (user.LastPasswordChangedDate == user.CreationDate && !Request.Path.EndsWith("ChangePassword.aspx")) // First Lime SC Login
+                {
+                    if (Context.User.Identity.Name != "cgit")
+                        Server.Transfer("~/Pages/ChangePassword.aspx?msg=firstlogin");
+                }
+            }
+        }
+    }
+       
+</script>

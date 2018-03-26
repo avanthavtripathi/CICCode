@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CallStatus>
+  <Status>
+    <StatusOptions Name="Default" >
+      <Status Value="0" Text="Select" ></Status>
+      <!--<Status Value="23" Text="(Closure)Complaint Cancelled"></Status>-->
+      <!--<Status Value="103" Text="(Closure)Demo For Food Processing"></Status>-->
+      <Status Value="32" Text="(Closure)Equipment ready for delivery at ASC"></Status>
+      <Status Value="15" Text="(Closure)Resolved by Repair"></Status>
+      <!--change by VT-->
+      <!--<Status Value="14" Text="(Closure)Resolved by Equipment Replacement"></Status>-->
+
+      <Status Value="28" Text="(Closure)Resolved by repair with replacement of spare"></Status>
+      <Status Value="30" Text="(WIP)Equipment called at service center After FIR"></Status>
+      <Status Value="20" Text="(WIP)Equipment received at ASC After FIR"></Status>
+      <Status Value="26" Text="(WIP)Material Reissued"></Status>
+      <Status Value="25" Text="(WIP)Pending for Replacement"></Status>
+      <Status Value="22" Text="(WIP)Repair In Progress at Service Center"></Status>
+      <Status Value="7" Text="(WIP)Repair In Progress at Site"></Status>
+      <Status Value="29" Text="(WIP)Repair at Division"></Status>
+      <Status Value="100" Text="(WIP)Pending for Spares"></Status>
+      <Status Value="104" Text="(Closure Approval)Complaint Cancel Approval Request"></Status>
+      <!--Status Value="14" to 105-->
+      <!--<Status Value="105" Text="(Closure)Replacement of Product "></Status>-->
+
+      <Status Value="14" Text="(Closure)Replacement of Product "></Status>
+
+    </StatusOptions>
+
+  </Status>
+  <Status>
+    <StatusOptions  Name="SparePending" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="20" Text="(WIP)Equipment received at ASC After FIR"></Status>
+      <Status Value="26" Text="(WIP)Material Reissued"></Status>
+      <Status Value="25" Text="(WIP)Pending for Replacement"></Status>
+      <Status Value="22" Text="(WIP)Repair In Progress at Service Center"></Status>
+      <Status Value="7" Text="(WIP)Repair In Progress at Site"></Status>
+      <Status Value="29" Text="(WIP)Repair at Division"></Status>
+      <Status Value="100" Text="(WIP)Pending for Spares"></Status>
+    </StatusOptions>
+
+  </Status>
+  <Status>
+    <StatusOptions  Name="NotReadyToPay" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="101" Text="(Closure)CUSTOMER NOT READY TO PAY"></Status>
+      <Status Value="20" Text="(WIP)Equipment received at ASC After FIR"></Status>
+      <Status Value="26" Text="(WIP)Material Reissued"></Status>
+      <Status Value="25" Text="(WIP)Pending for Replacement"></Status>
+      <Status Value="22" Text="(WIP)Repair In Progress at Service Center"></Status>
+      <Status Value="7" Text="(WIP)Repair In Progress at Site"></Status>
+      <Status Value="29" Text="(WIP)Repair at Division"></Status>
+      <Status Value="100" Text="(WIP)Pending for Spares"></Status>
+    </StatusOptions>
+
+  </Status>
+  <Status>
+    <StatusOptions Name="WebForm" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="23" Text="(Closure)Complaint Cancelled"></Status>
+      <Status Value="32" Text="(Closure)Equipment ready for delivery at ASC"></Status>
+      <Status Value="15" Text="(Closure)Resolved by Repair"></Status>
+      <!--change by @VT-->
+      <!--<Status Value="14" Text="(Closure)Resolved by Equipment Replacement"></Status>-->
+
+
+      <Status Value="28" Text="(Closure)Resolved by repair with replacement of spare"></Status>
+      <Status Value="20" Text="(WIP)Equipment received at ASC After FIR"></Status>
+      <Status Value="25" Text="(WIP)Pending for Replacement"></Status>
+      <Status Value="22" Text="(WIP)Repair In Progress at Service Center"></Status>
+      <Status Value="7" Text="(WIP)Repair In Progress at Site"></Status>
+      <Status Value="29" Text="(WIP)Repair at Division"></Status>
+    </StatusOptions>
+    <StatusOptions Name="InitTakeAppointment" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="21" Text="(Initialization)Take Appointment"></Status>
+      <!--<Status Value="23" Text="(Closure)Complaint Cancelled"></Status>-->
+      <Status Value="24" Text="(Initialization)Wrongly Allocated to me"></Status>
+      <Status Value="33" Text="(Initialization)SRF-Material received at ASC"></Status>
+      <Status Value="104" Text="(Closure Approval)Complaint Cancel Approval Request"></Status>
+    </StatusOptions>
+    <StatusOptions Name="InitAllocateAction" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="3" Text="(Initialization)Allocate To Service Engineer"></Status>
+      <Status Value="21" Text="(Initialization)Take Appointment"></Status>
+      <!--<Status Value="23" Text="(Closure)Complaint Cancelled"></Status>-->
+      <Status Value="24" Text="(Initialization)Wrongly Allocated to me"></Status>
+      <Status Value="33" Text="(Initialization)SRF-Material received at ASC"></Status>
+      <Status Value="104" Text="(Closure Approval)Complaint Cancel Approval Request"></Status>
+    </StatusOptions>
+    <StatusOptions Name="InitOtherAction" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="4" Text="(Initialization)Re-Allocate To Service Engineer"></Status>
+      <Status Value="13" Text="(Initialization)Address Not Found"></Status>
+      <Status Value="17" Text="(Initialization)Power Outage at Customer site"></Status>
+      <Status Value="18" Text="(Initialization)Responsible person not available"></Status>
+      <Status Value="12" Text="(Initialization)Door Locked"></Status>
+      <Status Value="24" Text="(Initialization)Wrongly Allocated to me"></Status>
+      <Status Value="31" Text="(Initialization)Equipment received at ASC Before FIR"></Status>
+      <!--<Status Value="23" Text="(Closure)Complaint Cancelled"></Status>-->
+      <Status Value="103" Text="(Closure)Demo For Food Processing"></Status>
+      <!--<Status Value="104" Text="(Closure Approval)Complaint Cancel Approval Request"></Status>-->
+      <Status Value="14" Text="(Closure Approval)Complaint Cancel Approval Request"></Status>
+
+    </StatusOptions>
+  </Status>
+  <Status>
+    <StatusOptions  Name="ReasonReplacement" >
+      <Status Value="0" Text="Select" ></Status>
+      <Status Value="1" Text="Spare not available"></Status>
+      <Status Value="2" Text="Repeated Failure"></Status>
+      <Status Value="3" Text="Product not Repairable"></Status>
+      <Status Value="4" Text="Other reason as per Action details"></Status>  
+      <Status Value="5" Text="Repeated Complaints in Same Product"></Status>
+      <Status Value="6" Text="Replacement as per Policy"></Status>
+      <Status Value="7" Text="Transit Damage"></Status>
+    </StatusOptions>
+  </Status>
+</CallStatus>
+
+

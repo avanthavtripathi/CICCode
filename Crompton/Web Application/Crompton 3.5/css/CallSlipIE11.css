@@ -1,0 +1,13 @@
+﻿body {
+}
+.page {
+    width: 21cm!important;    
+    [if IE 11] min-height: 28.7cm!important; 
+    background: white;
+    position:relative;
+    overflow: visible !important;    
+    }
+    
+.page1 {
+max-height:28.7cm!important;
+}
